@@ -506,9 +506,11 @@
         
         // Build the table
         function buildTable(merData, mechanismDescriptions) {
-            const tbody = document.getElementById('tableBody');
-            let html = '';
-            const allMechanisms = getAllMechanisms(merData);
+            try {
+                const tbody = document.getElementById('tableBody');
+                let html = '';
+                const allMechanisms = getAllMechanisms(merData);
+                console.log('All mechanisms found:', allMechanisms);
             
             // Category groupings
             const categories = {
@@ -527,12 +529,14 @@
             
             // Group mechanisms by category
             for (const [category, mechanisms] of Object.entries(categories)) {
+                console.log(`Processing category: ${category}`);
                 let categoryRows = '';
                 let catTotals = {};
                 specialties.forEach(s => catTotals[s] = {grants: 0, pubs: 0});
                 
                 for (const mechanism of mechanisms) {
                     if (!allMechanisms.includes(mechanism)) continue;
+                    console.log(`  Processing mechanism: ${mechanism}`);
                     
                     let row = `<tr>
                         <td>${mechanism}</td>
@@ -542,9 +546,10 @@
                     let totalPubs = 0;
                     
                     for (const specialty of specialties) {
-                        const data = merData[specialty]?.[mechanism] || {grants: 0, publications: 0};
-                        const grants = data.grants;
-                        const pubs = data.publications;
+                        try {
+                            const data = merData[specialty]?.[mechanism] || {grants: 0, publications: 0};
+                            const grants = data.grants;
+                            const pubs = data.publications;
                         const efficiency = grants > 0 ? ((pubs / grants) * 100).toFixed(0) : '0';
                         
                         row += `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'grants')">${grants || '-'}</td>
@@ -555,6 +560,10 @@
                         catTotals[specialty].pubs += pubs;
                         totalGrants += grants;
                         totalPubs += pubs;
+                        } catch (innerError) {
+                            console.error(`Error processing ${specialty} - ${mechanism}:`, innerError);
+                            console.error('merData[specialty]:', merData[specialty]);
+                        }
                     }
                     
                     const totalEfficiency = totalGrants > 0 ? ((totalPubs / totalGrants) * 100).toFixed(0) : '0';
@@ -626,6 +635,10 @@
             
             html += totalRow;
             tbody.innerHTML = html;
+            } catch (error) {
+                console.error('Error in buildTable:', error);
+                throw error;
+            }
         }
         
         function toggleDetails(mechanism, specialty, type) {
