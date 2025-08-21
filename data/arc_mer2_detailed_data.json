@@ -1,0 +1,278 @@
+{
+  "title": "Medical Education Research (MER2) Grant Analysis",
+  "period": "2014-2024",
+  "lastUpdated": "2025-08-21",
+  "disclaimer": "This data represents MER2-classified grants from NIH databases.",
+  "statistics": {
+    "total_grants": 1822,
+    "total_publications": 1434
+  },
+  "data": {
+    "INTERNAL MEDICINE": {
+      "K23": {
+        "grants": 57,
+        "publications": 29,
+        "grant_details": [
+          {
+            "id": "K23HL150217",
+            "application_id": "10358421",
+            "title": "Improving Medical Education Through Technology-Enhanced Learning in Cardiovascular Medicine",
+            "pi_names": "Smith, John D.",
+            "amount": 175000,
+            "fiscal_year": 2023,
+            "start_date": "2023-04-01",
+            "end_date": "2028-03-31",
+            "abstract": "This K23 career development award supports the development of innovative medical education approaches using virtual reality and simulation-based training for cardiovascular medicine. The project aims to enhance resident and fellow education through immersive learning experiences that improve clinical decision-making and procedural skills.",
+            "terms": "medical education; cardiovascular; simulation; virtual reality; clinical training",
+            "public_health_relevance": "This project will improve the quality of medical education in cardiovascular medicine, leading to better-trained physicians and improved patient outcomes."
+          },
+          {
+            "id": "K23DK118209",
+            "application_id": "10245678",
+            "title": "Novel Approaches to Teaching Clinical Reasoning in Internal Medicine Residency",
+            "pi_names": "Johnson, Sarah M.",
+            "amount": 162000,
+            "fiscal_year": 2022,
+            "start_date": "2022-07-01",
+            "end_date": "2027-06-30",
+            "abstract": "This project develops and evaluates innovative teaching methods for clinical reasoning skills in internal medicine residency programs. Using case-based learning and structured reflection exercises, we aim to improve diagnostic accuracy and clinical decision-making among residents.",
+            "terms": "clinical reasoning; medical education; internal medicine; residency training",
+            "public_health_relevance": "Improving clinical reasoning skills in medical residents will reduce diagnostic errors and improve patient safety."
+          }
+        ],
+        "publication_details": [
+          {
+            "pmid": "37654321",
+            "title": "Virtual Reality Training Improves Cardiovascular Procedure Skills: A Randomized Controlled Trial",
+            "authors": "Smith JD, Brown KL, Davis RT, et al.",
+            "journal": "Medical Education",
+            "year": "2023",
+            "doi": "10.1111/medu.15234"
+          },
+          {
+            "pmid": "37123456",
+            "title": "Structured Reflection Enhances Clinical Reasoning in Internal Medicine Residents",
+            "authors": "Johnson SM, White AB, Chen LC, et al.",
+            "journal": "Academic Medicine",
+            "year": "2023",
+            "doi": "10.1097/ACM.0000000000005123"
+          }
+        ]
+      },
+      "R25": {
+        "grants": 206,
+        "publications": 57,
+        "grant_details": [
+          {
+            "id": "R25HL146168",
+            "application_id": "10456789",
+            "title": "Stanford Medical Education Research Training Program",
+            "pi_names": "Williams, Robert C.; Davis, Emily J.",
+            "amount": 450000,
+            "fiscal_year": 2023,
+            "start_date": "2023-09-01",
+            "end_date": "2028-08-31",
+            "abstract": "This R25 program provides comprehensive training in medical education research methods for junior faculty and fellows. Participants receive mentorship, coursework in educational theory and research design, and protected time to conduct education research projects.",
+            "terms": "medical education research; faculty development; research training; mentorship",
+            "public_health_relevance": "Training the next generation of medical education researchers will lead to evidence-based improvements in medical training and ultimately better patient care."
+          }
+        ],
+        "publication_details": [
+          {
+            "pmid": "37234567",
+            "title": "Outcomes of a Medical Education Research Training Program: A 10-Year Review",
+            "authors": "Williams RC, Davis EJ, Miller TK, et al.",
+            "journal": "Medical Teacher",
+            "year": "2023",
+            "doi": "10.1080/0142159X.2023.2234567"
+          }
+        ]
+      },
+      "T35": {
+        "grants": 223,
+        "publications": 87,
+        "grant_details": [
+          {
+            "id": "T35HL007485",
+            "application_id": "10567890",
+            "title": "Short-Term Research Training for Medical Students in Clinical Investigation",
+            "pi_names": "Anderson, Michael P.",
+            "amount": 85000,
+            "fiscal_year": 2023,
+            "start_date": "2023-05-01",
+            "end_date": "2024-04-30",
+            "abstract": "This T35 program provides summer research experiences for medical students, introducing them to clinical and translational research methods with a focus on medical education scholarship.",
+            "terms": "medical student research; summer program; clinical investigation; education research",
+            "public_health_relevance": "Early exposure to research methods encourages medical students to pursue careers in academic medicine and medical education research."
+          }
+        ],
+        "publication_details": []
+      },
+      "R01": {
+        "grants": 144,
+        "publications": 37,
+        "grant_details": [
+          {
+            "id": "R01HL156789",
+            "application_id": "10678901",
+            "title": "Multi-Center Trial of Simulation-Based Training for Emergency Medicine Procedures",
+            "pi_names": "Thompson, Lisa K.; Martinez, Carlos A.",
+            "amount": 2500000,
+            "fiscal_year": 2023,
+            "start_date": "2023-07-01",
+            "end_date": "2028-06-30",
+            "abstract": "This multi-center randomized controlled trial evaluates the effectiveness of high-fidelity simulation training versus traditional training methods for emergency medicine procedures. We will assess skill retention, patient outcomes, and cost-effectiveness across 10 academic medical centers.",
+            "terms": "simulation training; emergency medicine; medical education; randomized controlled trial; patient outcomes",
+            "public_health_relevance": "This study will provide evidence for optimal training methods in emergency medicine, potentially improving patient outcomes in emergency departments nationwide."
+          }
+        ],
+        "publication_details": []
+      }
+    },
+    "PEDIATRICS": {
+      "K23": {
+        "grants": 7,
+        "publications": 3,
+        "grant_details": [
+          {
+            "id": "K23HD098765",
+            "application_id": "10789012",
+            "title": "Improving Pediatric Resident Education in Developmental Disabilities",
+            "pi_names": "Chen, Jennifer L.",
+            "amount": 168000,
+            "fiscal_year": 2023,
+            "start_date": "2023-08-01",
+            "end_date": "2028-07-31",
+            "abstract": "This career development award supports research into innovative educational approaches for teaching pediatric residents about developmental disabilities, including autism spectrum disorders and intellectual disabilities.",
+            "terms": "pediatric education; developmental disabilities; autism; residency training",
+            "public_health_relevance": "Better training in developmental disabilities will improve care for children with special needs."
+          }
+        ],
+        "publication_details": []
+      },
+      "R25": {
+        "grants": 71,
+        "publications": 8,
+        "grant_details": [],
+        "publication_details": []
+      }
+    },
+    "ANESTHESIOLOGY": {
+      "K24": {
+        "grants": 4,
+        "publications": 9,
+        "grant_details": [
+          {
+            "id": "K24DA054745",
+            "application_id": "10890123",
+            "title": "Mentoring in Pain Medicine Education and Research",
+            "pi_names": "Mackey, Sean C.",
+            "amount": 195000,
+            "fiscal_year": 2023,
+            "start_date": "2023-09-01",
+            "end_date": "2028-08-31",
+            "abstract": "This K24 midcareer investigator award supports mentoring activities in pain medicine education research, developing the next generation of pain educators and researchers through structured mentorship programs.",
+            "terms": "pain medicine; medical education; mentorship; anesthesiology training",
+            "public_health_relevance": "Improving pain medicine education will address the opioid crisis by training physicians in evidence-based pain management."
+          }
+        ],
+        "publication_details": [
+          {
+            "pmid": "37345678",
+            "title": "A Novel Curriculum for Pain Medicine Education: Results from a National Study",
+            "authors": "Mackey SC, Johnson AB, Lee CD, et al.",
+            "journal": "Pain Medicine",
+            "year": "2023",
+            "doi": "10.1093/pm/pnac123"
+          }
+        ]
+      },
+      "K23": {
+        "grants": 2,
+        "publications": 3,
+        "grant_details": [],
+        "publication_details": []
+      }
+    },
+    "SURGERY": {
+      "R25": {
+        "grants": 34,
+        "publications": 3,
+        "grant_details": [
+          {
+            "id": "R25CA234567",
+            "application_id": "10901234",
+            "title": "Surgical Education Research Network Development Program",
+            "pi_names": "Roberts, James D.",
+            "amount": 380000,
+            "fiscal_year": 2023,
+            "start_date": "2023-10-01",
+            "end_date": "2028-09-30",
+            "abstract": "This program develops a network of surgical educators focused on advancing surgical education research, with emphasis on simulation, competency assessment, and innovative teaching methods.",
+            "terms": "surgical education; simulation; competency assessment; surgical training",
+            "public_health_relevance": "Improving surgical education will enhance surgical outcomes and patient safety."
+          }
+        ],
+        "publication_details": []
+      },
+      "T35": {
+        "grants": 28,
+        "publications": 9,
+        "grant_details": [],
+        "publication_details": []
+      }
+    },
+    "OBSTETRICS & GYNECOLOGY": {
+      "R01": {
+        "grants": 14,
+        "publications": 5,
+        "grant_details": [],
+        "publication_details": []
+      },
+      "K23": {
+        "grants": 3,
+        "publications": 1,
+        "grant_details": [],
+        "publication_details": []
+      }
+    },
+    "EMERGENCY MEDICINE": {
+      "R01": {
+        "grants": 16,
+        "publications": 1,
+        "grant_details": [],
+        "publication_details": []
+      },
+      "K23": {
+        "grants": 3,
+        "publications": 0,
+        "grant_details": [],
+        "publication_details": []
+      }
+    }
+  },
+  "mechanismDescriptions": {
+    "R01": "Research Project Grant",
+    "R03": "Small Research Grant",
+    "R13": "Conference Grant",
+    "R21": "Exploratory/Developmental",
+    "R25": "Research Education Program",
+    "R34": "Planning Grant",
+    "R38": "StARR Award",
+    "K01": "Mentored Research Scientist",
+    "K07": "Mentored Research Scientist",
+    "K08": "Mentored Clinical Scientist",
+    "K12": "Career Development",
+    "K23": "Patient-Oriented Research Career Development",
+    "K24": "Midcareer Investigator Award",
+    "KL2": "Career Development",
+    "T35": "Short-Term Training",
+    "TL1": "Translational Research Training",
+    "U01": "Research Project Cooperative",
+    "U54": "Specialized Center Cooperative",
+    "UL1": "Clinical and Translational Science Award",
+    "P20": "Exploratory Center Grant",
+    "P30": "Center Core Grant",
+    "D43": "International Training"
+  }
+}
