@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ARC Working Group IV - MER Grant Table</title>
+    <title>ARC Working Group IV - MER2 Grant Table</title>
     <style>
         * {
             margin: 0;
@@ -210,34 +210,57 @@
         tbody td.clickable {
             cursor: pointer;
             transition: all 0.2s ease;
+            text-decoration: underline;
+            text-decoration-color: #8B153833;
+            text-underline-offset: 2px;
         }
         
         tbody td.clickable:hover {
             color: #8B1538;
             font-weight: 600;
             background-color: #f8f9fa;
+            text-decoration-color: #8B1538;
+            transform: scale(1.05);
         }
         
         /* Expanded detail row */
         .detail-row {
             display: none;
-            background-color: #f8f9fa;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
         }
         
         .detail-row td {
-            padding: 20px;
+            padding: 20px 30px;
             text-align: left;
-            border-top: 2px solid #8B1538;
+            border-top: 3px solid #8B1538;
+            border-bottom: 2px solid #dee2e6;
         }
         
         .detail-content {
-            max-height: 300px;
+            max-height: 400px;
             overflow-y: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         
         .detail-content h4 {
+            color: #8B1538;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 10px;
+        }
+        
+        .detail-content p {
+            margin: 10px 0;
+            color: #495057;
+            line-height: 1.6;
+        }
+        
+        .detail-content strong {
             color: #2e1a47;
-            margin-bottom: 10px;
         }
         
         .detail-content ul {
@@ -247,6 +270,15 @@
         
         .detail-content li {
             margin-bottom: 8px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        .detail-content li:before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: #8B1538;
             padding: 8px;
             background: white;
             border-radius: 4px;
@@ -360,7 +392,7 @@
         <img src="aim-logo-white.png" alt="AIM Lab" class="header-logo" onerror="this.style.display='none'">
         <div class="header-content">
             <h1>ARC Working Group IV</h1>
-            <h2>NIH Medical Education Research (MER) Grants and Publications Online Table Viewer</h2>
+            <h2>NIH Medical Education Research (MER2) Grants and Publications Online Table Viewer</h2>
             <p style="font-size: 1.1em; margin-top: 10px;">Created by Larry Chu, MD</p>
             <p style="font-size: 0.9em; opacity: 0.8; margin-top: 5px;">Fiscal Years 2014-2024 Analysis</p>
         </div>
@@ -370,7 +402,7 @@
         <div class="stats-row">
             <div class="stat-card">
                 <div class="stat-value" id="totalGrants">-</div>
-                <div class="stat-label">Total MER Grants</div>
+                <div class="stat-label">Total MER2 Grants</div>
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="totalPubs">-</div>
@@ -388,7 +420,7 @@
         
         <div class="methodology-card">
             <h3>Methodology</h3>
-            <p>In response to reviewer feedback, we developed a grant-anchored pathway to assess productivity and ROI. This was not part of the original design because most medical education scholarship in anesthesiology is not tied to extramural grants, grant identification is challenging (e.g., K23 awards may indirectly support education projects), and not all funded projects yield education research publications. We identified Medical Education Research (MER) grants using NIH's project_terms field with 25 high-confidence education-related keywords across six specialties. Publications were retrieved from PubMed using grant numbers, enabling linkage of outputs to their funding sources and measurement of MER impact.</p>
+            <p>In response to reviewer feedback, we developed a grant-anchored pathway to assess productivity and ROI. This was not part of the original design because most medical education scholarship in anesthesiology is not tied to extramural grants, grant identification is challenging (e.g., K23 awards may indirectly support education projects), and not all funded projects yield education research publications. We identified Medical Education Research (MER2) grants using refined classification criteria based on NIH's project_terms field across six specialties. Publications were retrieved from PubMed using grant numbers, enabling linkage of outputs to their funding sources and measurement of MER impact.</p>
             <p style="margin-top: 20px; font-style: italic;">— Stanford AIM Lab Team<br>Alex Goodell, MD, Dara Rouholiman, BS, Larry Chu, MD</p>
         </div>
         
@@ -430,15 +462,37 @@
         // Load data from JSON file
         async function loadData() {
             try {
-                const response = await fetch('data/arc_mer_public_data.json');
+                // Try to load detailed data first, fall back to simple data
+                let response = await fetch('data/arc_mer2_detailed_data.json?v=' + Date.now());
+                if (!response.ok) {
+                    console.log('Detailed data not found, falling back to simple data');
+                    response = await fetch('data/arc_mer2_public_data.json?v=' + Date.now());
+                }
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const jsonData = await response.json();
                 
                 // Extract the MER data and mechanism descriptions
+                if (!jsonData || !jsonData.data) {
+                    throw new Error('Invalid data structure in JSON file');
+                }
+                
                 const merData = jsonData.data;
-                const mechanismDescriptions = jsonData.mechanismDescriptions;
+                const mechanismDescriptions = jsonData.mechanismDescriptions || {};
+                
+                // Store globally for detail views
+                window.lastMerData = merData;
+                window.lastMechanismDescriptions = mechanismDescriptions;
+                
+                console.log('Loaded data:', jsonData);
+                console.log('MER data specialties:', Object.keys(merData));
+                console.log('Mechanism descriptions available:', Object.keys(mechanismDescriptions).length);
+                
+                // Validate data structure
+                if (Object.keys(merData).length === 0) {
+                    throw new Error('No specialty data found in JSON');
+                }
                 
                 // Calculate statistics
                 calculateStatistics(merData);
@@ -456,7 +510,7 @@
                 document.getElementById('errorMessage').style.display = 'block';
                 document.getElementById('errorMessage').innerHTML = 
                     `Error loading data: ${error.message}<br>
-                     <small>Please ensure the data file is available at data/arc_mer_public_data.json</small>`;
+                     <small>Please ensure the data file is available at data/arc_mer2_public_data.json</small>`;
             }
         }
         
@@ -493,9 +547,11 @@
         
         // Build the table
         function buildTable(merData, mechanismDescriptions) {
-            const tbody = document.getElementById('tableBody');
-            let html = '';
-            const allMechanisms = getAllMechanisms(merData);
+            try {
+                const tbody = document.getElementById('tableBody');
+                let html = '';
+                const allMechanisms = getAllMechanisms(merData);
+                console.log('All mechanisms found:', allMechanisms);
             
             // Category groupings
             const categories = {
@@ -507,19 +563,21 @@
                 'Other': ['D43', 'DP2', 'DP3', 'DP5', 'G08', 'G11', 'G12', 'G13', 'S10']
             };
             
-            const specialties = ['ANESTHESIOLOGY', 'EMERGENCY MEDICINE', 'SURGERY', 'INTERNAL MEDICINE/MEDICINE', 'OBSTETRICS & GYNECOLOGY', 'PEDIATRICS'];
+            const specialties = ['ANESTHESIOLOGY', 'EMERGENCY MEDICINE', 'SURGERY', 'INTERNAL MEDICINE', 'OBSTETRICS & GYNECOLOGY', 'PEDIATRICS'];
             
             // Track category totals
             const categoryTotals = {};
             
             // Group mechanisms by category
             for (const [category, mechanisms] of Object.entries(categories)) {
+                console.log(`Processing category: ${category}`);
                 let categoryRows = '';
                 let catTotals = {};
                 specialties.forEach(s => catTotals[s] = {grants: 0, pubs: 0});
                 
                 for (const mechanism of mechanisms) {
                     if (!allMechanisms.includes(mechanism)) continue;
+                    console.log(`  Processing mechanism: ${mechanism}`);
                     
                     let row = `<tr>
                         <td>${mechanism}</td>
@@ -529,19 +587,30 @@
                     let totalPubs = 0;
                     
                     for (const specialty of specialties) {
-                        const data = merData[specialty]?.[mechanism] || {grants: 0, publications: 0};
-                        const grants = data.grants;
-                        const pubs = data.publications;
+                        try {
+                            const data = merData[specialty]?.[mechanism] || {grants: 0, publications: 0};
+                            const grants = data.grants;
+                            const pubs = data.publications;
                         const efficiency = grants > 0 ? ((pubs / grants) * 100).toFixed(0) : '0';
                         
-                        row += `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'grants')">${grants || '-'}</td>
-                                <td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'pubs')">${pubs || '-'}</td>
-                                <td>${grants > 0 ? efficiency + '%' : '-'}</td>`;
+                        // Only make cells clickable if they have data
+                        const grantCell = grants > 0 
+                            ? `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'grants', event)">${grants}</td>`
+                            : `<td>-</td>`;
+                        const pubCell = pubs > 0 
+                            ? `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'pubs', event)">${pubs}</td>`
+                            : `<td>-</td>`;
+                        
+                        row += grantCell + pubCell + `<td>${grants > 0 ? efficiency + '%' : '-'}</td>`;
                         
                         catTotals[specialty].grants += grants;
                         catTotals[specialty].pubs += pubs;
                         totalGrants += grants;
                         totalPubs += pubs;
+                        } catch (innerError) {
+                            console.error(`Error processing ${specialty} - ${mechanism}:`, innerError);
+                            console.error('merData[specialty]:', merData[specialty]);
+                        }
                     }
                     
                     const totalEfficiency = totalGrants > 0 ? ((totalPubs / totalGrants) * 100).toFixed(0) : '0';
@@ -613,25 +682,252 @@
             
             html += totalRow;
             tbody.innerHTML = html;
+            } catch (error) {
+                console.error('Error in buildTable:', error);
+                throw error;
+            }
         }
         
-        function toggleDetails(mechanism, specialty, type) {
-            // For now, show an alert with basic info
-            // In a full implementation, this would fetch and display detailed data
+        function toggleDetails(mechanism, specialty, type, event) {
+            try {
+                console.log('toggleDetails called:', mechanism, specialty, type);
+                
+                // Prevent event bubbling
+                if (event) {
+                    event.stopPropagation();
+                }
+                
+                // Create unique ID for the detail row
+                const detailRowId = `detail-${mechanism}-${specialty.replace(/[^A-Za-z]/g, '')}-${type}`;
+                let detailRow = document.getElementById(detailRowId);
+                
+                if (detailRow) {
+                    // Toggle existing detail row
+                    detailRow.style.display = detailRow.style.display === 'none' ? 'table-row' : 'none';
+                    return;
+                }
+                
+                // Find the clicked row
+                const clickedCell = event ? event.target : document.querySelector(`td.clickable`);
+                const clickedRow = clickedCell.closest('tr');
+                
+                // Create new detail row
+                detailRow = document.createElement('tr');
+                detailRow.id = detailRowId;
+                detailRow.className = 'detail-row';
+                detailRow.style.display = 'table-row';
+                
+                // Get the number of columns to span
+                const numColumns = clickedRow.cells.length;
+                
+                // Create detail cell that spans all columns
+                const detailCell = document.createElement('td');
+                detailCell.colSpan = numColumns;
+                detailCell.innerHTML = createDetailContent(mechanism, specialty, type, detailRowId);
+                
+                detailRow.appendChild(detailCell);
+                
+                // Insert the detail row after the clicked row
+                clickedRow.parentNode.insertBefore(detailRow, clickedRow.nextSibling);
+            } catch (error) {
+                console.error('Error in toggleDetails:', error);
+                alert('Error showing details: ' + error.message);
+            }
+        }
+        
+        function createDetailContent(mechanism, specialty, type, detailRowId) {
+            const merData = window.lastMerData; // Store data globally for access
+            const data = merData?.[specialty]?.[mechanism];
             
-            const messages = {
-                'grants': `Grant details for ${mechanism} in ${specialty}:\n\nThis would show:\n• Grant numbers\n• Principal investigators\n• Award amounts\n• Project titles\n• Start/end dates`,
-                'pubs': `Publication details for ${mechanism} grants in ${specialty}:\n\nThis would show:\n• Publication titles\n• Authors\n• Journal names\n• Publication dates\n• PubMed IDs\n• Citations`
-            };
+            if (!data) {
+                return `<div class="detail-content">
+                    <h4>No data available</h4>
+                </div>`;
+            }
             
-            alert(messages[type] || 'Details not available');
+            let content = '<div class="detail-content">';
+            
+            if (type === 'grants') {
+                const grantCount = data.grants || 0;
+                const grantDetails = data.grant_details || [];
+                
+                content += `
+                    <h4>${mechanism} Grants in ${specialty}</h4>
+                    <p><strong>Total Grants:</strong> ${grantCount}</p>
+                    <p><strong>Grant Type:</strong> ${window.lastMechanismDescriptions?.[mechanism] || 'N/A'}</p>
+                `;
+                
+                if (grantDetails.length > 0) {
+                    content += `<div style="margin-top: 20px;">`;
+                    
+                    grantDetails.forEach((grant, index) => {
+                        content += `
+                            <div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #8B1538; border-radius: 4px;">
+                                <h5 style="color: #8B1538; margin-bottom: 10px;">
+                                    ${index + 1}. ${grant.title || 'Grant ' + grant.id}
+                                </h5>
+                                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
+                                    <div><strong>Grant ID:</strong> ${grant.id || grant.application_id || 'N/A'}</div>
+                                    <div><strong>PI:</strong> ${grant.pi_names || 'N/A'}</div>
+                                    <div><strong>Amount:</strong> $${(grant.amount || 0).toLocaleString()}</div>
+                                    <div><strong>Year:</strong> ${grant.fiscal_year || 'N/A'}</div>
+                                </div>
+                                ${grant.start_date || grant.end_date ? `
+                                    <div style="margin-bottom: 10px;">
+                                        <strong>Period:</strong> ${grant.start_date || 'N/A'} to ${grant.end_date || 'N/A'}
+                                    </div>
+                                ` : ''}
+                                ${grant.terms ? `
+                                    <div style="margin-bottom: 10px;">
+                                        <strong>Topics:</strong> ${grant.terms}
+                                    </div>
+                                ` : ''}
+                                ${grant.abstract ? `
+                                    <details style="margin-top: 10px;">
+                                        <summary style="cursor: pointer; color: #8B1538; font-weight: 600;">
+                                            View Abstract
+                                        </summary>
+                                        <div style="margin-top: 10px; padding: 10px; background: white; border-radius: 4px; font-size: 0.9em; line-height: 1.6;">
+                                            ${grant.abstract}
+                                        </div>
+                                    </details>
+                                ` : ''}
+                                ${grant.public_health_relevance ? `
+                                    <details style="margin-top: 10px;">
+                                        <summary style="cursor: pointer; color: #8B1538; font-weight: 600;">
+                                            Public Health Relevance
+                                        </summary>
+                                        <div style="margin-top: 10px; padding: 10px; background: white; border-radius: 4px; font-size: 0.9em; line-height: 1.6;">
+                                            ${grant.public_health_relevance}
+                                        </div>
+                                    </details>
+                                ` : ''}
+                            </div>
+                        `;
+                    });
+                    
+                    if (grantCount > grantDetails.length) {
+                        content += `
+                            <p style="font-style: italic; color: #666; margin-top: 15px;">
+                                Showing ${grantDetails.length} of ${grantCount} grants. 
+                                ${grantCount - grantDetails.length} additional grants not displayed.
+                            </p>
+                        `;
+                    }
+                    
+                    content += `</div>`;
+                } else {
+                    content += `
+                        <div style="margin-top: 15px; padding: 15px; background: #f8f9fa; border-radius: 4px;">
+                            <p style="font-style: italic; color: #666;">
+                                Detailed grant information is being loaded. Please check back later.
+                            </p>
+                        </div>
+                    `;
+                }
+            } else if (type === 'pubs') {
+                const pubCount = data.publications || 0;
+                const pubDetails = data.publication_details || [];
+                const efficiency = data.grants > 0 ? (data.publications / data.grants).toFixed(2) : '0';
+                
+                content += `
+                    <h4>Publications from ${mechanism} Grants in ${specialty}</h4>
+                    <p><strong>Total Publications:</strong> ${pubCount}</p>
+                    <p><strong>Publications per Grant:</strong> ${efficiency}</p>
+                `;
+                
+                if (pubDetails.length > 0) {
+                    content += `<div style="margin-top: 20px;">`;
+                    
+                    pubDetails.forEach((pub, index) => {
+                        const pmidLink = pub.pmid ? `https://pubmed.ncbi.nlm.nih.gov/${pub.pmid}/` : '';
+                        const doiLink = pub.doi ? `https://doi.org/${pub.doi}` : '';
+                        
+                        content += `
+                            <div style="margin-bottom: 20px; padding: 15px; background: #f8f9fa; border-left: 4px solid #2e1a47; border-radius: 4px;">
+                                <h5 style="color: #2e1a47; margin-bottom: 10px;">
+                                    ${index + 1}. ${pub.title || 'Publication'}
+                                </h5>
+                                <div style="margin-bottom: 8px;">
+                                    <strong>Authors:</strong> ${pub.authors || 'N/A'}
+                                </div>
+                                <div style="margin-bottom: 8px;">
+                                    <strong>Journal:</strong> ${pub.journal || 'N/A'} 
+                                    ${pub.year ? `(${pub.year})` : ''}
+                                </div>
+                                <div style="margin-top: 10px;">
+                                    ${pmidLink ? `
+                                        <a href="${pmidLink}" target="_blank" 
+                                           style="display: inline-block; margin-right: 15px; padding: 5px 10px; 
+                                                  background: #8B1538; color: white; text-decoration: none; 
+                                                  border-radius: 4px; font-size: 0.9em;">
+                                            PubMed ID: ${pub.pmid}
+                                        </a>
+                                    ` : ''}
+                                    ${doiLink ? `
+                                        <a href="${doiLink}" target="_blank" 
+                                           style="display: inline-block; padding: 5px 10px; 
+                                                  background: #2e1a47; color: white; text-decoration: none; 
+                                                  border-radius: 4px; font-size: 0.9em;">
+                                            DOI: ${pub.doi}
+                                        </a>
+                                    ` : ''}
+                                </div>
+                            </div>
+                        `;
+                    });
+                    
+                    if (pubCount > pubDetails.length) {
+                        content += `
+                            <p style="font-style: italic; color: #666; margin-top: 15px;">
+                                Showing ${pubDetails.length} of ${pubCount} publications. 
+                                ${pubCount - pubDetails.length} additional publications not displayed.
+                            </p>
+                        `;
+                    }
+                    
+                    content += `</div>`;
+                } else {
+                    content += `
+                        <div style="margin-top: 15px; padding: 15px; background: #f8f9fa; border-radius: 4px;">
+                            <p style="font-style: italic; color: #666;">
+                                Detailed publication information is being loaded. Please check back later.
+                            </p>
+                        </div>
+                    `;
+                }
+            }
+            
+            content += `
+                <div style="margin-top: 20px; text-align: right;">
+                    <button onclick="document.getElementById('${detailRowId}').style.display='none'" 
+                            style="padding: 8px 20px; background: linear-gradient(135deg, #8B1538, #2e1a47); 
+                                   color: white; border: none; border-radius: 6px; cursor: pointer;
+                                   font-size: 14px; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+                                   transition: all 0.3s ease;"
+                            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'"
+                            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'">
+                        Close Details
+                    </button>
+                </div>
+            </div>`;
+            
+            return content;
         }
         
         // Make function available globally
         window.toggleDetails = toggleDetails;
         
+        // Test function
+        function testClick() {
+            alert('Click is working!');
+        }
+        
         // Load data when page loads
-        document.addEventListener('DOMContentLoaded', loadData);
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('Page loaded, calling loadData...');
+            loadData();
+        });
     </script>
 </body>
 </html>
