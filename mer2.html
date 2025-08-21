@@ -590,10 +590,10 @@
                         
                         // Only make cells clickable if they have data
                         const grantCell = grants > 0 
-                            ? `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'grants')">${grants}</td>`
+                            ? `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'grants', event)">${grants}</td>`
                             : `<td>-</td>`;
                         const pubCell = pubs > 0 
-                            ? `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'pubs')">${pubs}</td>`
+                            ? `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'pubs', event)">${pubs}</td>`
                             : `<td>-</td>`;
                         
                         row += grantCell + pubCell + `<td>${grants > 0 ? efficiency + '%' : '-'}</td>`;
@@ -683,10 +683,18 @@
             }
         }
         
-        function toggleDetails(mechanism, specialty, type) {
-            // Create unique ID for the detail row
-            const detailRowId = `detail-${mechanism}-${specialty.replace(/[^A-Za-z]/g, '')}-${type}`;
-            let detailRow = document.getElementById(detailRowId);
+        function toggleDetails(mechanism, specialty, type, event) {
+            try {
+                console.log('toggleDetails called:', mechanism, specialty, type);
+                
+                // Prevent event bubbling
+                if (event) {
+                    event.stopPropagation();
+                }
+                
+                // Create unique ID for the detail row
+                const detailRowId = `detail-${mechanism}-${specialty.replace(/[^A-Za-z]/g, '')}-${type}`;
+                let detailRow = document.getElementById(detailRowId);
             
             if (detailRow) {
                 // Toggle existing detail row
@@ -695,7 +703,7 @@
             }
             
             // Find the clicked row
-            const clickedCell = event.target;
+            const clickedCell = event ? event.target : document.querySelector(`td.clickable`);
             const clickedRow = clickedCell.closest('tr');
             
             // Create new detail row
@@ -716,6 +724,10 @@
             
             // Insert the detail row after the clicked row
             clickedRow.parentNode.insertBefore(detailRow, clickedRow.nextSibling);
+            } catch (error) {
+                console.error('Error in toggleDetails:', error);
+                alert('Error showing details: ' + error.message);
+            }
         }
         
         function createDetailContent(mechanism, specialty, type) {
