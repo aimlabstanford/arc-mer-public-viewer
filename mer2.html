@@ -430,7 +430,7 @@
         // Load data from JSON file
         async function loadData() {
             try {
-                const response = await fetch('data/arc_mer2_public_data.json');
+                const response = await fetch('data/arc_mer2_public_data.json?v=' + Date.now());
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
