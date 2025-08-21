@@ -658,10 +658,11 @@
             }
             
             // Add total row
-            let totalRow = '<tr class="total-row"><td>TOTAL</td>';
+            let totalRow = '<tr class="total-row"><td>TOTAL</td><td>All Mechanisms</td>';
             let grandTotalGrants = 0;
             let grandTotalPubs = 0;
             
+            // Calculate totals for each specialty column
             for (const specialty of specialties) {
                 let specGrants = 0;
                 let specPubs = 0;
@@ -681,6 +682,7 @@
                 grandTotalPubs += specPubs;
             }
             
+            // Add grand total column
             const grandEff = grandTotalGrants > 0 ? ((grandTotalPubs / grandTotalGrants) * 100).toFixed(0) : '0';
             totalRow += `<td>${grandTotalGrants}</td>
                         <td>${grandTotalPubs}</td>
