@@ -12,572 +12,625 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
             min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
         }
         
         .header {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 30px;
-            margin-bottom: 30px;
+            background: linear-gradient(135deg, #8B1538 0%, #2e1a47 100%);
             color: white;
+            padding: 30px 40px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+        
+        .header-logo {
+            height: 70px;
+            margin-right: 40px;
+            flex-shrink: 0;
+        }
+        
+        .header-content {
+            flex: 1;
             text-align: center;
+            padding: 0 40px;
         }
         
-        .logo {
-            height: 60px;
-            margin-bottom: 20px;
-        }
-        
-        h1 {
+        .header h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
         
-        .subtitle {
-            font-size: 1.2em;
+        .header h2 {
+            font-size: 1.3em;
+            font-weight: 300;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
             opacity: 0.9;
-            margin-bottom: 20px;
         }
         
-        .period-info {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-            margin-top: 20px;
-            flex-wrap: wrap;
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 30px 20px;
         }
         
-        .period-item {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 10px 20px;
-            border-radius: 8px;
-        }
-        
-        .card {
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.2);
-            overflow: hidden;
-        }
-        
-        .stats-grid {
+        .stats-row {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1px;
-            background: #e0e0e0;
-            margin-bottom: 30px;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 25px;
+            margin: -40px auto 30px;
+            max-width: 1200px;
+            position: relative;
         }
         
         .stat-card {
             background: white;
-            padding: 20px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
         }
         
         .stat-value {
-            font-size: 2em;
-            font-weight: bold;
-            color: #667eea;
-            margin-bottom: 5px;
+            font-size: 2.8em;
+            font-weight: 700;
+            background: linear-gradient(135deg, #8B1538, #2e1a47);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
         
         .stat-label {
             color: #666;
-            font-size: 0.9em;
+            margin-top: 12px;
+            font-size: 0.95em;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .methodology-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            border-left: 4px solid #8B1538;
+        }
+        
+        .methodology-card h3 {
+            color: #2e1a47;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+            font-weight: 600;
+        }
+        
+        .methodology-card p {
+            color: #495057;
+            line-height: 1.8;
+            margin-bottom: 15px;
+            font-size: 0.95em;
+        }
+        
+        .methodology-card p:last-child {
+            margin-bottom: 0;
         }
         
         .table-container {
-            padding: 20px;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             overflow-x: auto;
+        }
+        
+        .table-container h3 {
+            color: #2e1a47;
+            margin-bottom: 25px;
+            font-size: 1.6em;
+            border-bottom: 3px solid #8B1538;
+            padding-bottom: 10px;
         }
         
         table {
             width: 100%;
-            border-collapse: collapse;
+            border-collapse: separate;
+            border-spacing: 0;
+            font-size: 0.9em;
         }
         
-        th {
-            background: #667eea;
+        thead tr:first-child th {
+            background: linear-gradient(135deg, #8B1538 0%, #2e1a47 100%);
             color: white;
-            padding: 12px;
-            text-align: left;
+            padding: 14px 8px;
+            text-align: center;
             font-weight: 600;
+            font-size: 0.95em;
+            border-right: 1px solid rgba(255,255,255,0.2);
             position: sticky;
             top: 0;
             z-index: 10;
         }
         
-        td {
-            padding: 12px;
-            border-bottom: 1px solid #f0f0f0;
+        thead tr:first-child th:last-child {
+            border-right: none;
+        }
+        
+        /* Create vertical separator lines for specialty columns */
+        thead tr:first-child th:nth-child(6),
+        thead tr:first-child th:nth-child(9),
+        thead tr:first-child th:nth-child(12),
+        thead tr:first-child th:nth-child(15),
+        thead tr:first-child th:nth-child(18) {
+            border-left: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        thead tr:nth-child(2) th {
+            background: #f8f9fa;
+            color: #495057;
+            padding: 10px 6px;
+            text-align: center;
+            font-weight: 500;
+            font-size: 0.85em;
+            border-bottom: 2px solid #dee2e6;
+            border-right: 1px solid #e9ecef;
+            position: sticky;
+            top: 48px;
+            z-index: 9;
+        }
+        
+        /* Vertical separators for sub-headers */
+        thead tr:nth-child(2) th:nth-child(3n) {
+            border-right: 2px solid #dee2e6;
+        }
+        
+        tbody td {
+            padding: 10px 8px;
+            border-bottom: 1px solid #e9ecef;
+            border-right: 1px solid #f5f5f5;
+            text-align: center;
+            color: #352f36;
+        }
+        
+        /* Clickable cells for grants and publications */
+        tbody td.clickable {
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        
+        tbody td.clickable:hover {
+            color: #8B1538;
+            font-weight: 600;
+            background-color: #f8f9fa;
+        }
+        
+        /* Expanded detail row */
+        .detail-row {
+            display: none;
+            background-color: #f8f9fa;
+        }
+        
+        .detail-row td {
+            padding: 20px;
+            text-align: left;
+            border-top: 2px solid #8B1538;
+        }
+        
+        .detail-content {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .detail-content h4 {
+            color: #2e1a47;
+            margin-bottom: 10px;
+        }
+        
+        .detail-content ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .detail-content li {
+            margin-bottom: 8px;
+            padding: 8px;
+            background: white;
+            border-radius: 4px;
+            font-size: 0.85em;
+        }
+        
+        /* Vertical column separators - after each specialty's Eff % column */
+        tbody td:nth-child(5),
+        tbody td:nth-child(8),
+        tbody td:nth-child(11),
+        tbody td:nth-child(14),
+        tbody td:nth-child(17),
+        tbody td:nth-child(20) {
+            border-right: 2px solid #dee2e6;
+        }
+        
+        tbody td:first-child {
+            text-align: left;
+            font-weight: 500;
+            color: #2e1a47;
+        }
+        
+        tbody td:nth-child(2) {
+            text-align: left;
+            color: #6c757d;
+            font-size: 0.85em;
+        }
+        
+        /* Alternating row backgrounds */
+        tbody tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        tbody tr:nth-child(odd) {
+            background-color: #ffffff;
         }
         
         tbody tr:hover {
-            background: #f8f9fa;
+            background: linear-gradient(90deg, #e8f4ff 0%, #f0f8ff 50%, #e8f4ff 100%);
         }
         
-        .grants-cell, .pubs-cell {
+        .category-header {
+            background: linear-gradient(90deg, #dee2e6 0%, #e9ecef 100%);
+            color: #2e1a47;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-size: 0.9em;
+        }
+        
+        .category-header td:first-child {
+            font-weight: 700;
+        }
+        
+        .category-header td {
+            padding: 10px 8px;
+            border-bottom: 2px solid #8B1538;
+            border-top: 1px solid #8B1538;
             text-align: center;
-            cursor: pointer;
-            color: #667eea;
-            font-weight: 600;
-            text-decoration: underline;
-            transition: color 0.3s;
+            color: #352f36 !important;
+            font-size: 0.9em;
+            font-weight: normal;
         }
         
-        .grants-cell:hover, .pubs-cell:hover {
-            color: #764ba2;
+        .category-header td:first-child {
+            text-align: left;
+            padding-left: 15px;
+            font-weight: 700;
+            font-size: 0.9em;
         }
         
         .total-row {
-            background: #f8f9fa;
-            font-weight: bold;
+            background: linear-gradient(135deg, #8B1538 0%, #2e1a47 100%);
+            color: white;
+            font-weight: 700;
         }
         
-        .loader {
+        .total-row td {
+            padding: 14px 8px;
+            border: none;
+            font-size: 1.05em;
+            color: white !important;
+        }
+        
+        .loading {
             text-align: center;
-            padding: 40px;
-            color: white;
+            padding: 50px;
             font-size: 1.2em;
+            color: #666;
         }
         
         .error {
-            background: #ff6b6b;
-            color: white;
+            background: #fee;
+            color: #c00;
             padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
+            border-radius: 10px;
+            margin: 20px;
             text-align: center;
         }
         
-        /* Modal styles */
-        .modal {
-            display: none;
-            position: fixed;
-            z-index: 1000;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            overflow: auto;
-            background-color: rgba(0,0,0,0.5);
-            animation: fadeIn 0.3s;
-        }
-        
-        .modal-content {
-            background-color: #fefefe;
-            margin: 5% auto;
-            padding: 0;
-            border-radius: 12px;
-            width: 80%;
-            max-width: 800px;
-            max-height: 80vh;
-            display: flex;
-            flex-direction: column;
-            animation: slideIn 0.3s;
-        }
-        
-        .modal-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px;
-            border-radius: 12px 12px 0 0;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        
-        .modal-body {
-            padding: 20px;
-            overflow-y: auto;
-            flex: 1;
-        }
-        
-        .close {
-            color: white;
-            font-size: 28px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: transform 0.3s;
-        }
-        
-        .close:hover {
-            transform: scale(1.1);
-        }
-        
-        .detail-item {
-            padding: 10px;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .detail-item:last-child {
-            border-bottom: none;
-        }
-        
-        .detail-label {
-            font-weight: 600;
-            color: #667eea;
-            margin-bottom: 5px;
-        }
-        
-        .detail-value {
-            color: #333;
-        }
-        
-        @keyframes fadeIn {
-            from {opacity: 0;}
-            to {opacity: 1;}
-        }
-        
-        @keyframes slideIn {
-            from {
-                transform: translateY(-50px);
-                opacity: 0;
-            }
-            to {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
-        
-        /* Loading animation */
-        .spinner {
-            border: 3px solid rgba(255,255,255,0.3);
-            border-radius: 50%;
-            border-top: 3px solid white;
-            width: 40px;
-            height: 40px;
-            animation: spin 1s linear infinite;
-            margin: 20px auto;
-        }
-        
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        
-        /* Responsive design */
+        /* Responsive adjustments */
         @media (max-width: 768px) {
-            h1 {
-                font-size: 1.8em;
-            }
-            
-            .subtitle {
-                font-size: 1em;
-            }
-            
-            .stats-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-            
-            .modal-content {
-                width: 95%;
-                margin: 2% auto;
-            }
-            
-            .table-container {
-                padding: 10px;
-            }
-            
-            th, td {
-                padding: 8px;
-                font-size: 0.9em;
-            }
+            .header h1 { font-size: 1.8em; }
+            .stats-row { grid-template-columns: 1fr 1fr; }
+            .table-container { padding: 15px; }
+            table { font-size: 0.8em; }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <img src="aim-logo-white.png" alt="Stanford AIM Lab" class="logo" onerror="this.style.display='none'">
+    <div class="header">
+        <img src="aim-logo-white.png" alt="AIM Lab" class="header-logo" onerror="this.style.display='none'">
+        <div class="header-content">
             <h1>ARC Working Group IV</h1>
-            <div class="subtitle">Medical Education Research (MER2) Grant Analysis</div>
-            <div class="period-info">
-                <div class="period-item">📅 Period: 2014-2024</div>
-                <div class="period-item">🎯 MER2 Classification</div>
-                <div class="period-item">🔄 Last Updated: <span id="lastUpdated">Loading...</span></div>
-            </div>
-        </div>
-        
-        <div class="card">
-            <div class="stats-grid" id="statsGrid">
-                <div class="stat-card">
-                    <div class="spinner"></div>
-                    <div class="stat-label">Loading statistics...</div>
-                </div>
-            </div>
-            
-            <div class="table-container">
-                <div id="loadingMessage" class="loader">
-                    <div class="spinner"></div>
-                    <p>Loading MER2 grant data...</p>
-                </div>
-                <div id="errorMessage" class="error" style="display: none;"></div>
-                <table id="merTable" style="display: none;">
-                    <thead>
-                        <tr>
-                            <th>Specialty</th>
-                            <th>Grant Type</th>
-                            <th>Grants</th>
-                            <th>Publications</th>
-                        </tr>
-                    </thead>
-                    <tbody id="tableBody"></tbody>
-                </table>
-            </div>
+            <h2>NIH Medical Education Research (MER2) Grants and Publications Online Table Viewer</h2>
+            <p style="font-size: 1.1em; margin-top: 10px;">Created by Larry Chu, MD</p>
+            <p style="font-size: 0.9em; opacity: 0.8; margin-top: 5px;">Fiscal Years 2014-2024 Analysis</p>
         </div>
     </div>
     
-    <!-- Modal for details -->
-    <div id="detailModal" class="modal">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2 id="modalTitle">Details</h2>
-                <span class="close" onclick="closeModal()">&times;</span>
+    <div class="container">
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-value" id="totalGrants">-</div>
+                <div class="stat-label">Total MER2 Grants</div>
             </div>
-            <div class="modal-body" id="modalBody">
-                <!-- Details will be populated here -->
+            <div class="stat-card">
+                <div class="stat-value" id="totalPubs">-</div>
+                <div class="stat-label">Total Publications</div>
             </div>
+            <div class="stat-card">
+                <div class="stat-value" id="pubsPerGrant">-</div>
+                <div class="stat-label">Pubs per Grant</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="totalMechanisms">-</div>
+                <div class="stat-label">Mechanisms</div>
+            </div>
+        </div>
+        
+        <div class="methodology-card">
+            <h3>Methodology</h3>
+            <p>In response to reviewer feedback, we developed a grant-anchored pathway to assess productivity and ROI. This was not part of the original design because most medical education scholarship in anesthesiology is not tied to extramural grants, grant identification is challenging (e.g., K23 awards may indirectly support education projects), and not all funded projects yield education research publications. We identified Medical Education Research (MER2) grants using refined classification criteria based on NIH's project_terms field across six specialties. Publications were retrieved from PubMed using grant numbers, enabling linkage of outputs to their funding sources and measurement of MER impact.</p>
+            <p style="margin-top: 20px; font-style: italic;">— Stanford AIM Lab Team<br>Alex Goodell, MD, Dara Rouholiman, BS, Larry Chu, MD</p>
+        </div>
+        
+        <div class="table-container">
+            <h3>Table 1: NIH Grants and Publications by Funding Mechanism</h3>
+            <div id="loadingMessage" class="loading">Loading data...</div>
+            <div id="errorMessage" class="error" style="display: none;"></div>
+            <table id="dataTable" style="display: none;">
+                <thead>
+                    <tr>
+                        <th rowspan="2">Grant Mechanism</th>
+                        <th rowspan="2">Description</th>
+                        <th colspan="3">Anesthesiology</th>
+                        <th colspan="3">Emergency Medicine</th>
+                        <th colspan="3">Surgery</th>
+                        <th colspan="3">Internal Medicine</th>
+                        <th colspan="3">OB/GYN</th>
+                        <th colspan="3">Pediatrics</th>
+                        <th colspan="3">TOTAL</th>
+                    </tr>
+                    <tr>
+                        <th># Grants</th><th># Pubs</th><th>Eff %</th>
+                        <th># Grants</th><th># Pubs</th><th>Eff %</th>
+                        <th># Grants</th><th># Pubs</th><th>Eff %</th>
+                        <th># Grants</th><th># Pubs</th><th>Eff %</th>
+                        <th># Grants</th><th># Pubs</th><th>Eff %</th>
+                        <th># Grants</th><th># Pubs</th><th>Eff %</th>
+                        <th>Grants</th><th>Pubs</th><th>Eff %</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Data will be inserted here -->
+                </tbody>
+            </table>
         </div>
     </div>
     
     <script>
-        // Global data storage
-        let merData = null;
-        
         // Load data from JSON file
         async function loadData() {
             try {
                 const response = await fetch('data/arc_mer2_public_data.json');
                 if (!response.ok) {
-                    throw new Error(\`HTTP error! status: \${response.status}\`);
+                    throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const jsonData = await response.json();
-                merData = jsonData.data;
                 
-                // Update last updated date
-                document.getElementById('lastUpdated').textContent = jsonData.lastUpdated || new Date().toISOString().split('T')[0];
+                // Extract the MER data and mechanism descriptions
+                const merData = jsonData.data;
+                const mechanismDescriptions = jsonData.mechanismDescriptions;
                 
-                // Process and display data
-                displayStatistics();
-                populateTable();
+                // Calculate statistics
+                calculateStatistics(merData);
                 
-                // Hide loading, show table
+                // Build the table
+                buildTable(merData, mechanismDescriptions);
+                
+                // Hide loading message and show table
                 document.getElementById('loadingMessage').style.display = 'none';
-                document.getElementById('merTable').style.display = 'table';
+                document.getElementById('dataTable').style.display = 'table';
                 
             } catch (error) {
                 console.error('Error loading data:', error);
                 document.getElementById('loadingMessage').style.display = 'none';
                 document.getElementById('errorMessage').style.display = 'block';
-                document.getElementById('errorMessage').innerHTML = \`
-                    <h3>Error Loading Data</h3>
-                    <p>\${error.message}</p>
-                    <p>Please ensure the data file exists at: data/arc_mer2_public_data.json</p>
-                \`;
+                document.getElementById('errorMessage').innerHTML = 
+                    `Error loading data: ${error.message}<br>
+                     <small>Please ensure the data file is available at data/arc_mer_public_data.json</small>`;
             }
         }
         
-        function displayStatistics() {
-            if (!merData) return;
-            
+        // Calculate and display statistics
+        function calculateStatistics(merData) {
             let totalGrants = 0;
             let totalPubs = 0;
-            let specialtyCount = 0;
-            let grantTypes = new Set();
+            const allMechanisms = new Set();
             
-            for (const [specialty, mechanisms] of Object.entries(merData)) {
-                if (specialty !== 'placeholder_grants' && specialty !== 'placeholder_publications') {
-                    specialtyCount++;
-                    for (const [mechanism, data] of Object.entries(mechanisms)) {
-                        totalGrants += data.grants || 0;
-                        totalPubs += data.publications || 0;
-                        grantTypes.add(mechanism);
-                    }
+            for (const specialty of Object.values(merData)) {
+                for (const [mechanism, counts] of Object.entries(specialty)) {
+                    allMechanisms.add(mechanism);
+                    totalGrants += counts.grants;
+                    totalPubs += counts.publications;
                 }
             }
             
-            const statsHTML = \`
-                <div class="stat-card">
-                    <div class="stat-value">\${totalGrants.toLocaleString()}</div>
-                    <div class="stat-label">Total MER2 Grants</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">\${totalPubs.toLocaleString()}</div>
-                    <div class="stat-label">Total Publications</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">\${specialtyCount}</div>
-                    <div class="stat-label">Specialties</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">\${grantTypes.size}</div>
-                    <div class="stat-label">Grant Types</div>
-                </div>
-            \`;
-            
-            document.getElementById('statsGrid').innerHTML = statsHTML;
+            document.getElementById('totalGrants').textContent = totalGrants.toLocaleString();
+            document.getElementById('totalPubs').textContent = totalPubs.toLocaleString();
+            document.getElementById('pubsPerGrant').textContent = (totalPubs / totalGrants).toFixed(1);
+            document.getElementById('totalMechanisms').textContent = allMechanisms.size;
         }
         
-        function populateTable() {
-            if (!merData) return;
-            
+        // Get all unique mechanisms
+        function getAllMechanisms(merData) {
+            const mechanisms = new Set();
+            for (const specialty of Object.values(merData)) {
+                for (const mechanism of Object.keys(specialty)) {
+                    mechanisms.add(mechanism);
+                }
+            }
+            return Array.from(mechanisms).sort();
+        }
+        
+        // Build the table
+        function buildTable(merData, mechanismDescriptions) {
             const tbody = document.getElementById('tableBody');
-            tbody.innerHTML = '';
+            let html = '';
+            const allMechanisms = getAllMechanisms(merData);
             
+            // Category groupings
+            const categories = {
+                'Research Grants': ['R01', 'R03', 'R13', 'R15', 'R16', 'R18', 'R21', 'R24', 'R25', 'R33', 'R34', 'R35', 'R37', 'R38', 'R50', 'R56', 'R61', 'R00', 'RM1'],
+                'Career Development': ['K01', 'K02', 'K05', 'K07', 'K08', 'K12', 'K18', 'K22', 'K23', 'K24', 'K26', 'K43', 'K99', 'KL2'],
+                'Training': ['T15', 'T32', 'T35', 'TL1', 'F30', 'F31', 'F32'],
+                'Cooperative Agreements': ['U01', 'U10', 'U13', 'U19', 'U24', 'U2C', 'U34', 'U41', 'U54', 'UE5', 'UG1', 'UG3', 'UH2', 'UH3', 'UL1', 'UM1'],
+                'Centers': ['P01', 'P20', 'P30', 'P42', 'P50', 'P51', 'P60'],
+                'Other': ['D43', 'DP2', 'DP3', 'DP5', 'G08', 'G11', 'G12', 'G13', 'S10']
+            };
+            
+            const specialties = ['ANESTHESIOLOGY', 'EMERGENCY MEDICINE', 'SURGERY', 'INTERNAL MEDICINE/MEDICINE', 'OBSTETRICS & GYNECOLOGY', 'PEDIATRICS'];
+            
+            // Track category totals
+            const categoryTotals = {};
+            
+            // Group mechanisms by category
+            for (const [category, mechanisms] of Object.entries(categories)) {
+                let categoryRows = '';
+                let catTotals = {};
+                specialties.forEach(s => catTotals[s] = {grants: 0, pubs: 0});
+                
+                for (const mechanism of mechanisms) {
+                    if (!allMechanisms.includes(mechanism)) continue;
+                    
+                    let row = `<tr>
+                        <td>${mechanism}</td>
+                        <td>${mechanismDescriptions[mechanism] || 'N/A'}</td>`;
+                    
+                    let totalGrants = 0;
+                    let totalPubs = 0;
+                    
+                    for (const specialty of specialties) {
+                        const data = merData[specialty]?.[mechanism] || {grants: 0, publications: 0};
+                        const grants = data.grants;
+                        const pubs = data.publications;
+                        const efficiency = grants > 0 ? ((pubs / grants) * 100).toFixed(0) : '0';
+                        
+                        row += `<td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'grants')">${grants || '-'}</td>
+                                <td class="clickable" onclick="toggleDetails('${mechanism}', '${specialty}', 'pubs')">${pubs || '-'}</td>
+                                <td>${grants > 0 ? efficiency + '%' : '-'}</td>`;
+                        
+                        catTotals[specialty].grants += grants;
+                        catTotals[specialty].pubs += pubs;
+                        totalGrants += grants;
+                        totalPubs += pubs;
+                    }
+                    
+                    const totalEfficiency = totalGrants > 0 ? ((totalPubs / totalGrants) * 100).toFixed(0) : '0';
+                    row += `<td><strong>${totalGrants}</strong></td>
+                            <td><strong>${totalPubs}</strong></td>
+                            <td><strong>${totalGrants > 0 ? totalEfficiency + '%' : '-'}</strong></td>`;
+                    row += '</tr>';
+                    
+                    categoryRows += row;
+                }
+                
+                // Add category header and rows if there's data
+                if (categoryRows) {
+                    // Category header
+                    let catTotal = 0;
+                    let catPubTotal = 0;
+                    let headerRow = `<tr class="category-header">
+                        <td colspan="2">${category.toUpperCase()}</td>`;
+                    
+                    for (const specialty of specialties) {
+                        const eff = catTotals[specialty].grants > 0 ? 
+                            ((catTotals[specialty].pubs / catTotals[specialty].grants) * 100).toFixed(0) : '0';
+                        headerRow += `<td>${catTotals[specialty].grants}</td>
+                                     <td>${catTotals[specialty].pubs}</td>
+                                     <td>${catTotals[specialty].grants > 0 ? eff + '%' : '-'}</td>`;
+                        catTotal += catTotals[specialty].grants;
+                        catPubTotal += catTotals[specialty].pubs;
+                    }
+                    
+                    const catEff = catTotal > 0 ? ((catPubTotal / catTotal) * 100).toFixed(0) : '0';
+                    headerRow += `<td>${catTotal}</td>
+                                 <td>${catPubTotal}</td>
+                                 <td>${catTotal > 0 ? catEff + '%' : '-'}</td>`;
+                    headerRow += '</tr>';
+                    
+                    html += headerRow + categoryRows;
+                    categoryTotals[category] = {grants: catTotal, pubs: catPubTotal};
+                }
+            }
+            
+            // Add total row
+            let totalRow = '<tr class="total-row"><td colspan="2">GRAND TOTAL</td>';
             let grandTotalGrants = 0;
             let grandTotalPubs = 0;
             
-            // Sort specialties alphabetically
-            const sortedSpecialties = Object.keys(merData)
-                .filter(s => s !== 'placeholder_grants' && s !== 'placeholder_publications')
-                .sort();
-            
-            for (const specialty of sortedSpecialties) {
-                const mechanisms = merData[specialty];
-                let specialtyTotalGrants = 0;
-                let specialtyTotalPubs = 0;
+            for (const specialty of specialties) {
+                let specGrants = 0;
+                let specPubs = 0;
                 
-                // Sort mechanisms alphabetically
-                const sortedMechanisms = Object.keys(mechanisms).sort();
-                
-                for (const mechanism of sortedMechanisms) {
-                    const data = mechanisms[mechanism];
-                    const grants = data.grants || 0;
-                    const pubs = data.publications || 0;
-                    
-                    specialtyTotalGrants += grants;
-                    specialtyTotalPubs += pubs;
-                    
-                    const row = document.createElement('tr');
-                    row.innerHTML = \`
-                        <td>\${formatSpecialtyName(specialty)}</td>
-                        <td>\${mechanism}</td>
-                        <td class="grants-cell" onclick="showGrantDetails('\${specialty}', '\${mechanism}')">\${grants}</td>
-                        <td class="pubs-cell" onclick="showPublicationDetails('\${specialty}', '\${mechanism}')">\${pubs}</td>
-                    \`;
-                    tbody.appendChild(row);
+                for (const mechanism of allMechanisms) {
+                    const data = merData[specialty]?.[mechanism] || {grants: 0, publications: 0};
+                    specGrants += data.grants;
+                    specPubs += data.publications;
                 }
                 
-                // Add specialty total row
-                const totalRow = document.createElement('tr');
-                totalRow.className = 'total-row';
-                totalRow.innerHTML = \`
-                    <td colspan="2">\${formatSpecialtyName(specialty)} Total</td>
-                    <td>\${specialtyTotalGrants}</td>
-                    <td>\${specialtyTotalPubs}</td>
-                \`;
-                tbody.appendChild(totalRow);
+                const specEff = specGrants > 0 ? ((specPubs / specGrants) * 100).toFixed(0) : '0';
+                totalRow += `<td>${specGrants}</td>
+                            <td>${specPubs}</td>
+                            <td>${specGrants > 0 ? specEff + '%' : '-'}</td>`;
                 
-                grandTotalGrants += specialtyTotalGrants;
-                grandTotalPubs += specialtyTotalPubs;
+                grandTotalGrants += specGrants;
+                grandTotalPubs += specPubs;
             }
             
-            // Add grand total row
-            const grandTotalRow = document.createElement('tr');
-            grandTotalRow.className = 'total-row';
-            grandTotalRow.style.fontWeight = 'bold';
-            grandTotalRow.style.background = '#e8eaf6';
-            grandTotalRow.innerHTML = \`
-                <td colspan="2">GRAND TOTAL</td>
-                <td>\${grandTotalGrants}</td>
-                <td>\${grandTotalPubs}</td>
-            \`;
-            tbody.appendChild(grandTotalRow);
+            const grandEff = grandTotalGrants > 0 ? ((grandTotalPubs / grandTotalGrants) * 100).toFixed(0) : '0';
+            totalRow += `<td>${grandTotalGrants}</td>
+                        <td>${grandTotalPubs}</td>
+                        <td>${grandEff}%</td></tr>`;
+            
+            html += totalRow;
+            tbody.innerHTML = html;
         }
         
-        function formatSpecialtyName(specialty) {
-            // Format specialty names for display
-            const nameMap = {
-                'ANESTHESIOLOGY': 'Anesthesiology',
-                'EMERGENCY MEDICINE': 'Emergency Medicine',
-                'INTERNAL MEDICINE': 'Internal Medicine',
-                'OBSTETRICS & GYNECOLOGY': 'Obstetrics & Gynecology',
-                'PEDIATRICS': 'Pediatrics',
-                'SURGERY': 'Surgery'
+        function toggleDetails(mechanism, specialty, type) {
+            // For now, show an alert with basic info
+            // In a full implementation, this would fetch and display detailed data
+            
+            const messages = {
+                'grants': `Grant details for ${mechanism} in ${specialty}:\n\nThis would show:\n• Grant numbers\n• Principal investigators\n• Award amounts\n• Project titles\n• Start/end dates`,
+                'pubs': `Publication details for ${mechanism} grants in ${specialty}:\n\nThis would show:\n• Publication titles\n• Authors\n• Journal names\n• Publication dates\n• PubMed IDs\n• Citations`
             };
-            return nameMap[specialty] || specialty;
+            
+            alert(messages[type] || 'Details not available');
         }
         
-        function showGrantDetails(specialty, mechanism) {
-            const data = merData[specialty][mechanism];
-            const grants = data.grants || 0;
-            
-            if (grants === 0) {
-                alert('No grants to display for this category.');
-                return;
-            }
-            
-            const modal = document.getElementById('detailModal');
-            const modalTitle = document.getElementById('modalTitle');
-            const modalBody = document.getElementById('modalBody');
-            
-            modalTitle.textContent = \`\${formatSpecialtyName(specialty)} - \${mechanism} Grants\`;
-            
-            // Create placeholder content since we don't have detailed grant data
-            modalBody.innerHTML = \`
-                <div class="detail-item">
-                    <div class="detail-value">
-                        \${grants} \${mechanism} grant(s) in \${formatSpecialtyName(specialty)}<br><br>
-                        <em>Detailed grant information would be displayed here with individual grant titles, PIs, years, and amounts.</em>
-                    </div>
-                </div>
-            \`;
-            
-            modal.style.display = 'block';
-        }
+        // Make function available globally
+        window.toggleDetails = toggleDetails;
         
-        function showPublicationDetails(specialty, mechanism) {
-            const data = merData[specialty][mechanism];
-            const pubs = data.publications || 0;
-            
-            if (pubs === 0) {
-                alert('No publications to display for this category.');
-                return;
-            }
-            
-            const modal = document.getElementById('detailModal');
-            const modalTitle = document.getElementById('modalTitle');
-            const modalBody = document.getElementById('modalBody');
-            
-            modalTitle.textContent = \`\${formatSpecialtyName(specialty)} - \${mechanism} Publications\`;
-            
-            modalBody.innerHTML = \`
-                <div class="detail-item">
-                    <div class="detail-value">
-                        \${pubs} publication(s) linked to \${mechanism} grants in \${formatSpecialtyName(specialty)}<br><br>
-                        <em>Detailed publication information would be displayed here with titles, authors, journals, and PubMed IDs.</em>
-                    </div>
-                </div>
-            \`;
-            
-            modal.style.display = 'block';
-        }
-        
-        function closeModal() {
-            document.getElementById('detailModal').style.display = 'none';
-        }
-        
-        // Close modal when clicking outside of it
-        window.onclick = function(event) {
-            const modal = document.getElementById('detailModal');
-            if (event.target == modal) {
-                modal.style.display = 'none';
-            }
-        }
-        
-        // Load data on page load
+        // Load data when page loads
         document.addEventListener('DOMContentLoaded', loadData);
     </script>
 </body>
