@@ -895,14 +895,7 @@
                         `;
                     });
                     
-                    if (grantCount > grantDetails.length) {
-                        content += `
-                            <p style="font-style: italic; color: #666; margin-top: 15px;">
-                                Showing ${grantDetails.length} of ${grantCount} grants. 
-                                ${grantCount - grantDetails.length} additional grants not displayed.
-                            </p>
-                        `;
-                    }
+                    // All grants are now included in the details
                     
                     content += `</div>`;
                 } else {
@@ -979,14 +972,7 @@
                         `;
                     });
                     
-                    if (pubCount > pubDetails.length) {
-                        content += `
-                            <p style="font-style: italic; color: #666; margin-top: 15px;">
-                                Showing ${pubDetails.length} of ${pubCount} publications. 
-                                ${pubCount - pubDetails.length} additional publications not displayed.
-                            </p>
-                        `;
-                    }
+                    // All publications are now included in the details
                     
                     content += `</div>`;
                 } else {
