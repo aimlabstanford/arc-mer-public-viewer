@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test JSON</title></head>
+<body>
+<h1>Testing MER2 JSON</h1>
+<pre id="output"></pre>
+<script>
+fetch('data/arc_mer2_public_data.json')
+  .then(r => r.json())
+  .then(data => {
+    const output = document.getElementById('output');
+    output.textContent = 'Loaded successfully!\n';
+    output.textContent += 'Specialties: ' + Object.keys(data.data).join(', ') + '\n';
+    output.textContent += 'Total grants: ' + data.statistics.total_grants + '\n';
+    output.textContent += 'Has mechanismDescriptions: ' + (!!data.mechanismDescriptions) + '\n';
+    
+    // Test accessing data
+    const testSpecialty = 'INTERNAL MEDICINE';
+    const testMechanism = 'R01';
+    
+    if (data.data[testSpecialty]) {
+      output.textContent += `\n${testSpecialty} exists: YES\n`;
+      if (data.data[testSpecialty][testMechanism]) {
+        output.textContent += `${testMechanism} in ${testSpecialty}: ` + 
+          JSON.stringify(data.data[testSpecialty][testMechanism]) + '\n';
+      }
+    }
+  })
+  .catch(err => {
+    document.getElementById('output').textContent = 'ERROR: ' + err.message;
+  });
+</script>
+</body>
+</html>
