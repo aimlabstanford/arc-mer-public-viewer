@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARC Working Group IV - MER2 Grant Table</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 30px;
+            color: white;
+            text-align: center;
+        }
+        
+        .logo {
+            height: 60px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        
+        .period-info {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .period-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1px;
+            background: #e0e0e0;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .table-container {
+            padding: 20px;
+            overflow-x: auto;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        tbody tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .grants-cell, .pubs-cell {
+            text-align: center;
+            cursor: pointer;
+            color: #667eea;
+            font-weight: 600;
+            text-decoration: underline;
+            transition: color 0.3s;
+        }
+        
+        .grants-cell:hover, .pubs-cell:hover {
+            color: #764ba2;
+        }
+        
+        .total-row {
+            background: #f8f9fa;
+            font-weight: bold;
+        }
+        
+        .loader {
+            text-align: center;
+            padding: 40px;
+            color: white;
+            font-size: 1.2em;
+        }
+        
+        .error {
+            background: #ff6b6b;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.5);
+            animation: fadeIn 0.3s;
+        }
+        
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto;
+            padding: 0;
+            border-radius: 12px;
+            width: 80%;
+            max-width: 800px;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            animation: slideIn 0.3s;
+        }
+        
+        .modal-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px 12px 0 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .modal-body {
+            padding: 20px;
+            overflow-y: auto;
+            flex: 1;
+        }
+        
+        .close {
+            color: white;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .close:hover {
+            transform: scale(1.1);
+        }
+        
+        .detail-item {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .detail-item:last-child {
+            border-bottom: none;
+        }
+        
+        .detail-label {
+            font-weight: 600;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        
+        .detail-value {
+            color: #333;
+        }
+        
+        @keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        
+        /* Loading animation */
+        .spinner {
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top: 3px solid white;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Responsive design */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+            
+            .subtitle {
+                font-size: 1em;
+            }
+            
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .modal-content {
+                width: 95%;
+                margin: 2% auto;
+            }
+            
+            .table-container {
+                padding: 10px;
+            }
+            
+            th, td {
+                padding: 8px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="aim-logo-white.png" alt="Stanford AIM Lab" class="logo" onerror="this.style.display='none'">
+            <h1>ARC Working Group IV</h1>
+            <div class="subtitle">Medical Education Research (MER2) Grant Analysis</div>
+            <div class="period-info">
+                <div class="period-item">📅 Period: 2014-2024</div>
+                <div class="period-item">🎯 MER2 Classification</div>
+                <div class="period-item">🔄 Last Updated: <span id="lastUpdated">Loading...</span></div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="stats-grid" id="statsGrid">
+                <div class="stat-card">
+                    <div class="spinner"></div>
+                    <div class="stat-label">Loading statistics...</div>
+                </div>
+            </div>
+            
+            <div class="table-container">
+                <div id="loadingMessage" class="loader">
+                    <div class="spinner"></div>
+                    <p>Loading MER2 grant data...</p>
+                </div>
+                <div id="errorMessage" class="error" style="display: none;"></div>
+                <table id="merTable" style="display: none;">
+                    <thead>
+                        <tr>
+                            <th>Specialty</th>
+                            <th>Grant Type</th>
+                            <th>Grants</th>
+                            <th>Publications</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal for details -->
+    <div id="detailModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">Details</h2>
+                <span class="close" onclick="closeModal()">&times;</span>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Details will be populated here -->
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Global data storage
+        let merData = null;
+        
+        // Load data from JSON file
+        async function loadData() {
+            try {
+                const response = await fetch('data/arc_mer2_public_data.json');
+                if (!response.ok) {
+                    throw new Error(\`HTTP error! status: \${response.status}\`);
+                }
+                const jsonData = await response.json();
+                merData = jsonData.data;
+                
+                // Update last updated date
+                document.getElementById('lastUpdated').textContent = jsonData.lastUpdated || new Date().toISOString().split('T')[0];
+                
+                // Process and display data
+                displayStatistics();
+                populateTable();
+                
+                // Hide loading, show table
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('merTable').style.display = 'table';
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('errorMessage').style.display = 'block';
+                document.getElementById('errorMessage').innerHTML = \`
+                    <h3>Error Loading Data</h3>
+                    <p>\${error.message}</p>
+                    <p>Please ensure the data file exists at: data/arc_mer2_public_data.json</p>
+                \`;
+            }
+        }
+        
+        function displayStatistics() {
+            if (!merData) return;
+            
+            let totalGrants = 0;
+            let totalPubs = 0;
+            let specialtyCount = 0;
+            let grantTypes = new Set();
+            
+            for (const [specialty, mechanisms] of Object.entries(merData)) {
+                if (specialty !== 'placeholder_grants' && specialty !== 'placeholder_publications') {
+                    specialtyCount++;
+                    for (const [mechanism, data] of Object.entries(mechanisms)) {
+                        totalGrants += data.grants || 0;
+                        totalPubs += data.publications || 0;
+                        grantTypes.add(mechanism);
+                    }
+                }
+            }
+            
+            const statsHTML = \`
+                <div class="stat-card">
+                    <div class="stat-value">\${totalGrants.toLocaleString()}</div>
+                    <div class="stat-label">Total MER2 Grants</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">\${totalPubs.toLocaleString()}</div>
+                    <div class="stat-label">Total Publications</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">\${specialtyCount}</div>
+                    <div class="stat-label">Specialties</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">\${grantTypes.size}</div>
+                    <div class="stat-label">Grant Types</div>
+                </div>
+            \`;
+            
+            document.getElementById('statsGrid').innerHTML = statsHTML;
+        }
+        
+        function populateTable() {
+            if (!merData) return;
+            
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            
+            let grandTotalGrants = 0;
+            let grandTotalPubs = 0;
+            
+            // Sort specialties alphabetically
+            const sortedSpecialties = Object.keys(merData)
+                .filter(s => s !== 'placeholder_grants' && s !== 'placeholder_publications')
+                .sort();
+            
+            for (const specialty of sortedSpecialties) {
+                const mechanisms = merData[specialty];
+                let specialtyTotalGrants = 0;
+                let specialtyTotalPubs = 0;
+                
+                // Sort mechanisms alphabetically
+                const sortedMechanisms = Object.keys(mechanisms).sort();
+                
+                for (const mechanism of sortedMechanisms) {
+                    const data = mechanisms[mechanism];
+                    const grants = data.grants || 0;
+                    const pubs = data.publications || 0;
+                    
+                    specialtyTotalGrants += grants;
+                    specialtyTotalPubs += pubs;
+                    
+                    const row = document.createElement('tr');
+                    row.innerHTML = \`
+                        <td>\${formatSpecialtyName(specialty)}</td>
+                        <td>\${mechanism}</td>
+                        <td class="grants-cell" onclick="showGrantDetails('\${specialty}', '\${mechanism}')">\${grants}</td>
+                        <td class="pubs-cell" onclick="showPublicationDetails('\${specialty}', '\${mechanism}')">\${pubs}</td>
+                    \`;
+                    tbody.appendChild(row);
+                }
+                
+                // Add specialty total row
+                const totalRow = document.createElement('tr');
+                totalRow.className = 'total-row';
+                totalRow.innerHTML = \`
+                    <td colspan="2">\${formatSpecialtyName(specialty)} Total</td>
+                    <td>\${specialtyTotalGrants}</td>
+                    <td>\${specialtyTotalPubs}</td>
+                \`;
+                tbody.appendChild(totalRow);
+                
+                grandTotalGrants += specialtyTotalGrants;
+                grandTotalPubs += specialtyTotalPubs;
+            }
+            
+            // Add grand total row
+            const grandTotalRow = document.createElement('tr');
+            grandTotalRow.className = 'total-row';
+            grandTotalRow.style.fontWeight = 'bold';
+            grandTotalRow.style.background = '#e8eaf6';
+            grandTotalRow.innerHTML = \`
+                <td colspan="2">GRAND TOTAL</td>
+                <td>\${grandTotalGrants}</td>
+                <td>\${grandTotalPubs}</td>
+            \`;
+            tbody.appendChild(grandTotalRow);
+        }
+        
+        function formatSpecialtyName(specialty) {
+            // Format specialty names for display
+            const nameMap = {
+                'ANESTHESIOLOGY': 'Anesthesiology',
+                'EMERGENCY MEDICINE': 'Emergency Medicine',
+                'INTERNAL MEDICINE': 'Internal Medicine',
+                'OBSTETRICS & GYNECOLOGY': 'Obstetrics & Gynecology',
+                'PEDIATRICS': 'Pediatrics',
+                'SURGERY': 'Surgery'
+            };
+            return nameMap[specialty] || specialty;
+        }
+        
+        function showGrantDetails(specialty, mechanism) {
+            const data = merData[specialty][mechanism];
+            const grants = data.grants || 0;
+            
+            if (grants === 0) {
+                alert('No grants to display for this category.');
+                return;
+            }
+            
+            const modal = document.getElementById('detailModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalBody = document.getElementById('modalBody');
+            
+            modalTitle.textContent = \`\${formatSpecialtyName(specialty)} - \${mechanism} Grants\`;
+            
+            // Create placeholder content since we don't have detailed grant data
+            modalBody.innerHTML = \`
+                <div class="detail-item">
+                    <div class="detail-value">
+                        \${grants} \${mechanism} grant(s) in \${formatSpecialtyName(specialty)}<br><br>
+                        <em>Detailed grant information would be displayed here with individual grant titles, PIs, years, and amounts.</em>
+                    </div>
+                </div>
+            \`;
+            
+            modal.style.display = 'block';
+        }
+        
+        function showPublicationDetails(specialty, mechanism) {
+            const data = merData[specialty][mechanism];
+            const pubs = data.publications || 0;
+            
+            if (pubs === 0) {
+                alert('No publications to display for this category.');
+                return;
+            }
+            
+            const modal = document.getElementById('detailModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalBody = document.getElementById('modalBody');
+            
+            modalTitle.textContent = \`\${formatSpecialtyName(specialty)} - \${mechanism} Publications\`;
+            
+            modalBody.innerHTML = \`
+                <div class="detail-item">
+                    <div class="detail-value">
+                        \${pubs} publication(s) linked to \${mechanism} grants in \${formatSpecialtyName(specialty)}<br><br>
+                        <em>Detailed publication information would be displayed here with titles, authors, journals, and PubMed IDs.</em>
+                    </div>
+                </div>
+            \`;
+            
+            modal.style.display = 'block';
+        }
+        
+        function closeModal() {
+            document.getElementById('detailModal').style.display = 'none';
+        }
+        
+        // Close modal when clicking outside of it
+        window.onclick = function(event) {
+            const modal = document.getElementById('detailModal');
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+        }
+        
+        // Load data on page load
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>
