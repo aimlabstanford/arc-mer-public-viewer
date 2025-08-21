@@ -437,8 +437,21 @@
                 const jsonData = await response.json();
                 
                 // Extract the MER data and mechanism descriptions
+                if (!jsonData || !jsonData.data) {
+                    throw new Error('Invalid data structure in JSON file');
+                }
+                
                 const merData = jsonData.data;
-                const mechanismDescriptions = jsonData.mechanismDescriptions;
+                const mechanismDescriptions = jsonData.mechanismDescriptions || {};
+                
+                console.log('Loaded data:', jsonData);
+                console.log('MER data specialties:', Object.keys(merData));
+                console.log('Mechanism descriptions available:', Object.keys(mechanismDescriptions).length);
+                
+                // Validate data structure
+                if (Object.keys(merData).length === 0) {
+                    throw new Error('No specialty data found in JSON');
+                }
                 
                 // Calculate statistics
                 calculateStatistics(merData);
