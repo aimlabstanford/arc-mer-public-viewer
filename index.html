@@ -285,6 +285,12 @@
             font-size: 0.85em;
         }
         
+        @keyframes highlight {
+            0% { background-color: #fff3cd; }
+            50% { background-color: #ffe69c; }
+            100% { background-color: #f8f9fa; }
+        }
+        
         /* Vertical column separators - after each specialty's Eff % column */
         tbody td:nth-child(5),
         tbody td:nth-child(8),
@@ -688,6 +694,57 @@
             }
         }
         
+        function scrollToGrant(grantId, specialty, mechanism) {
+            // First, ensure the grants detail section is open
+            const detailRowId = `detail-${mechanism}-${specialty.replace(/[^A-Za-z]/g, '')}-grants`;
+            let detailRow = document.getElementById(detailRowId);
+            
+            if (!detailRow || detailRow.style.display === 'none') {
+                // Find and click the grants number to open the detail view
+                const rows = document.querySelectorAll('tbody tr');
+                for (let row of rows) {
+                    if (row.cells[0] && row.cells[0].textContent === mechanism) {
+                        // Find the cell for this specialty's grants
+                        const specialtyIndex = getSpecialtyColumnIndex(specialty);
+                        if (specialtyIndex >= 0) {
+                            const grantCell = row.cells[specialtyIndex];
+                            if (grantCell && grantCell.classList.contains('clickable')) {
+                                grantCell.click();
+                                // Wait for the detail row to be created
+                                setTimeout(() => {
+                                    const grantElement = document.getElementById(`grant-${grantId}`);
+                                    if (grantElement) {
+                                        grantElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                                        grantElement.style.animation = 'highlight 2s';
+                                    }
+                                }, 500);
+                                return;
+                            }
+                        }
+                    }
+                }
+            } else {
+                // Detail row is already open, just scroll to the grant
+                const grantElement = document.getElementById(`grant-${grantId}`);
+                if (grantElement) {
+                    grantElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    grantElement.style.animation = 'highlight 2s';
+                }
+            }
+        }
+        
+        function getSpecialtyColumnIndex(specialty) {
+            const specialtyMap = {
+                'INTERNAL MEDICINE': 1,
+                'PEDIATRICS': 4,
+                'SURGERY': 7,
+                'OBSTETRICS & GYNECOLOGY': 10,
+                'ANESTHESIOLOGY': 13,
+                'EMERGENCY MEDICINE': 16
+            };
+            return specialtyMap[specialty] || -1;
+        }
+        
         function toggleDetails(mechanism, specialty, type, event) {
             try {
                 console.log('toggleDetails called:', mechanism, specialty, type);
@@ -762,12 +819,12 @@
                     
                     grantDetails.forEach((grant, index) => {
                         content += `
-                            <div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #8B1538; border-radius: 4px;">
+                            <div id="grant-${grant.core_project_num}" style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #8B1538; border-radius: 4px;">
                                 <h5 style="color: #8B1538; margin-bottom: 10px;">
-                                    ${index + 1}. ${grant.title || 'Grant ' + grant.id}
+                                    ${index + 1}. ${grant.title || 'Grant ' + grant.core_project_num}
                                 </h5>
                                 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
-                                    <div><strong>Grant ID:</strong> ${grant.id || grant.application_id || 'N/A'}</div>
+                                    <div><strong>Grant ID:</strong> ${grant.core_project_num || grant.application_id || 'N/A'}</div>
                                     <div><strong>PI:</strong> ${grant.pi_names || 'N/A'}</div>
                                     <div><strong>Amount:</strong> $${(grant.amount || 0).toLocaleString()}</div>
                                     <div><strong>Year:</strong> ${grant.fiscal_year || 'N/A'}</div>
@@ -873,6 +930,19 @@
                                         </a>
                                     ` : ''}
                                 </div>
+                                ${pub.funding_grant ? `
+                                    <div style="margin-top: 15px; padding: 10px; background: #e8f5e9; border-left: 3px solid #4caf50; border-radius: 4px;">
+                                        <strong style="color: #2e7d32;">Funded by Grant:</strong>
+                                        <a href="#grant-${pub.funding_grant.core_project_num}" 
+                                           onclick="scrollToGrant('${pub.funding_grant.core_project_num}', '${specialty}', '${mechanism}'); return false;"
+                                           style="color: #8B1538; text-decoration: none; font-weight: 600;">
+                                            ${pub.funding_grant.core_project_num || 'N/A'}
+                                        </a>
+                                        <span style="color: #666; margin-left: 10px;">
+                                            (${pub.funding_grant.grant_year || 'N/A'}) - PI: ${pub.funding_grant.grant_pi || 'N/A'}
+                                        </span>
+                                    </div>
+                                ` : ''}
                             </div>
                         `;
                     });
