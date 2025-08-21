@@ -695,42 +695,42 @@
                 // Create unique ID for the detail row
                 const detailRowId = `detail-${mechanism}-${specialty.replace(/[^A-Za-z]/g, '')}-${type}`;
                 let detailRow = document.getElementById(detailRowId);
-            
-            if (detailRow) {
-                // Toggle existing detail row
-                detailRow.style.display = detailRow.style.display === 'none' ? 'table-row' : 'none';
-                return;
-            }
-            
-            // Find the clicked row
-            const clickedCell = event ? event.target : document.querySelector(`td.clickable`);
-            const clickedRow = clickedCell.closest('tr');
-            
-            // Create new detail row
-            detailRow = document.createElement('tr');
-            detailRow.id = detailRowId;
-            detailRow.className = 'detail-row';
-            detailRow.style.display = 'table-row';
-            
-            // Get the number of columns to span
-            const numColumns = clickedRow.cells.length;
-            
-            // Create detail cell that spans all columns
-            const detailCell = document.createElement('td');
-            detailCell.colSpan = numColumns;
-            detailCell.innerHTML = createDetailContent(mechanism, specialty, type);
-            
-            detailRow.appendChild(detailCell);
-            
-            // Insert the detail row after the clicked row
-            clickedRow.parentNode.insertBefore(detailRow, clickedRow.nextSibling);
+                
+                if (detailRow) {
+                    // Toggle existing detail row
+                    detailRow.style.display = detailRow.style.display === 'none' ? 'table-row' : 'none';
+                    return;
+                }
+                
+                // Find the clicked row
+                const clickedCell = event ? event.target : document.querySelector(`td.clickable`);
+                const clickedRow = clickedCell.closest('tr');
+                
+                // Create new detail row
+                detailRow = document.createElement('tr');
+                detailRow.id = detailRowId;
+                detailRow.className = 'detail-row';
+                detailRow.style.display = 'table-row';
+                
+                // Get the number of columns to span
+                const numColumns = clickedRow.cells.length;
+                
+                // Create detail cell that spans all columns
+                const detailCell = document.createElement('td');
+                detailCell.colSpan = numColumns;
+                detailCell.innerHTML = createDetailContent(mechanism, specialty, type, detailRowId);
+                
+                detailRow.appendChild(detailCell);
+                
+                // Insert the detail row after the clicked row
+                clickedRow.parentNode.insertBefore(detailRow, clickedRow.nextSibling);
             } catch (error) {
                 console.error('Error in toggleDetails:', error);
                 alert('Error showing details: ' + error.message);
             }
         }
         
-        function createDetailContent(mechanism, specialty, type) {
+        function createDetailContent(mechanism, specialty, type, detailRowId) {
             const merData = window.lastMerData; // Store data globally for access
             const data = merData?.[specialty]?.[mechanism];
             
