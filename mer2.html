@@ -695,41 +695,67 @@
         }
         
         function scrollToGrant(grantId, specialty, mechanism) {
-            // First, ensure the grants detail section is open
+            console.log('scrollToGrant called:', grantId, specialty, mechanism);
+            
+            // Close any currently open publication details
+            document.querySelectorAll('.detail-row').forEach(row => {
+                if (row.id.includes('-publications')) {
+                    row.style.display = 'none';
+                }
+            });
+            
+            // Check if grants detail section exists and is open
             const detailRowId = `detail-${mechanism}-${specialty.replace(/[^A-Za-z]/g, '')}-grants`;
             let detailRow = document.getElementById(detailRowId);
             
-            if (!detailRow || detailRow.style.display === 'none') {
-                // Find and click the grants number to open the detail view
-                const rows = document.querySelectorAll('tbody tr');
+            if (!detailRow) {
+                // Need to create the grants detail row
+                // Find the mechanism row
+                const rows = document.querySelectorAll('tbody tr:not(.detail-row)');
+                let targetRow = null;
+                
                 for (let row of rows) {
-                    if (row.cells[0] && row.cells[0].textContent === mechanism) {
-                        // Find the cell for this specialty's grants
-                        const specialtyIndex = getSpecialtyColumnIndex(specialty);
-                        if (specialtyIndex >= 0) {
-                            const grantCell = row.cells[specialtyIndex];
-                            if (grantCell && grantCell.classList.contains('clickable')) {
-                                grantCell.click();
-                                // Wait for the detail row to be created
-                                setTimeout(() => {
-                                    const grantElement = document.getElementById(`grant-${grantId}`);
-                                    if (grantElement) {
-                                        grantElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                                        grantElement.style.animation = 'highlight 2s';
-                                    }
-                                }, 500);
-                                return;
-                            }
-                        }
+                    if (row.cells[0] && row.cells[0].textContent.trim() === mechanism) {
+                        targetRow = row;
+                        break;
                     }
                 }
-            } else {
-                // Detail row is already open, just scroll to the grant
-                const grantElement = document.getElementById(`grant-${grantId}`);
-                if (grantElement) {
-                    grantElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    grantElement.style.animation = 'highlight 2s';
+                
+                if (targetRow) {
+                    // Create the detail row
+                    detailRow = document.createElement('tr');
+                    detailRow.id = detailRowId;
+                    detailRow.className = 'detail-row';
+                    detailRow.style.display = 'table-row';
+                    
+                    const detailCell = document.createElement('td');
+                    detailCell.colSpan = targetRow.cells.length;
+                    detailCell.innerHTML = createDetailContent(mechanism, specialty, 'grants', detailRowId);
+                    
+                    detailRow.appendChild(detailCell);
+                    targetRow.parentNode.insertBefore(detailRow, targetRow.nextSibling);
+                    
+                    // Now scroll to the specific grant
+                    setTimeout(() => {
+                        const grantElement = document.getElementById(`grant-${grantId}`);
+                        if (grantElement) {
+                            grantElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                            grantElement.style.animation = 'highlight 2s';
+                        }
+                    }, 100);
                 }
+            } else {
+                // Detail row exists, make sure it's visible
+                detailRow.style.display = 'table-row';
+                
+                // Scroll to the specific grant
+                setTimeout(() => {
+                    const grantElement = document.getElementById(`grant-${grantId}`);
+                    if (grantElement) {
+                        grantElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        grantElement.style.animation = 'highlight 2s';
+                    }
+                }, 100);
             }
         }
         
