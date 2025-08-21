@@ -3,335 +3,102 @@
   "period": "2014-2024",
   "lastUpdated": "2024-08-21",
   "disclaimer": "This data represents MER2-classified grants from NIH databases using refined classification criteria.",
+  "note": "Total includes 169 grants without specific mechanism codes",
   "statistics": {
-    "total_grants": 1653,
-    "total_publications": 1317,
-    "total_mechanisms": 20,
-    "pubs_per_grant": 0.8
+    "total_grants": 1822,
+    "total_publications": 1434,
+    "grants_with_mechanisms": 1653,
+    "grants_without_mechanisms": 169
   },
   "data": {
-    "INTERNAL MEDICINE/MEDICINE": {
-      "R25": {
-        "grants": 206,
-        "publications": 57
-      },
-      "T35": {
-        "grants": 223,
-        "publications": 87
-      },
-      "R01": {
-        "grants": 144,
-        "publications": 37
-      },
-      "K24": {
-        "grants": 108,
-        "publications": 265
-      },
-      "P30": {
-        "grants": 66,
-        "publications": 238
-      },
-      "K23": {
-        "grants": 57,
-        "publications": 29
-      },
-      "TL1": {
-        "grants": 58,
-        "publications": 45
-      },
-      "U01": {
-        "grants": 28,
-        "publications": 3
-      },
-      "U54": {
-        "grants": 41,
-        "publications": 33
-      },
-      "R21": {
-        "grants": 28,
-        "publications": 1
-      },
-      "K08": {
-        "grants": 12,
-        "publications": 4
-      },
-      "R38": {
-        "grants": 29,
-        "publications": 11
-      },
-      "K01": {
-        "grants": 28,
-        "publications": 16
-      },
-      "R13": {
-        "grants": 22,
-        "publications": 0
-      },
-      "R34": {
-        "grants": 13,
-        "publications": 3
-      },
-      "D43": {
-        "grants": 20,
-        "publications": 3
-      },
-      "KL2": {
-        "grants": 21,
-        "publications": 70
-      },
-      "UL1": {
-        "grants": 10,
-        "publications": 76
-      },
-      "P20": {
-        "grants": 18,
-        "publications": 0
-      },
-      "K12": {
-        "grants": 7,
-        "publications": 6
-      }
+    "INTERNAL MEDICINE": {
+      "R25": {"grants": 206, "publications": 57},
+      "T35": {"grants": 223, "publications": 87},
+      "R01": {"grants": 144, "publications": 37},
+      "K24": {"grants": 108, "publications": 265},
+      "P30": {"grants": 66, "publications": 238},
+      "K23": {"grants": 57, "publications": 29},
+      "TL1": {"grants": 58, "publications": 45},
+      "U01": {"grants": 28, "publications": 3},
+      "U54": {"grants": 41, "publications": 33},
+      "R21": {"grants": 28, "publications": 1},
+      "K08": {"grants": 12, "publications": 4},
+      "R38": {"grants": 29, "publications": 11},
+      "K01": {"grants": 28, "publications": 16},
+      "R13": {"grants": 22, "publications": 0},
+      "R34": {"grants": 13, "publications": 3},
+      "D43": {"grants": 20, "publications": 3},
+      "KL2": {"grants": 21, "publications": 70},
+      "UL1": {"grants": 10, "publications": 76},
+      "P20": {"grants": 18, "publications": 0},
+      "K12": {"grants": 7, "publications": 6},
+      "Other/Unspecified": {"grants": 115, "publications": 97}
     },
     "PEDIATRICS": {
-      "R25": {
-        "grants": 71,
-        "publications": 8
-      },
-      "T35": {
-        "grants": 19,
-        "publications": 0
-      },
-      "R01": {
-        "grants": 64,
-        "publications": 13
-      },
-      "K24": {
-        "grants": 21,
-        "publications": 15
-      },
-      "P30": {
-        "grants": 18,
-        "publications": 73
-      },
-      "K23": {
-        "grants": 7,
-        "publications": 3
-      },
-      "TL1": {
-        "grants": 3,
-        "publications": 3
-      },
-      "U01": {
-        "grants": 15,
-        "publications": 5
-      },
-      "R21": {
-        "grants": 6,
-        "publications": 1
-      },
-      "K08": {
-        "grants": 11,
-        "publications": 3
-      },
-      "K01": {
-        "grants": 2,
-        "publications": 0
-      },
-      "R13": {
-        "grants": 8,
-        "publications": 0
-      },
-      "R34": {
-        "grants": 8,
-        "publications": 1
-      },
-      "KL2": {
-        "grants": 4,
-        "publications": 0
-      },
-      "UL1": {
-        "grants": 13,
-        "publications": 27
-      },
-      "K12": {
-        "grants": 8,
-        "publications": 9
-      }
+      "R25": {"grants": 71, "publications": 8},
+      "T35": {"grants": 19, "publications": 0},
+      "R01": {"grants": 64, "publications": 13},
+      "K24": {"grants": 21, "publications": 15},
+      "P30": {"grants": 18, "publications": 73},
+      "K23": {"grants": 7, "publications": 3},
+      "TL1": {"grants": 3, "publications": 3},
+      "U01": {"grants": 15, "publications": 5},
+      "R21": {"grants": 6, "publications": 1},
+      "K08": {"grants": 11, "publications": 3},
+      "K01": {"grants": 2, "publications": 0},
+      "R13": {"grants": 8, "publications": 0},
+      "R34": {"grants": 8, "publications": 1},
+      "KL2": {"grants": 4, "publications": 0},
+      "UL1": {"grants": 13, "publications": 27},
+      "K12": {"grants": 8, "publications": 9},
+      "Other/Unspecified": {"grants": 34, "publications": 13}
     },
     "SURGERY": {
-      "R25": {
-        "grants": 34,
-        "publications": 3
-      },
-      "T35": {
-        "grants": 28,
-        "publications": 9
-      },
-      "R01": {
-        "grants": 20,
-        "publications": 15
-      },
-      "K24": {
-        "grants": 13,
-        "publications": 58
-      },
-      "P30": {
-        "grants": 6,
-        "publications": 27
-      },
-      "K23": {
-        "grants": 1,
-        "publications": 3
-      },
-      "TL1": {
-        "grants": 4,
-        "publications": 10
-      },
-      "U01": {
-        "grants": 9,
-        "publications": 5
-      },
-      "U54": {
-        "grants": 1,
-        "publications": 0
-      },
-      "R21": {
-        "grants": 4,
-        "publications": 0
-      },
-      "K08": {
-        "grants": 7,
-        "publications": 3
-      },
-      "R38": {
-        "grants": 4,
-        "publications": 0
-      },
-      "K01": {
-        "grants": 1,
-        "publications": 0
-      },
-      "R34": {
-        "grants": 1,
-        "publications": 0
-      },
-      "D43": {
-        "grants": 6,
-        "publications": 0
-      },
-      "P20": {
-        "grants": 3,
-        "publications": 0
-      }
+      "R25": {"grants": 34, "publications": 3},
+      "T35": {"grants": 28, "publications": 9},
+      "R01": {"grants": 20, "publications": 15},
+      "K24": {"grants": 13, "publications": 58},
+      "P30": {"grants": 6, "publications": 27},
+      "K23": {"grants": 1, "publications": 3},
+      "TL1": {"grants": 4, "publications": 10},
+      "U01": {"grants": 9, "publications": 5},
+      "U54": {"grants": 1, "publications": 0},
+      "R21": {"grants": 4, "publications": 0},
+      "K08": {"grants": 7, "publications": 3},
+      "R38": {"grants": 4, "publications": 0},
+      "K01": {"grants": 1, "publications": 0},
+      "D43": {"grants": 6, "publications": 0},
+      "P20": {"grants": 3, "publications": 0},
+      "Other/Unspecified": {"grants": 14, "publications": 5}
     },
     "OBSTETRICS & GYNECOLOGY": {
-      "R25": {
-        "grants": 7,
-        "publications": 0
-      },
-      "T35": {
-        "grants": 6,
-        "publications": 2
-      },
-      "R01": {
-        "grants": 14,
-        "publications": 5
-      },
-      "K24": {
-        "grants": 1,
-        "publications": 3
-      },
-      "P30": {
-        "grants": 4,
-        "publications": 5
-      },
-      "K23": {
-        "grants": 3,
-        "publications": 1
-      },
-      "TL1": {
-        "grants": 6,
-        "publications": 0
-      },
-      "R34": {
-        "grants": 5,
-        "publications": 0
-      },
-      "P20": {
-        "grants": 2,
-        "publications": 0
-      },
-      "K12": {
-        "grants": 4,
-        "publications": 2
-      }
-    },
-    "EMERGENCY MEDICINE": {
-      "T35": {
-        "grants": 5,
-        "publications": 0
-      },
-      "R01": {
-        "grants": 16,
-        "publications": 1
-      },
-      "K23": {
-        "grants": 3,
-        "publications": 0
-      },
-      "R21": {
-        "grants": 3,
-        "publications": 0
-      }
+      "R25": {"grants": 7, "publications": 0},
+      "T35": {"grants": 6, "publications": 2},
+      "R01": {"grants": 14, "publications": 5},
+      "K24": {"grants": 1, "publications": 3},
+      "P30": {"grants": 4, "publications": 5},
+      "K23": {"grants": 3, "publications": 1},
+      "TL1": {"grants": 6, "publications": 0},
+      "R34": {"grants": 5, "publications": 0},
+      "K12": {"grants": 4, "publications": 2},
+      "P20": {"grants": 2, "publications": 0},
+      "Other/Unspecified": {"grants": 1, "publications": 0}
     },
     "ANESTHESIOLOGY": {
-      "K24": {
-        "grants": 4,
-        "publications": 9
-      },
-      "K23": {
-        "grants": 2,
-        "publications": 3
-      },
-      "TL1": {
-        "grants": 1,
-        "publications": 8
-      },
-      "K08": {
-        "grants": 5,
-        "publications": 0
-      },
-      "KL2": {
-        "grants": 1,
-        "publications": 0
-      },
-      "UL1": {
-        "grants": 2,
-        "publications": 0
-      }
+      "K24": {"grants": 4, "publications": 9},
+      "K23": {"grants": 2, "publications": 3},
+      "TL1": {"grants": 1, "publications": 8},
+      "K08": {"grants": 5, "publications": 0},
+      "KL2": {"grants": 1, "publications": 0},
+      "UL1": {"grants": 2, "publications": 0},
+      "Other/Unspecified": {"grants": 3, "publications": 1}
+    },
+    "EMERGENCY MEDICINE": {
+      "T35": {"grants": 5, "publications": 0},
+      "R01": {"grants": 16, "publications": 1},
+      "K23": {"grants": 3, "publications": 0},
+      "R21": {"grants": 3, "publications": 0},
+      "Other/Unspecified": {"grants": 3, "publications": 0}
     }
-  },
-  "mechanismDescriptions": {
-    "R01": "Research Project",
-    "R03": "Small Research Grant",
-    "R13": "Conference Grant",
-    "R21": "Exploratory/Developmental",
-    "R25": "Research Education Program",
-    "R34": "Planning Grant",
-    "R38": "StARR Award",
-    "K01": "Mentored Research Scientist",
-    "K08": "Mentored Clinical Scientist",
-    "K12": "Career Development",
-    "K23": "Patient-Oriented Research",
-    "K24": "Midcareer Investigator",
-    "KL2": "Career Development",
-    "T35": "Short-Term Training",
-    "TL1": "Translational Research Training",
-    "U01": "Research Project Cooperative",
-    "U54": "Specialized Center Cooperative",
-    "UL1": "Clinical and Translational Science Award",
-    "P20": "Exploratory Center Grant",
-    "P30": "Center Core Grant",
-    "D43": "International Training"
   }
 }
