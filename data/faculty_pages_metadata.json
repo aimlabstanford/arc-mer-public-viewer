@@ -1,0 +1,188 @@
+{
+  "generated": "2025-08-09T07:59:29.753214",
+  "total_faculty": 237,
+  "generated_count": 30,
+  "failed_count": 207,
+  "faculty_pages": [
+    {
+      "uid": "mazze",
+      "name": "Richard Irwin Mazze",
+      "filename": "richard_irwin_mazze.html",
+      "publications": 81
+    },
+    {
+      "uid": "jbaden",
+      "name": "Jeffrey M Baden",
+      "filename": "jeffrey_m_baden.html",
+      "publications": 64
+    },
+    {
+      "uid": "kendig",
+      "name": "Joan J Kendig",
+      "filename": "joan_j_kendig.html",
+      "publications": 43
+    },
+    {
+      "uid": "viveknk",
+      "name": "Vivek Kulkarni",
+      "filename": "vivek_kulkarni.html",
+      "publications": 9
+    },
+    {
+      "uid": "bgolianu",
+      "name": "Brenda Golianu",
+      "filename": "brenda_golianu.html",
+      "publications": 7
+    },
+    {
+      "uid": "kfish",
+      "name": "Kevin J Fish",
+      "filename": "kevin_j_fish.html",
+      "publications": 7
+    },
+    {
+      "uid": "kllarkin",
+      "name": "Kathleen L. Larkin",
+      "filename": "kathleen_l_larkin.html",
+      "publications": 6
+    },
+    {
+      "uid": "srmiller",
+      "name": "Sara Miller Strowd",
+      "filename": "sara_miller_strowd.html",
+      "publications": 6
+    },
+    {
+      "uid": "amqatu",
+      "name": "Abdullah Qatu",
+      "filename": "abdullah_qatu.html",
+      "publications": 5
+    },
+    {
+      "uid": "dstanski",
+      "name": "Donald R Stanski",
+      "filename": "donald_r_stanski.html",
+      "publications": 4
+    },
+    {
+      "uid": "amurray3",
+      "name": "Andrea J Murray",
+      "filename": "andrea_j_murray.html",
+      "publications": 3
+    },
+    {
+      "uid": "erondu",
+      "name": "Mgbechi Erondu",
+      "filename": "mgbechi_erondu.html",
+      "publications": 3
+    },
+    {
+      "uid": "knaftchi",
+      "name": "Kasra Naftchi-Ardebili",
+      "filename": "kasra_naftchi-ardebili.html",
+      "publications": 3
+    },
+    {
+      "uid": "sgsastry",
+      "name": "Sunita G. Sastry",
+      "filename": "sunita_g_sastry.html",
+      "publications": 3
+    },
+    {
+      "uid": "stevenf",
+      "name": "Steven D. Feinberg M.D.",
+      "filename": "steven_d_feinberg_md.html",
+      "publications": 3
+    },
+    {
+      "uid": "cchiu105",
+      "name": "Cornel Chiu",
+      "filename": "cornel_chiu.html",
+      "publications": 2
+    },
+    {
+      "uid": "dabelson",
+      "name": "Daniel Abelson",
+      "filename": "daniel_abelson.html",
+      "publications": 2
+    },
+    {
+      "uid": "hchow",
+      "name": "Harrison Shong-Wen Chow",
+      "filename": "harrison_shong-wen_chow.html",
+      "publications": 2
+    },
+    {
+      "uid": "ppurdon",
+      "name": "Patrick Lee Purdon",
+      "filename": "patrick_lee_purdon.html",
+      "publications": 2
+    },
+    {
+      "uid": "arudin",
+      "name": "Aaron Rudin",
+      "filename": "aaron_rudin.html",
+      "publications": 1
+    },
+    {
+      "uid": "cyndi",
+      "name": "Dr. Cyndi Kelly",
+      "filename": "dr_cyndi_kelly.html",
+      "publications": 1
+    },
+    {
+      "uid": "ksalamon",
+      "name": "Katherine S Salamon",
+      "filename": "katherine_s_salamon.html",
+      "publications": 1
+    },
+    {
+      "uid": "kspeirs",
+      "name": "Katie Speirs",
+      "filename": "katie_speirs.html",
+      "publications": 1
+    },
+    {
+      "uid": "lwd97",
+      "name": "Weida Liu",
+      "filename": "weida_liu.html",
+      "publications": 1
+    },
+    {
+      "uid": "mrebecca",
+      "name": "Rebecca Sara Morris",
+      "filename": "rebecca_sara_morris.html",
+      "publications": 1
+    },
+    {
+      "uid": "nazi1",
+      "name": "Nazanin Mahinparvar",
+      "filename": "nazanin_mahinparvar.html",
+      "publications": 1
+    },
+    {
+      "uid": "pochebm",
+      "name": "Maxim Pochebyt",
+      "filename": "maxim_pochebyt.html",
+      "publications": 1
+    },
+    {
+      "uid": "rjnov",
+      "name": "Richard J. Novak",
+      "filename": "richard_j_novak.html",
+      "publications": 1
+    },
+    {
+      "uid": "smithdw",
+      "name": "Derek Smith",
+      "filename": "derek_smith.html",
+      "publications": 1
+    },
+    {
+      "uid": "zenaz",
+      "name": "Zenaz Sarkari",
+      "filename": "zenaz_sarkari.html",
+      "publications": 1
+    }
+  ]
+}

@@ -1,0 +1,2567 @@
+{
+  "Anesthesiology": [
+    {
+      "data_year": 2006,
+      "school_count": 50,
+      "funding_billions": 0.090573,
+      "avg_funding_millions": 1.8114674,
+      "max_funding_millions": 7.03776
+    },
+    {
+      "data_year": 2007,
+      "school_count": 48,
+      "funding_billions": 0.086989,
+      "avg_funding_millions": 1.8122658542,
+      "max_funding_millions": 8.869185
+    },
+    {
+      "data_year": 2008,
+      "school_count": 47,
+      "funding_billions": 0.08817,
+      "avg_funding_millions": 1.8759514681,
+      "max_funding_millions": 7.032993
+    },
+    {
+      "data_year": 2009,
+      "school_count": 47,
+      "funding_billions": 0.094263,
+      "avg_funding_millions": 2.0055916809,
+      "max_funding_millions": 8.867349
+    },
+    {
+      "data_year": 2010,
+      "school_count": 50,
+      "funding_billions": 0.099916,
+      "avg_funding_millions": 1.99832854,
+      "max_funding_millions": 8.758172
+    },
+    {
+      "data_year": 2011,
+      "school_count": 49,
+      "funding_billions": 0.102274,
+      "avg_funding_millions": 2.0872176327,
+      "max_funding_millions": 7.615325
+    },
+    {
+      "data_year": 2012,
+      "school_count": 49,
+      "funding_billions": 0.105024,
+      "avg_funding_millions": 2.1433430408,
+      "max_funding_millions": 7.475762
+    },
+    {
+      "data_year": 2013,
+      "school_count": 49,
+      "funding_billions": 0.101388,
+      "avg_funding_millions": 2.0691483878,
+      "max_funding_millions": 8.000542
+    },
+    {
+      "data_year": 2014,
+      "school_count": 50,
+      "funding_billions": 0.106234,
+      "avg_funding_millions": 2.12467204,
+      "max_funding_millions": 8.143169
+    },
+    {
+      "data_year": 2015,
+      "school_count": 46,
+      "funding_billions": 0.122342,
+      "avg_funding_millions": 2.6596135435,
+      "max_funding_millions": 14.851903
+    },
+    {
+      "data_year": 2016,
+      "school_count": 46,
+      "funding_billions": 0.13595,
+      "avg_funding_millions": 2.9554321957,
+      "max_funding_millions": 16.651585
+    },
+    {
+      "data_year": 2017,
+      "school_count": 53,
+      "funding_billions": 0.154782,
+      "avg_funding_millions": 2.9204112075,
+      "max_funding_millions": 17.066102
+    },
+    {
+      "data_year": 2018,
+      "school_count": 53,
+      "funding_billions": 0.15742,
+      "avg_funding_millions": 2.970189434,
+      "max_funding_millions": 17.337004
+    },
+    {
+      "data_year": 2019,
+      "school_count": 52,
+      "funding_billions": 0.217169,
+      "avg_funding_millions": 4.1763346923,
+      "max_funding_millions": 24.988159
+    },
+    {
+      "data_year": 2020,
+      "school_count": 52,
+      "funding_billions": 0.210329,
+      "avg_funding_millions": 4.0447896923,
+      "max_funding_millions": 21.454704
+    },
+    {
+      "data_year": 2021,
+      "school_count": 52,
+      "funding_billions": 0.205011,
+      "avg_funding_millions": 3.9425230385,
+      "max_funding_millions": 21.882143
+    },
+    {
+      "data_year": 2022,
+      "school_count": 54,
+      "funding_billions": 0.236768,
+      "avg_funding_millions": 4.3845915556,
+      "max_funding_millions": 22.365701
+    },
+    {
+      "data_year": 2023,
+      "school_count": 54,
+      "funding_billions": 0.253628,
+      "avg_funding_millions": 4.6968064074,
+      "max_funding_millions": 25.359262
+    },
+    {
+      "data_year": 2024,
+      "school_count": 51,
+      "funding_billions": 0.25809,
+      "avg_funding_millions": 5.060586549,
+      "max_funding_millions": 31.628629
+    }
+  ],
+  "Dermatology": [
+    {
+      "data_year": 2006,
+      "school_count": 34,
+      "funding_billions": 0.058926,
+      "avg_funding_millions": 1.7331053235,
+      "max_funding_millions": 4.816276
+    },
+    {
+      "data_year": 2007,
+      "school_count": 33,
+      "funding_billions": 0.057659,
+      "avg_funding_millions": 1.7472467576,
+      "max_funding_millions": 6.422894
+    },
+    {
+      "data_year": 2008,
+      "school_count": 34,
+      "funding_billions": 0.057557,
+      "avg_funding_millions": 1.6928675882,
+      "max_funding_millions": 6.049439
+    },
+    {
+      "data_year": 2009,
+      "school_count": 35,
+      "funding_billions": 0.058843,
+      "avg_funding_millions": 1.6812162857,
+      "max_funding_millions": 5.619606
+    },
+    {
+      "data_year": 2010,
+      "school_count": 32,
+      "funding_billions": 0.061182,
+      "avg_funding_millions": 1.9119231875,
+      "max_funding_millions": 5.760252
+    },
+    {
+      "data_year": 2011,
+      "school_count": 35,
+      "funding_billions": 0.060719,
+      "avg_funding_millions": 1.7348206857,
+      "max_funding_millions": 4.755438
+    },
+    {
+      "data_year": 2012,
+      "school_count": 32,
+      "funding_billions": 0.064574,
+      "avg_funding_millions": 2.0179466875,
+      "max_funding_millions": 5.045484
+    },
+    {
+      "data_year": 2013,
+      "school_count": 34,
+      "funding_billions": 0.064009,
+      "avg_funding_millions": 1.8826105294,
+      "max_funding_millions": 5.814344
+    },
+    {
+      "data_year": 2014,
+      "school_count": 36,
+      "funding_billions": 0.067381,
+      "avg_funding_millions": 1.8717045,
+      "max_funding_millions": 6.977573
+    },
+    {
+      "data_year": 2015,
+      "school_count": 37,
+      "funding_billions": 0.068762,
+      "avg_funding_millions": 1.8584227027,
+      "max_funding_millions": 7.465802
+    },
+    {
+      "data_year": 2016,
+      "school_count": 37,
+      "funding_billions": 0.070186,
+      "avg_funding_millions": 1.8969274054,
+      "max_funding_millions": 8.175783
+    },
+    {
+      "data_year": 2017,
+      "school_count": 32,
+      "funding_billions": 0.075677,
+      "avg_funding_millions": 2.3649195938,
+      "max_funding_millions": 7.545281
+    },
+    {
+      "data_year": 2018,
+      "school_count": 35,
+      "funding_billions": 0.088436,
+      "avg_funding_millions": 2.5267546857,
+      "max_funding_millions": 8.277406
+    },
+    {
+      "data_year": 2019,
+      "school_count": 37,
+      "funding_billions": 0.09129,
+      "avg_funding_millions": 2.4672982162,
+      "max_funding_millions": 8.978281
+    },
+    {
+      "data_year": 2020,
+      "school_count": 37,
+      "funding_billions": 0.090785,
+      "avg_funding_millions": 2.4536427568,
+      "max_funding_millions": 9.486209
+    },
+    {
+      "data_year": 2021,
+      "school_count": 35,
+      "funding_billions": 0.099757,
+      "avg_funding_millions": 2.8501876,
+      "max_funding_millions": 9.163081
+    },
+    {
+      "data_year": 2022,
+      "school_count": 35,
+      "funding_billions": 0.107009,
+      "avg_funding_millions": 3.0573943429,
+      "max_funding_millions": 8.614079
+    },
+    {
+      "data_year": 2023,
+      "school_count": 36,
+      "funding_billions": 0.099455,
+      "avg_funding_millions": 2.7626501389,
+      "max_funding_millions": 8.928276
+    },
+    {
+      "data_year": 2024,
+      "school_count": 36,
+      "funding_billions": 0.100601,
+      "avg_funding_millions": 2.7944842778,
+      "max_funding_millions": 8.510099
+    }
+  ],
+  "Emergency_Medicine": [
+    {
+      "data_year": 2006,
+      "school_count": 14,
+      "funding_billions": 0.015601,
+      "avg_funding_millions": 1.1143245714,
+      "max_funding_millions": 7.046168
+    },
+    {
+      "data_year": 2007,
+      "school_count": 24,
+      "funding_billions": 0.0243,
+      "avg_funding_millions": 1.012509625,
+      "max_funding_millions": 10.041288
+    },
+    {
+      "data_year": 2008,
+      "school_count": 25,
+      "funding_billions": 0.016163,
+      "avg_funding_millions": 0.64652952,
+      "max_funding_millions": 3.344695
+    },
+    {
+      "data_year": 2009,
+      "school_count": 23,
+      "funding_billions": 0.019954,
+      "avg_funding_millions": 0.8675857826,
+      "max_funding_millions": 5.412923
+    },
+    {
+      "data_year": 2010,
+      "school_count": 33,
+      "funding_billions": 0.033674,
+      "avg_funding_millions": 1.0204277576,
+      "max_funding_millions": 10.183564
+    },
+    {
+      "data_year": 2011,
+      "school_count": 33,
+      "funding_billions": 0.035856,
+      "avg_funding_millions": 1.0865422424,
+      "max_funding_millions": 9.513122
+    },
+    {
+      "data_year": 2012,
+      "school_count": 34,
+      "funding_billions": 0.038478,
+      "avg_funding_millions": 1.1317177941,
+      "max_funding_millions": 8.06959
+    },
+    {
+      "data_year": 2013,
+      "school_count": 35,
+      "funding_billions": 0.03623,
+      "avg_funding_millions": 1.0351294,
+      "max_funding_millions": 3.672622
+    },
+    {
+      "data_year": 2014,
+      "school_count": 34,
+      "funding_billions": 0.039101,
+      "avg_funding_millions": 1.1500328824,
+      "max_funding_millions": 4.590292
+    },
+    {
+      "data_year": 2015,
+      "school_count": 35,
+      "funding_billions": 0.036066,
+      "avg_funding_millions": 1.0304550286,
+      "max_funding_millions": 3.877767
+    },
+    {
+      "data_year": 2016,
+      "school_count": 35,
+      "funding_billions": 0.037235,
+      "avg_funding_millions": 1.0638617714,
+      "max_funding_millions": 4.425708
+    },
+    {
+      "data_year": 2017,
+      "school_count": 37,
+      "funding_billions": 0.042938,
+      "avg_funding_millions": 1.1604781351,
+      "max_funding_millions": 9.421204
+    },
+    {
+      "data_year": 2018,
+      "school_count": 36,
+      "funding_billions": 0.062554,
+      "avg_funding_millions": 1.7376153611,
+      "max_funding_millions": 17.69911
+    },
+    {
+      "data_year": 2019,
+      "school_count": 36,
+      "funding_billions": 0.058665,
+      "avg_funding_millions": 1.6295739167,
+      "max_funding_millions": 11.787904
+    },
+    {
+      "data_year": 2020,
+      "school_count": 36,
+      "funding_billions": 0.091541,
+      "avg_funding_millions": 2.5428188611,
+      "max_funding_millions": 20.922383
+    },
+    {
+      "data_year": 2021,
+      "school_count": 39,
+      "funding_billions": 0.100992,
+      "avg_funding_millions": 2.5895354359,
+      "max_funding_millions": 18.17413
+    },
+    {
+      "data_year": 2022,
+      "school_count": 41,
+      "funding_billions": 0.101801,
+      "avg_funding_millions": 2.4829498293,
+      "max_funding_millions": 16.84194
+    },
+    {
+      "data_year": 2023,
+      "school_count": 45,
+      "funding_billions": 0.137341,
+      "avg_funding_millions": 3.0520184889,
+      "max_funding_millions": 21.377272
+    },
+    {
+      "data_year": 2024,
+      "school_count": 47,
+      "funding_billions": 0.15905,
+      "avg_funding_millions": 3.3840421064,
+      "max_funding_millions": 21.816781
+    }
+  ],
+  "Family_Medicine": [
+    {
+      "data_year": 2006,
+      "school_count": 48,
+      "funding_billions": 0.044428,
+      "avg_funding_millions": 0.9255850833,
+      "max_funding_millions": 5.675592
+    },
+    {
+      "data_year": 2007,
+      "school_count": 43,
+      "funding_billions": 0.048,
+      "avg_funding_millions": 1.1162678372,
+      "max_funding_millions": 10.820177
+    },
+    {
+      "data_year": 2008,
+      "school_count": 47,
+      "funding_billions": 0.04798,
+      "avg_funding_millions": 1.0208565106,
+      "max_funding_millions": 10.540657
+    },
+    {
+      "data_year": 2009,
+      "school_count": 45,
+      "funding_billions": 0.055894,
+      "avg_funding_millions": 1.2420800444,
+      "max_funding_millions": 10.869146
+    },
+    {
+      "data_year": 2010,
+      "school_count": 46,
+      "funding_billions": 0.057479,
+      "avg_funding_millions": 1.2495541522,
+      "max_funding_millions": 11.689854
+    },
+    {
+      "data_year": 2011,
+      "school_count": 41,
+      "funding_billions": 0.055012,
+      "avg_funding_millions": 1.3417487317,
+      "max_funding_millions": 12.677983
+    },
+    {
+      "data_year": 2012,
+      "school_count": 45,
+      "funding_billions": 0.065142,
+      "avg_funding_millions": 1.4475989111,
+      "max_funding_millions": 15.040643
+    },
+    {
+      "data_year": 2013,
+      "school_count": 42,
+      "funding_billions": 0.062973,
+      "avg_funding_millions": 1.4993452619,
+      "max_funding_millions": 13.208435
+    },
+    {
+      "data_year": 2014,
+      "school_count": 36,
+      "funding_billions": 0.058919,
+      "avg_funding_millions": 1.6366346111,
+      "max_funding_millions": 11.859929
+    },
+    {
+      "data_year": 2015,
+      "school_count": 39,
+      "funding_billions": 0.059413,
+      "avg_funding_millions": 1.5234225641,
+      "max_funding_millions": 12.861764
+    },
+    {
+      "data_year": 2016,
+      "school_count": 41,
+      "funding_billions": 0.059154,
+      "avg_funding_millions": 1.4427907073,
+      "max_funding_millions": 9.173342
+    },
+    {
+      "data_year": 2017,
+      "school_count": 41,
+      "funding_billions": 0.055773,
+      "avg_funding_millions": 1.3603276829,
+      "max_funding_millions": 7.728092
+    },
+    {
+      "data_year": 2018,
+      "school_count": 43,
+      "funding_billions": 0.064014,
+      "avg_funding_millions": 1.4886988837,
+      "max_funding_millions": 9.586579
+    },
+    {
+      "data_year": 2019,
+      "school_count": 42,
+      "funding_billions": 0.076775,
+      "avg_funding_millions": 1.8279712143,
+      "max_funding_millions": 12.722968
+    },
+    {
+      "data_year": 2020,
+      "school_count": 47,
+      "funding_billions": 0.094676,
+      "avg_funding_millions": 2.0143797872,
+      "max_funding_millions": 14.474223
+    },
+    {
+      "data_year": 2021,
+      "school_count": 50,
+      "funding_billions": 0.103339,
+      "avg_funding_millions": 2.0667738,
+      "max_funding_millions": 14.343747
+    },
+    {
+      "data_year": 2022,
+      "school_count": 49,
+      "funding_billions": 0.110552,
+      "avg_funding_millions": 2.2561536122,
+      "max_funding_millions": 25.156858
+    },
+    {
+      "data_year": 2023,
+      "school_count": 50,
+      "funding_billions": 0.123723,
+      "avg_funding_millions": 2.47446536,
+      "max_funding_millions": 23.529038
+    },
+    {
+      "data_year": 2024,
+      "school_count": 48,
+      "funding_billions": 0.107709,
+      "avg_funding_millions": 2.2439431042,
+      "max_funding_millions": 24.2522
+    }
+  ],
+  "Internal_Medicine": [
+    {
+      "data_year": 2006,
+      "school_count": 110,
+      "funding_billions": 3.10972,
+      "avg_funding_millions": 28.2701795091,
+      "max_funding_millions": 167.764139
+    },
+    {
+      "data_year": 2007,
+      "school_count": 113,
+      "funding_billions": 3.277755,
+      "avg_funding_millions": 29.0066850442,
+      "max_funding_millions": 167.19998
+    },
+    {
+      "data_year": 2008,
+      "school_count": 111,
+      "funding_billions": 3.149771,
+      "avg_funding_millions": 28.3763157117,
+      "max_funding_millions": 162.012781
+    },
+    {
+      "data_year": 2009,
+      "school_count": 110,
+      "funding_billions": 3.183749,
+      "avg_funding_millions": 28.9431724727,
+      "max_funding_millions": 153.98954
+    },
+    {
+      "data_year": 2010,
+      "school_count": 111,
+      "funding_billions": 3.220617,
+      "avg_funding_millions": 29.0145685135,
+      "max_funding_millions": 162.045611
+    },
+    {
+      "data_year": 2011,
+      "school_count": 111,
+      "funding_billions": 3.152684,
+      "avg_funding_millions": 28.4025574775,
+      "max_funding_millions": 152.26807
+    },
+    {
+      "data_year": 2012,
+      "school_count": 113,
+      "funding_billions": 3.156032,
+      "avg_funding_millions": 27.9294829115,
+      "max_funding_millions": 158.798885
+    },
+    {
+      "data_year": 2013,
+      "school_count": 116,
+      "funding_billions": 2.964756,
+      "avg_funding_millions": 25.5582395862,
+      "max_funding_millions": 151.988386
+    },
+    {
+      "data_year": 2014,
+      "school_count": 112,
+      "funding_billions": 3.216565,
+      "avg_funding_millions": 28.7193343661,
+      "max_funding_millions": 182.63965
+    },
+    {
+      "data_year": 2015,
+      "school_count": 111,
+      "funding_billions": 3.109751,
+      "avg_funding_millions": 28.0157737928,
+      "max_funding_millions": 178.612334
+    },
+    {
+      "data_year": 2016,
+      "school_count": 114,
+      "funding_billions": 3.443384,
+      "avg_funding_millions": 30.2051226316,
+      "max_funding_millions": 200.256253
+    },
+    {
+      "data_year": 2017,
+      "school_count": 115,
+      "funding_billions": 3.652949,
+      "avg_funding_millions": 31.764774087,
+      "max_funding_millions": 196.885572
+    },
+    {
+      "data_year": 2018,
+      "school_count": 115,
+      "funding_billions": 3.83958,
+      "avg_funding_millions": 33.3876512957,
+      "max_funding_millions": 200.267902
+    },
+    {
+      "data_year": 2019,
+      "school_count": 114,
+      "funding_billions": 4.224339,
+      "avg_funding_millions": 37.0556065614,
+      "max_funding_millions": 216.438317
+    },
+    {
+      "data_year": 2020,
+      "school_count": 116,
+      "funding_billions": 5.078234,
+      "avg_funding_millions": 43.7778810345,
+      "max_funding_millions": 337.37987
+    },
+    {
+      "data_year": 2021,
+      "school_count": 116,
+      "funding_billions": 5.328465,
+      "avg_funding_millions": 45.9350410259,
+      "max_funding_millions": 578.690835
+    },
+    {
+      "data_year": 2022,
+      "school_count": 114,
+      "funding_billions": 5.175651,
+      "avg_funding_millions": 45.4004490263,
+      "max_funding_millions": 252.287769
+    },
+    {
+      "data_year": 2023,
+      "school_count": 113,
+      "funding_billions": 5.266686,
+      "avg_funding_millions": 46.6078438673,
+      "max_funding_millions": 266.827394
+    },
+    {
+      "data_year": 2024,
+      "school_count": 115,
+      "funding_billions": 5.312841,
+      "avg_funding_millions": 46.1986159478,
+      "max_funding_millions": 277.027811
+    }
+  ],
+  "Neurology": [
+    {
+      "data_year": 2006,
+      "school_count": 79,
+      "funding_billions": 0.375519,
+      "avg_funding_millions": 4.7534026709,
+      "max_funding_millions": 31.199998
+    },
+    {
+      "data_year": 2007,
+      "school_count": 81,
+      "funding_billions": 0.381529,
+      "avg_funding_millions": 4.7102329383,
+      "max_funding_millions": 37.449672
+    },
+    {
+      "data_year": 2008,
+      "school_count": 79,
+      "funding_billions": 0.392389,
+      "avg_funding_millions": 4.9669504684,
+      "max_funding_millions": 35.289184
+    },
+    {
+      "data_year": 2009,
+      "school_count": 76,
+      "funding_billions": 0.412003,
+      "avg_funding_millions": 5.4210919211,
+      "max_funding_millions": 39.131374
+    },
+    {
+      "data_year": 2010,
+      "school_count": 78,
+      "funding_billions": 0.426476,
+      "avg_funding_millions": 5.4676375769,
+      "max_funding_millions": 36.421714
+    },
+    {
+      "data_year": 2011,
+      "school_count": 75,
+      "funding_billions": 0.421168,
+      "avg_funding_millions": 5.61556948,
+      "max_funding_millions": 40.040666
+    },
+    {
+      "data_year": 2012,
+      "school_count": 77,
+      "funding_billions": 0.437498,
+      "avg_funding_millions": 5.6817973506,
+      "max_funding_millions": 45.852904
+    },
+    {
+      "data_year": 2013,
+      "school_count": 74,
+      "funding_billions": 0.455887,
+      "avg_funding_millions": 6.1606312838,
+      "max_funding_millions": 68.301681
+    },
+    {
+      "data_year": 2014,
+      "school_count": 70,
+      "funding_billions": 0.497917,
+      "avg_funding_millions": 7.1131038,
+      "max_funding_millions": 57.228918
+    },
+    {
+      "data_year": 2015,
+      "school_count": 75,
+      "funding_billions": 0.449912,
+      "avg_funding_millions": 5.9988308533,
+      "max_funding_millions": 52.133674
+    },
+    {
+      "data_year": 2016,
+      "school_count": 70,
+      "funding_billions": 0.569458,
+      "avg_funding_millions": 8.1351073286,
+      "max_funding_millions": 54.979828
+    },
+    {
+      "data_year": 2017,
+      "school_count": 72,
+      "funding_billions": 0.652706,
+      "avg_funding_millions": 9.0653637639,
+      "max_funding_millions": 56.133088
+    },
+    {
+      "data_year": 2018,
+      "school_count": 77,
+      "funding_billions": 0.767134,
+      "avg_funding_millions": 9.9627818312,
+      "max_funding_millions": 63.859457
+    },
+    {
+      "data_year": 2019,
+      "school_count": 79,
+      "funding_billions": 0.805196,
+      "avg_funding_millions": 10.1923517848,
+      "max_funding_millions": 73.98029
+    },
+    {
+      "data_year": 2020,
+      "school_count": 77,
+      "funding_billions": 0.936482,
+      "avg_funding_millions": 12.1620985844,
+      "max_funding_millions": 84.9167
+    },
+    {
+      "data_year": 2021,
+      "school_count": 78,
+      "funding_billions": 1.006415,
+      "avg_funding_millions": 12.9027526795,
+      "max_funding_millions": 103.757028
+    },
+    {
+      "data_year": 2022,
+      "school_count": 80,
+      "funding_billions": 1.001252,
+      "avg_funding_millions": 12.5156439625,
+      "max_funding_millions": 103.768193
+    },
+    {
+      "data_year": 2023,
+      "school_count": 74,
+      "funding_billions": 1.026117,
+      "avg_funding_millions": 13.8664520946,
+      "max_funding_millions": 127.491694
+    },
+    {
+      "data_year": 2024,
+      "school_count": 76,
+      "funding_billions": 1.096539,
+      "avg_funding_millions": 14.4281459868,
+      "max_funding_millions": 140.85448
+    }
+  ],
+  "Neurosurgery": [
+    {
+      "data_year": 2006,
+      "school_count": 45,
+      "funding_billions": 0.066884,
+      "avg_funding_millions": 1.4863082222,
+      "max_funding_millions": 8.415377
+    },
+    {
+      "data_year": 2007,
+      "school_count": 42,
+      "funding_billions": 0.073463,
+      "avg_funding_millions": 1.7491269762,
+      "max_funding_millions": 11.807755
+    },
+    {
+      "data_year": 2008,
+      "school_count": 41,
+      "funding_billions": 0.08086,
+      "avg_funding_millions": 1.9721846341,
+      "max_funding_millions": 13.359067
+    },
+    {
+      "data_year": 2009,
+      "school_count": 46,
+      "funding_billions": 0.08373,
+      "avg_funding_millions": 1.8202177391,
+      "max_funding_millions": 17.571878
+    },
+    {
+      "data_year": 2010,
+      "school_count": 45,
+      "funding_billions": 0.0818,
+      "avg_funding_millions": 1.8177816444,
+      "max_funding_millions": 16.156985
+    },
+    {
+      "data_year": 2011,
+      "school_count": 38,
+      "funding_billions": 0.074205,
+      "avg_funding_millions": 1.9527683947,
+      "max_funding_millions": 18.50739
+    },
+    {
+      "data_year": 2012,
+      "school_count": 38,
+      "funding_billions": 0.067915,
+      "avg_funding_millions": 1.7872463158,
+      "max_funding_millions": 15.601915
+    },
+    {
+      "data_year": 2013,
+      "school_count": 42,
+      "funding_billions": 0.06897,
+      "avg_funding_millions": 1.6421349524,
+      "max_funding_millions": 18.79282
+    },
+    {
+      "data_year": 2014,
+      "school_count": 38,
+      "funding_billions": 0.066117,
+      "avg_funding_millions": 1.7399125263,
+      "max_funding_millions": 20.596496
+    },
+    {
+      "data_year": 2015,
+      "school_count": 42,
+      "funding_billions": 0.085473,
+      "avg_funding_millions": 2.0350602143,
+      "max_funding_millions": 18.095401
+    },
+    {
+      "data_year": 2016,
+      "school_count": 47,
+      "funding_billions": 0.10396,
+      "avg_funding_millions": 2.2119152128,
+      "max_funding_millions": 18.901234
+    },
+    {
+      "data_year": 2017,
+      "school_count": 47,
+      "funding_billions": 0.122578,
+      "avg_funding_millions": 2.6080402553,
+      "max_funding_millions": 20.3331
+    },
+    {
+      "data_year": 2018,
+      "school_count": 44,
+      "funding_billions": 0.135859,
+      "avg_funding_millions": 3.0877069318,
+      "max_funding_millions": 15.962462
+    },
+    {
+      "data_year": 2019,
+      "school_count": 48,
+      "funding_billions": 0.157258,
+      "avg_funding_millions": 3.2762055833,
+      "max_funding_millions": 18.853532
+    },
+    {
+      "data_year": 2020,
+      "school_count": 50,
+      "funding_billions": 0.162245,
+      "avg_funding_millions": 3.24490888,
+      "max_funding_millions": 23.028057
+    },
+    {
+      "data_year": 2021,
+      "school_count": 54,
+      "funding_billions": 0.190164,
+      "avg_funding_millions": 3.5215549444,
+      "max_funding_millions": 25.321311
+    },
+    {
+      "data_year": 2022,
+      "school_count": 50,
+      "funding_billions": 0.225537,
+      "avg_funding_millions": 4.51073792,
+      "max_funding_millions": 28.858523
+    },
+    {
+      "data_year": 2023,
+      "school_count": 53,
+      "funding_billions": 0.251091,
+      "avg_funding_millions": 4.7375663396,
+      "max_funding_millions": 30.095852
+    },
+    {
+      "data_year": 2024,
+      "school_count": 58,
+      "funding_billions": 0.247379,
+      "avg_funding_millions": 4.2651530517,
+      "max_funding_millions": 28.011348
+    }
+  ],
+  "Obstetrics_and_Gynecology": [
+    {
+      "data_year": 2006,
+      "school_count": 74,
+      "funding_billions": 0.132781,
+      "avg_funding_millions": 1.7943322703,
+      "max_funding_millions": 11.748064
+    },
+    {
+      "data_year": 2007,
+      "school_count": 72,
+      "funding_billions": 0.151878,
+      "avg_funding_millions": 2.1094118056,
+      "max_funding_millions": 17.717692
+    },
+    {
+      "data_year": 2008,
+      "school_count": 72,
+      "funding_billions": 0.16802,
+      "avg_funding_millions": 2.3336156528,
+      "max_funding_millions": 18.452511
+    },
+    {
+      "data_year": 2009,
+      "school_count": 67,
+      "funding_billions": 0.159055,
+      "avg_funding_millions": 2.3739568209,
+      "max_funding_millions": 22.682505
+    },
+    {
+      "data_year": 2010,
+      "school_count": 64,
+      "funding_billions": 0.163886,
+      "avg_funding_millions": 2.5607113125,
+      "max_funding_millions": 23.430148
+    },
+    {
+      "data_year": 2011,
+      "school_count": 72,
+      "funding_billions": 0.156424,
+      "avg_funding_millions": 2.1725587361,
+      "max_funding_millions": 20.666947
+    },
+    {
+      "data_year": 2012,
+      "school_count": 69,
+      "funding_billions": 0.138487,
+      "avg_funding_millions": 2.0070543623,
+      "max_funding_millions": 13.97816
+    },
+    {
+      "data_year": 2013,
+      "school_count": 65,
+      "funding_billions": 0.12725,
+      "avg_funding_millions": 1.9576858769,
+      "max_funding_millions": 16.118028
+    },
+    {
+      "data_year": 2014,
+      "school_count": 64,
+      "funding_billions": 0.124216,
+      "avg_funding_millions": 1.9408795156,
+      "max_funding_millions": 16.724393
+    },
+    {
+      "data_year": 2015,
+      "school_count": 64,
+      "funding_billions": 0.143961,
+      "avg_funding_millions": 2.2493960469,
+      "max_funding_millions": 15.226156
+    },
+    {
+      "data_year": 2016,
+      "school_count": 64,
+      "funding_billions": 0.141094,
+      "avg_funding_millions": 2.2045879844,
+      "max_funding_millions": 16.862975
+    },
+    {
+      "data_year": 2017,
+      "school_count": 64,
+      "funding_billions": 0.153203,
+      "avg_funding_millions": 2.3937894063,
+      "max_funding_millions": 15.69156
+    },
+    {
+      "data_year": 2018,
+      "school_count": 67,
+      "funding_billions": 0.15728,
+      "avg_funding_millions": 2.3474688209,
+      "max_funding_millions": 16.294649
+    },
+    {
+      "data_year": 2019,
+      "school_count": 66,
+      "funding_billions": 0.179257,
+      "avg_funding_millions": 2.7160213636,
+      "max_funding_millions": 22.34439
+    },
+    {
+      "data_year": 2020,
+      "school_count": 68,
+      "funding_billions": 0.198906,
+      "avg_funding_millions": 2.9250865882,
+      "max_funding_millions": 20.21442
+    },
+    {
+      "data_year": 2021,
+      "school_count": 64,
+      "funding_billions": 0.213641,
+      "avg_funding_millions": 3.3381388281,
+      "max_funding_millions": 21.099231
+    },
+    {
+      "data_year": 2022,
+      "school_count": 66,
+      "funding_billions": 0.226045,
+      "avg_funding_millions": 3.4249255152,
+      "max_funding_millions": 23.937064
+    },
+    {
+      "data_year": 2023,
+      "school_count": 67,
+      "funding_billions": 0.291562,
+      "avg_funding_millions": 4.3516781642,
+      "max_funding_millions": 25.025346
+    },
+    {
+      "data_year": 2024,
+      "school_count": 62,
+      "funding_billions": 0.276454,
+      "avg_funding_millions": 4.4589432258,
+      "max_funding_millions": 23.206613
+    }
+  ],
+  "Ophthalmology": [
+    {
+      "data_year": 2006,
+      "school_count": 66,
+      "funding_billions": 0.186166,
+      "avg_funding_millions": 2.820694,
+      "max_funding_millions": 13.929496
+    },
+    {
+      "data_year": 2007,
+      "school_count": 66,
+      "funding_billions": 0.184127,
+      "avg_funding_millions": 2.7898023485,
+      "max_funding_millions": 14.231228
+    },
+    {
+      "data_year": 2008,
+      "school_count": 61,
+      "funding_billions": 0.180241,
+      "avg_funding_millions": 2.9547662787,
+      "max_funding_millions": 13.463116
+    },
+    {
+      "data_year": 2009,
+      "school_count": 60,
+      "funding_billions": 0.182704,
+      "avg_funding_millions": 3.04506275,
+      "max_funding_millions": 12.50632
+    },
+    {
+      "data_year": 2010,
+      "school_count": 64,
+      "funding_billions": 0.190315,
+      "avg_funding_millions": 2.9736785156,
+      "max_funding_millions": 12.756727
+    },
+    {
+      "data_year": 2011,
+      "school_count": 65,
+      "funding_billions": 0.194884,
+      "avg_funding_millions": 2.9982121077,
+      "max_funding_millions": 11.608951
+    },
+    {
+      "data_year": 2012,
+      "school_count": 67,
+      "funding_billions": 0.196564,
+      "avg_funding_millions": 2.9337896269,
+      "max_funding_millions": 14.018276
+    },
+    {
+      "data_year": 2013,
+      "school_count": 69,
+      "funding_billions": 0.200877,
+      "avg_funding_millions": 2.9112636232,
+      "max_funding_millions": 13.788471
+    },
+    {
+      "data_year": 2014,
+      "school_count": 66,
+      "funding_billions": 0.227248,
+      "avg_funding_millions": 3.4431529848,
+      "max_funding_millions": 16.476172
+    },
+    {
+      "data_year": 2015,
+      "school_count": 66,
+      "funding_billions": 0.227534,
+      "avg_funding_millions": 3.4474820606,
+      "max_funding_millions": 14.447638
+    },
+    {
+      "data_year": 2016,
+      "school_count": 65,
+      "funding_billions": 0.223284,
+      "avg_funding_millions": 3.4351362462,
+      "max_funding_millions": 13.260513
+    },
+    {
+      "data_year": 2017,
+      "school_count": 65,
+      "funding_billions": 0.23715,
+      "avg_funding_millions": 3.6484650308,
+      "max_funding_millions": 16.098105
+    },
+    {
+      "data_year": 2018,
+      "school_count": 69,
+      "funding_billions": 0.259217,
+      "avg_funding_millions": 3.756770087,
+      "max_funding_millions": 16.276697
+    },
+    {
+      "data_year": 2019,
+      "school_count": 69,
+      "funding_billions": 0.272761,
+      "avg_funding_millions": 3.9530617101,
+      "max_funding_millions": 15.164637
+    },
+    {
+      "data_year": 2020,
+      "school_count": 67,
+      "funding_billions": 0.302454,
+      "avg_funding_millions": 4.514232597,
+      "max_funding_millions": 22.294038
+    },
+    {
+      "data_year": 2021,
+      "school_count": 68,
+      "funding_billions": 0.313488,
+      "avg_funding_millions": 4.6101140441,
+      "max_funding_millions": 21.796217
+    },
+    {
+      "data_year": 2022,
+      "school_count": 65,
+      "funding_billions": 0.329387,
+      "avg_funding_millions": 5.0674866769,
+      "max_funding_millions": 26.631867
+    },
+    {
+      "data_year": 2023,
+      "school_count": 65,
+      "funding_billions": 0.366365,
+      "avg_funding_millions": 5.6363851846,
+      "max_funding_millions": 30.225551
+    },
+    {
+      "data_year": 2024,
+      "school_count": 64,
+      "funding_billions": 0.360168,
+      "avg_funding_millions": 5.6276275469,
+      "max_funding_millions": 28.56476
+    }
+  ],
+  "Orthopedics": [
+    {
+      "data_year": 2006,
+      "school_count": 37,
+      "funding_billions": 0.044448,
+      "avg_funding_millions": 1.2013058649,
+      "max_funding_millions": 4.509553
+    },
+    {
+      "data_year": 2007,
+      "school_count": 43,
+      "funding_billions": 0.049805,
+      "avg_funding_millions": 1.1582612326,
+      "max_funding_millions": 5.143403
+    },
+    {
+      "data_year": 2008,
+      "school_count": 41,
+      "funding_billions": 0.043544,
+      "avg_funding_millions": 1.0620431463,
+      "max_funding_millions": 4.723076
+    },
+    {
+      "data_year": 2009,
+      "school_count": 41,
+      "funding_billions": 0.046466,
+      "avg_funding_millions": 1.1333092683,
+      "max_funding_millions": 4.915787
+    },
+    {
+      "data_year": 2010,
+      "school_count": 39,
+      "funding_billions": 0.046642,
+      "avg_funding_millions": 1.1959579231,
+      "max_funding_millions": 5.1539
+    },
+    {
+      "data_year": 2011,
+      "school_count": 38,
+      "funding_billions": 0.049013,
+      "avg_funding_millions": 1.2898116316,
+      "max_funding_millions": 5.072652
+    },
+    {
+      "data_year": 2012,
+      "school_count": 41,
+      "funding_billions": 0.051615,
+      "avg_funding_millions": 1.2589050244,
+      "max_funding_millions": 4.863725
+    },
+    {
+      "data_year": 2013,
+      "school_count": 43,
+      "funding_billions": 0.054529,
+      "avg_funding_millions": 1.268122093,
+      "max_funding_millions": 6.113194
+    },
+    {
+      "data_year": 2014,
+      "school_count": 43,
+      "funding_billions": 0.054402,
+      "avg_funding_millions": 1.2651574419,
+      "max_funding_millions": 6.394328
+    },
+    {
+      "data_year": 2015,
+      "school_count": 42,
+      "funding_billions": 0.05669,
+      "avg_funding_millions": 1.3497574762,
+      "max_funding_millions": 5.609448
+    },
+    {
+      "data_year": 2016,
+      "school_count": 43,
+      "funding_billions": 0.058746,
+      "avg_funding_millions": 1.3661864186,
+      "max_funding_millions": 7.570659
+    },
+    {
+      "data_year": 2017,
+      "school_count": 46,
+      "funding_billions": 0.073212,
+      "avg_funding_millions": 1.5915671522,
+      "max_funding_millions": 7.852165
+    },
+    {
+      "data_year": 2018,
+      "school_count": 45,
+      "funding_billions": 0.094481,
+      "avg_funding_millions": 2.0995865333,
+      "max_funding_millions": 12.428561
+    },
+    {
+      "data_year": 2019,
+      "school_count": 46,
+      "funding_billions": 0.120451,
+      "avg_funding_millions": 2.6184906957,
+      "max_funding_millions": 39.103498
+    },
+    {
+      "data_year": 2020,
+      "school_count": 49,
+      "funding_billions": 0.102755,
+      "avg_funding_millions": 2.0970354286,
+      "max_funding_millions": 8.354386
+    },
+    {
+      "data_year": 2021,
+      "school_count": 48,
+      "funding_billions": 0.106114,
+      "avg_funding_millions": 2.2107125625,
+      "max_funding_millions": 10.300002
+    },
+    {
+      "data_year": 2022,
+      "school_count": 48,
+      "funding_billions": 0.112364,
+      "avg_funding_millions": 2.3409194583,
+      "max_funding_millions": 12.53044
+    },
+    {
+      "data_year": 2023,
+      "school_count": 48,
+      "funding_billions": 0.126059,
+      "avg_funding_millions": 2.6262370833,
+      "max_funding_millions": 13.132989
+    },
+    {
+      "data_year": 2024,
+      "school_count": 44,
+      "funding_billions": 0.121667,
+      "avg_funding_millions": 2.7651704318,
+      "max_funding_millions": 13.562678
+    }
+  ],
+  "Otolaryngology": [
+    {
+      "data_year": 2006,
+      "school_count": 41,
+      "funding_billions": 0.09646,
+      "avg_funding_millions": 2.3526937805,
+      "max_funding_millions": 19.01313
+    },
+    {
+      "data_year": 2007,
+      "school_count": 40,
+      "funding_billions": 0.090927,
+      "avg_funding_millions": 2.273162675,
+      "max_funding_millions": 11.56964
+    },
+    {
+      "data_year": 2008,
+      "school_count": 40,
+      "funding_billions": 0.09229,
+      "avg_funding_millions": 2.307238375,
+      "max_funding_millions": 12.188705
+    },
+    {
+      "data_year": 2009,
+      "school_count": 45,
+      "funding_billions": 0.094293,
+      "avg_funding_millions": 2.0953934444,
+      "max_funding_millions": 12.280848
+    },
+    {
+      "data_year": 2010,
+      "school_count": 41,
+      "funding_billions": 0.091245,
+      "avg_funding_millions": 2.2254800976,
+      "max_funding_millions": 12.265997
+    },
+    {
+      "data_year": 2011,
+      "school_count": 42,
+      "funding_billions": 0.08022,
+      "avg_funding_millions": 1.9099931905,
+      "max_funding_millions": 10.713292
+    },
+    {
+      "data_year": 2012,
+      "school_count": 42,
+      "funding_billions": 0.094755,
+      "avg_funding_millions": 2.2560791429,
+      "max_funding_millions": 11.256113
+    },
+    {
+      "data_year": 2013,
+      "school_count": 42,
+      "funding_billions": 0.082419,
+      "avg_funding_millions": 1.9623685952,
+      "max_funding_millions": 11.278463
+    },
+    {
+      "data_year": 2014,
+      "school_count": 42,
+      "funding_billions": 0.084787,
+      "avg_funding_millions": 2.0187490476,
+      "max_funding_millions": 11.237753
+    },
+    {
+      "data_year": 2015,
+      "school_count": 43,
+      "funding_billions": 0.117944,
+      "avg_funding_millions": 2.7428787907,
+      "max_funding_millions": 26.099589
+    },
+    {
+      "data_year": 2016,
+      "school_count": 1,
+      "funding_billions": 0.000704,
+      "avg_funding_millions": 0.70426,
+      "max_funding_millions": 0.70426
+    },
+    {
+      "data_year": 2017,
+      "school_count": 1,
+      "funding_billions": 0.000704,
+      "avg_funding_millions": 0.704298,
+      "max_funding_millions": 0.704298
+    },
+    {
+      "data_year": 2018,
+      "school_count": 45,
+      "funding_billions": 0.130072,
+      "avg_funding_millions": 2.8904900667,
+      "max_funding_millions": 18.889448
+    },
+    {
+      "data_year": 2019,
+      "school_count": 1,
+      "funding_billions": 0.001085,
+      "avg_funding_millions": 1.084799,
+      "max_funding_millions": 1.084799
+    },
+    {
+      "data_year": 2020,
+      "school_count": 45,
+      "funding_billions": 0.141728,
+      "avg_funding_millions": 3.1495088444,
+      "max_funding_millions": 13.515079
+    },
+    {
+      "data_year": 2021,
+      "school_count": 43,
+      "funding_billions": 0.138931,
+      "avg_funding_millions": 3.2309439767,
+      "max_funding_millions": 14.455105
+    },
+    {
+      "data_year": 2022,
+      "school_count": 48,
+      "funding_billions": 0.15989,
+      "avg_funding_millions": 3.3310473958,
+      "max_funding_millions": 17.171505
+    },
+    {
+      "data_year": 2023,
+      "school_count": 49,
+      "funding_billions": 0.176075,
+      "avg_funding_millions": 3.5933670816,
+      "max_funding_millions": 14.272266
+    },
+    {
+      "data_year": 2024,
+      "school_count": 48,
+      "funding_billions": 0.173575,
+      "avg_funding_millions": 3.6161502917,
+      "max_funding_millions": 15.876457
+    }
+  ],
+  "Pathology": [
+    {
+      "data_year": 2006,
+      "school_count": 93,
+      "funding_billions": 0.58256,
+      "avg_funding_millions": 6.2640825269,
+      "max_funding_millions": 30.585578
+    },
+    {
+      "data_year": 2007,
+      "school_count": 91,
+      "funding_billions": 0.605286,
+      "avg_funding_millions": 6.6514994505,
+      "max_funding_millions": 42.436004
+    },
+    {
+      "data_year": 2008,
+      "school_count": 91,
+      "funding_billions": 0.578484,
+      "avg_funding_millions": 6.3569633956,
+      "max_funding_millions": 49.34786
+    },
+    {
+      "data_year": 2009,
+      "school_count": 93,
+      "funding_billions": 0.594138,
+      "avg_funding_millions": 6.3885779462,
+      "max_funding_millions": 52.280193
+    },
+    {
+      "data_year": 2010,
+      "school_count": 95,
+      "funding_billions": 0.621311,
+      "avg_funding_millions": 6.5401191579,
+      "max_funding_millions": 51.628101
+    },
+    {
+      "data_year": 2011,
+      "school_count": 92,
+      "funding_billions": 0.612777,
+      "avg_funding_millions": 6.6606172391,
+      "max_funding_millions": 48.22356
+    },
+    {
+      "data_year": 2012,
+      "school_count": 93,
+      "funding_billions": 0.586592,
+      "avg_funding_millions": 6.3074393548,
+      "max_funding_millions": 51.774895
+    },
+    {
+      "data_year": 2013,
+      "school_count": 92,
+      "funding_billions": 0.517345,
+      "avg_funding_millions": 5.623312837,
+      "max_funding_millions": 35.576173
+    },
+    {
+      "data_year": 2014,
+      "school_count": 87,
+      "funding_billions": 0.560306,
+      "avg_funding_millions": 6.4402968851,
+      "max_funding_millions": 43.750152
+    },
+    {
+      "data_year": 2015,
+      "school_count": 87,
+      "funding_billions": 0.567739,
+      "avg_funding_millions": 6.5257305172,
+      "max_funding_millions": 47.984237
+    },
+    {
+      "data_year": 2016,
+      "school_count": 88,
+      "funding_billions": 0.596579,
+      "avg_funding_millions": 6.7793069545,
+      "max_funding_millions": 43.832245
+    },
+    {
+      "data_year": 2017,
+      "school_count": 87,
+      "funding_billions": 0.613083,
+      "avg_funding_millions": 7.0469365632,
+      "max_funding_millions": 53.745191
+    },
+    {
+      "data_year": 2018,
+      "school_count": 86,
+      "funding_billions": 0.626173,
+      "avg_funding_millions": 7.2810869302,
+      "max_funding_millions": 49.831627
+    },
+    {
+      "data_year": 2019,
+      "school_count": 84,
+      "funding_billions": 0.694091,
+      "avg_funding_millions": 8.2629909167,
+      "max_funding_millions": 60.478764
+    },
+    {
+      "data_year": 2020,
+      "school_count": 85,
+      "funding_billions": 0.733334,
+      "avg_funding_millions": 8.6274551647,
+      "max_funding_millions": 53.165271
+    },
+    {
+      "data_year": 2021,
+      "school_count": 85,
+      "funding_billions": 0.746947,
+      "avg_funding_millions": 8.7876112353,
+      "max_funding_millions": 63.675825
+    },
+    {
+      "data_year": 2022,
+      "school_count": 87,
+      "funding_billions": 0.786125,
+      "avg_funding_millions": 9.0359146667,
+      "max_funding_millions": 47.831912
+    },
+    {
+      "data_year": 2023,
+      "school_count": 87,
+      "funding_billions": 0.842815,
+      "avg_funding_millions": 9.6875231724,
+      "max_funding_millions": 49.860431
+    },
+    {
+      "data_year": 2024,
+      "school_count": 89,
+      "funding_billions": 0.82494,
+      "avg_funding_millions": 9.268991,
+      "max_funding_millions": 50.301975
+    }
+  ],
+  "Pediatrics": [
+    {
+      "data_year": 2006,
+      "school_count": 93,
+      "funding_billions": 0.539428,
+      "avg_funding_millions": 5.8002997957,
+      "max_funding_millions": 35.967816
+    },
+    {
+      "data_year": 2007,
+      "school_count": 93,
+      "funding_billions": 0.560246,
+      "avg_funding_millions": 6.0241473656,
+      "max_funding_millions": 37.514172
+    },
+    {
+      "data_year": 2008,
+      "school_count": 92,
+      "funding_billions": 0.590764,
+      "avg_funding_millions": 6.4213511087,
+      "max_funding_millions": 44.496823
+    },
+    {
+      "data_year": 2009,
+      "school_count": 89,
+      "funding_billions": 0.603885,
+      "avg_funding_millions": 6.7852237303,
+      "max_funding_millions": 40.244342
+    },
+    {
+      "data_year": 2010,
+      "school_count": 91,
+      "funding_billions": 0.644527,
+      "avg_funding_millions": 7.082714956,
+      "max_funding_millions": 39.013928
+    },
+    {
+      "data_year": 2011,
+      "school_count": 90,
+      "funding_billions": 0.719344,
+      "avg_funding_millions": 7.9927058222,
+      "max_funding_millions": 61.710276
+    },
+    {
+      "data_year": 2012,
+      "school_count": 85,
+      "funding_billions": 0.727069,
+      "avg_funding_millions": 8.5537492706,
+      "max_funding_millions": 52.602046
+    },
+    {
+      "data_year": 2013,
+      "school_count": 89,
+      "funding_billions": 0.675612,
+      "avg_funding_millions": 7.5911501573,
+      "max_funding_millions": 53.865712
+    },
+    {
+      "data_year": 2014,
+      "school_count": 87,
+      "funding_billions": 0.685987,
+      "avg_funding_millions": 7.8849073103,
+      "max_funding_millions": 43.217959
+    },
+    {
+      "data_year": 2015,
+      "school_count": 84,
+      "funding_billions": 0.719864,
+      "avg_funding_millions": 8.5698108929,
+      "max_funding_millions": 65.569638
+    },
+    {
+      "data_year": 2016,
+      "school_count": 88,
+      "funding_billions": 0.754163,
+      "avg_funding_millions": 8.5700316818,
+      "max_funding_millions": 47.30707
+    },
+    {
+      "data_year": 2017,
+      "school_count": 88,
+      "funding_billions": 0.732052,
+      "avg_funding_millions": 8.3187781136,
+      "max_funding_millions": 48.177116
+    },
+    {
+      "data_year": 2018,
+      "school_count": 89,
+      "funding_billions": 0.778222,
+      "avg_funding_millions": 8.7440668989,
+      "max_funding_millions": 53.735074
+    },
+    {
+      "data_year": 2019,
+      "school_count": 84,
+      "funding_billions": 0.858194,
+      "avg_funding_millions": 10.2165912381,
+      "max_funding_millions": 55.619016
+    },
+    {
+      "data_year": 2020,
+      "school_count": 90,
+      "funding_billions": 1.021032,
+      "avg_funding_millions": 11.3447971,
+      "max_funding_millions": 97.142316
+    },
+    {
+      "data_year": 2021,
+      "school_count": 91,
+      "funding_billions": 1.190967,
+      "avg_funding_millions": 13.0875547912,
+      "max_funding_millions": 209.692204
+    },
+    {
+      "data_year": 2022,
+      "school_count": 87,
+      "funding_billions": 1.142756,
+      "avg_funding_millions": 13.1351283333,
+      "max_funding_millions": 77.177149
+    },
+    {
+      "data_year": 2023,
+      "school_count": 85,
+      "funding_billions": 1.196466,
+      "avg_funding_millions": 14.0760744706,
+      "max_funding_millions": 100.869457
+    },
+    {
+      "data_year": 2024,
+      "school_count": 85,
+      "funding_billions": 1.167383,
+      "avg_funding_millions": 13.7339162353,
+      "max_funding_millions": 80.0031
+    }
+  ],
+  "Physical_Medicine": [
+    {
+      "data_year": 2006,
+      "school_count": 26,
+      "funding_billions": 0.018674,
+      "avg_funding_millions": 0.7182389231,
+      "max_funding_millions": 2.947141
+    },
+    {
+      "data_year": 2007,
+      "school_count": 26,
+      "funding_billions": 0.01796,
+      "avg_funding_millions": 0.6907705,
+      "max_funding_millions": 2.243398
+    },
+    {
+      "data_year": 2008,
+      "school_count": 23,
+      "funding_billions": 0.016797,
+      "avg_funding_millions": 0.7303133043,
+      "max_funding_millions": 3.285401
+    },
+    {
+      "data_year": 2009,
+      "school_count": 18,
+      "funding_billions": 0.012813,
+      "avg_funding_millions": 0.7118298889,
+      "max_funding_millions": 2.658603
+    },
+    {
+      "data_year": 2010,
+      "school_count": 22,
+      "funding_billions": 0.017117,
+      "avg_funding_millions": 0.7780666818,
+      "max_funding_millions": 3.486946
+    },
+    {
+      "data_year": 2011,
+      "school_count": 22,
+      "funding_billions": 0.015237,
+      "avg_funding_millions": 0.6926083182,
+      "max_funding_millions": 2.644005
+    },
+    {
+      "data_year": 2012,
+      "school_count": 21,
+      "funding_billions": 0.020089,
+      "avg_funding_millions": 0.9566163333,
+      "max_funding_millions": 3.057236
+    },
+    {
+      "data_year": 2013,
+      "school_count": 21,
+      "funding_billions": 0.024725,
+      "avg_funding_millions": 1.1773929048,
+      "max_funding_millions": 3.258643
+    },
+    {
+      "data_year": 2014,
+      "school_count": 25,
+      "funding_billions": 0.024269,
+      "avg_funding_millions": 0.9707712,
+      "max_funding_millions": 3.473337
+    },
+    {
+      "data_year": 2015,
+      "school_count": 24,
+      "funding_billions": 0.023614,
+      "avg_funding_millions": 0.9839222917,
+      "max_funding_millions": 3.480284
+    },
+    {
+      "data_year": 2016,
+      "school_count": 22,
+      "funding_billions": 0.026834,
+      "avg_funding_millions": 1.2197297727,
+      "max_funding_millions": 4.36174
+    },
+    {
+      "data_year": 2017,
+      "school_count": 25,
+      "funding_billions": 0.032937,
+      "avg_funding_millions": 1.3174646,
+      "max_funding_millions": 5.974704
+    },
+    {
+      "data_year": 2018,
+      "school_count": 26,
+      "funding_billions": 0.033259,
+      "avg_funding_millions": 1.2791786154,
+      "max_funding_millions": 5.935582
+    },
+    {
+      "data_year": 2019,
+      "school_count": 26,
+      "funding_billions": 0.067223,
+      "avg_funding_millions": 2.5854916538,
+      "max_funding_millions": 24.506488
+    },
+    {
+      "data_year": 2020,
+      "school_count": 27,
+      "funding_billions": 0.045013,
+      "avg_funding_millions": 1.6671389259,
+      "max_funding_millions": 10.96881
+    },
+    {
+      "data_year": 2021,
+      "school_count": 26,
+      "funding_billions": 0.045368,
+      "avg_funding_millions": 1.7449291923,
+      "max_funding_millions": 8.661695
+    },
+    {
+      "data_year": 2022,
+      "school_count": 31,
+      "funding_billions": 0.063032,
+      "avg_funding_millions": 2.0332752903,
+      "max_funding_millions": 12.116816
+    },
+    {
+      "data_year": 2023,
+      "school_count": 31,
+      "funding_billions": 0.067288,
+      "avg_funding_millions": 2.1705714516,
+      "max_funding_millions": 11.851009
+    },
+    {
+      "data_year": 2024,
+      "school_count": 34,
+      "funding_billions": 0.067711,
+      "avg_funding_millions": 1.9914987647,
+      "max_funding_millions": 12.416995
+    }
+  ],
+  "Psychiatry": [
+    {
+      "data_year": 2006,
+      "school_count": 89,
+      "funding_billions": 0.791622,
+      "avg_funding_millions": 8.8946301011,
+      "max_funding_millions": 72.646783
+    },
+    {
+      "data_year": 2007,
+      "school_count": 93,
+      "funding_billions": 0.824748,
+      "avg_funding_millions": 8.8682536237,
+      "max_funding_millions": 62.012313
+    },
+    {
+      "data_year": 2008,
+      "school_count": 92,
+      "funding_billions": 0.818416,
+      "avg_funding_millions": 8.8958289457,
+      "max_funding_millions": 61.429444
+    },
+    {
+      "data_year": 2009,
+      "school_count": 91,
+      "funding_billions": 0.809067,
+      "avg_funding_millions": 8.8908475055,
+      "max_funding_millions": 65.591628
+    },
+    {
+      "data_year": 2010,
+      "school_count": 86,
+      "funding_billions": 0.834491,
+      "avg_funding_millions": 9.7033862558,
+      "max_funding_millions": 65.805723
+    },
+    {
+      "data_year": 2011,
+      "school_count": 86,
+      "funding_billions": 0.776009,
+      "avg_funding_millions": 9.023361314,
+      "max_funding_millions": 68.40037
+    },
+    {
+      "data_year": 2012,
+      "school_count": 83,
+      "funding_billions": 0.781678,
+      "avg_funding_millions": 9.4178100964,
+      "max_funding_millions": 67.128225
+    },
+    {
+      "data_year": 2013,
+      "school_count": 85,
+      "funding_billions": 0.720025,
+      "avg_funding_millions": 8.4708878,
+      "max_funding_millions": 57.158976
+    },
+    {
+      "data_year": 2014,
+      "school_count": 83,
+      "funding_billions": 0.73711,
+      "avg_funding_millions": 8.8808440723,
+      "max_funding_millions": 58.6433
+    },
+    {
+      "data_year": 2015,
+      "school_count": 79,
+      "funding_billions": 0.728242,
+      "avg_funding_millions": 9.2182550633,
+      "max_funding_millions": 60.497511
+    },
+    {
+      "data_year": 2016,
+      "school_count": 76,
+      "funding_billions": 0.797411,
+      "avg_funding_millions": 10.4922519868,
+      "max_funding_millions": 67.480031
+    },
+    {
+      "data_year": 2017,
+      "school_count": 79,
+      "funding_billions": 0.814649,
+      "avg_funding_millions": 10.3120181899,
+      "max_funding_millions": 71.970955
+    },
+    {
+      "data_year": 2018,
+      "school_count": 78,
+      "funding_billions": 0.881507,
+      "avg_funding_millions": 11.3013701667,
+      "max_funding_millions": 75.615049
+    },
+    {
+      "data_year": 2019,
+      "school_count": 76,
+      "funding_billions": 0.98663,
+      "avg_funding_millions": 12.9819706842,
+      "max_funding_millions": 75.504718
+    },
+    {
+      "data_year": 2020,
+      "school_count": 88,
+      "funding_billions": 1.029327,
+      "avg_funding_millions": 11.6969003182,
+      "max_funding_millions": 110.357177
+    },
+    {
+      "data_year": 2021,
+      "school_count": 87,
+      "funding_billions": 1.072161,
+      "avg_funding_millions": 12.3236904483,
+      "max_funding_millions": 112.087434
+    },
+    {
+      "data_year": 2022,
+      "school_count": 89,
+      "funding_billions": 1.151411,
+      "avg_funding_millions": 12.937199236,
+      "max_funding_millions": 118.502507
+    },
+    {
+      "data_year": 2023,
+      "school_count": 87,
+      "funding_billions": 1.191263,
+      "avg_funding_millions": 13.6926814023,
+      "max_funding_millions": 130.020362
+    },
+    {
+      "data_year": 2024,
+      "school_count": 85,
+      "funding_billions": 1.25363,
+      "avg_funding_millions": 14.7485846471,
+      "max_funding_millions": 113.136428
+    }
+  ],
+  "Public_Health": [
+    {
+      "data_year": 2006,
+      "school_count": 46,
+      "funding_billions": 0.239709,
+      "avg_funding_millions": 5.2110749348,
+      "max_funding_millions": 31.9848
+    },
+    {
+      "data_year": 2007,
+      "school_count": 62,
+      "funding_billions": 0.296004,
+      "avg_funding_millions": 4.7742552258,
+      "max_funding_millions": 35.098636
+    },
+    {
+      "data_year": 2008,
+      "school_count": 56,
+      "funding_billions": 0.271641,
+      "avg_funding_millions": 4.8507328929,
+      "max_funding_millions": 39.779113
+    },
+    {
+      "data_year": 2009,
+      "school_count": 47,
+      "funding_billions": 0.276172,
+      "avg_funding_millions": 5.8760038936,
+      "max_funding_millions": 39.353273
+    },
+    {
+      "data_year": 2010,
+      "school_count": 43,
+      "funding_billions": 0.271797,
+      "avg_funding_millions": 6.3208628372,
+      "max_funding_millions": 32.851111
+    },
+    {
+      "data_year": 2011,
+      "school_count": 47,
+      "funding_billions": 0.275794,
+      "avg_funding_millions": 5.8679642553,
+      "max_funding_millions": 27.851275
+    },
+    {
+      "data_year": 2012,
+      "school_count": 48,
+      "funding_billions": 0.289027,
+      "avg_funding_millions": 6.0213889375,
+      "max_funding_millions": 25.180187
+    },
+    {
+      "data_year": 2013,
+      "school_count": 48,
+      "funding_billions": 0.275763,
+      "avg_funding_millions": 5.7450621042,
+      "max_funding_millions": 27.180747
+    },
+    {
+      "data_year": 2014,
+      "school_count": 49,
+      "funding_billions": 0.282299,
+      "avg_funding_millions": 5.7612040816,
+      "max_funding_millions": 25.175175
+    },
+    {
+      "data_year": 2015,
+      "school_count": 48,
+      "funding_billions": 0.266598,
+      "avg_funding_millions": 5.5541292917,
+      "max_funding_millions": 28.255502
+    },
+    {
+      "data_year": 2016,
+      "school_count": 44,
+      "funding_billions": 0.306276,
+      "avg_funding_millions": 6.9608259545,
+      "max_funding_millions": 50.95604
+    },
+    {
+      "data_year": 2017,
+      "school_count": 46,
+      "funding_billions": 0.325863,
+      "avg_funding_millions": 7.0839738043,
+      "max_funding_millions": 37.631093
+    },
+    {
+      "data_year": 2018,
+      "school_count": 46,
+      "funding_billions": 0.346771,
+      "avg_funding_millions": 7.5385033261,
+      "max_funding_millions": 62.827607
+    },
+    {
+      "data_year": 2019,
+      "school_count": 44,
+      "funding_billions": 0.38934,
+      "avg_funding_millions": 8.8486440682,
+      "max_funding_millions": 70.857688
+    },
+    {
+      "data_year": 2020,
+      "school_count": 46,
+      "funding_billions": 0.430252,
+      "avg_funding_millions": 9.3532972609,
+      "max_funding_millions": 71.026005
+    },
+    {
+      "data_year": 2021,
+      "school_count": 46,
+      "funding_billions": 0.428434,
+      "avg_funding_millions": 9.3137905435,
+      "max_funding_millions": 63.382725
+    },
+    {
+      "data_year": 2022,
+      "school_count": 48,
+      "funding_billions": 0.475265,
+      "avg_funding_millions": 9.9013487292,
+      "max_funding_millions": 69.50405
+    },
+    {
+      "data_year": 2023,
+      "school_count": 46,
+      "funding_billions": 0.517283,
+      "avg_funding_millions": 11.2452840217,
+      "max_funding_millions": 69.494482
+    },
+    {
+      "data_year": 2024,
+      "school_count": 45,
+      "funding_billions": 0.531298,
+      "avg_funding_millions": 11.8066326,
+      "max_funding_millions": 68.747839
+    }
+  ],
+  "Radiology": [
+    {
+      "data_year": 2006,
+      "school_count": 71,
+      "funding_billions": 0.306039,
+      "avg_funding_millions": 4.3104130986,
+      "max_funding_millions": 24.712792
+    },
+    {
+      "data_year": 2007,
+      "school_count": 69,
+      "funding_billions": 0.32231,
+      "avg_funding_millions": 4.6711631159,
+      "max_funding_millions": 24.423613
+    },
+    {
+      "data_year": 2008,
+      "school_count": 70,
+      "funding_billions": 0.32888,
+      "avg_funding_millions": 4.6982865143,
+      "max_funding_millions": 25.908486
+    },
+    {
+      "data_year": 2009,
+      "school_count": 65,
+      "funding_billions": 0.309919,
+      "avg_funding_millions": 4.7679886154,
+      "max_funding_millions": 23.921687
+    },
+    {
+      "data_year": 2010,
+      "school_count": 69,
+      "funding_billions": 0.322028,
+      "avg_funding_millions": 4.6670657826,
+      "max_funding_millions": 34.961871
+    },
+    {
+      "data_year": 2011,
+      "school_count": 69,
+      "funding_billions": 0.326835,
+      "avg_funding_millions": 4.7367350725,
+      "max_funding_millions": 32.834843
+    },
+    {
+      "data_year": 2012,
+      "school_count": 67,
+      "funding_billions": 0.310193,
+      "avg_funding_millions": 4.6297463433,
+      "max_funding_millions": 26.363205
+    },
+    {
+      "data_year": 2013,
+      "school_count": 66,
+      "funding_billions": 0.31886,
+      "avg_funding_millions": 4.8312165909,
+      "max_funding_millions": 33.251
+    },
+    {
+      "data_year": 2014,
+      "school_count": 66,
+      "funding_billions": 0.334771,
+      "avg_funding_millions": 5.0722824545,
+      "max_funding_millions": 35.286606
+    },
+    {
+      "data_year": 2015,
+      "school_count": 65,
+      "funding_billions": 0.364802,
+      "avg_funding_millions": 5.6123410154,
+      "max_funding_millions": 34.001398
+    },
+    {
+      "data_year": 2016,
+      "school_count": 65,
+      "funding_billions": 0.376328,
+      "avg_funding_millions": 5.7896650462,
+      "max_funding_millions": 32.786211
+    },
+    {
+      "data_year": 2017,
+      "school_count": 64,
+      "funding_billions": 0.420156,
+      "avg_funding_millions": 6.5649445156,
+      "max_funding_millions": 38.845968
+    },
+    {
+      "data_year": 2018,
+      "school_count": 67,
+      "funding_billions": 0.469884,
+      "avg_funding_millions": 7.0131895224,
+      "max_funding_millions": 45.505151
+    },
+    {
+      "data_year": 2019,
+      "school_count": 64,
+      "funding_billions": 0.486144,
+      "avg_funding_millions": 7.5959929063,
+      "max_funding_millions": 42.745155
+    },
+    {
+      "data_year": 2020,
+      "school_count": 68,
+      "funding_billions": 0.506787,
+      "avg_funding_millions": 7.452747,
+      "max_funding_millions": 42.28062
+    },
+    {
+      "data_year": 2021,
+      "school_count": 71,
+      "funding_billions": 0.57644,
+      "avg_funding_millions": 8.1188787042,
+      "max_funding_millions": 49.579316
+    },
+    {
+      "data_year": 2022,
+      "school_count": 72,
+      "funding_billions": 0.581405,
+      "avg_funding_millions": 8.0750705556,
+      "max_funding_millions": 46.95848
+    },
+    {
+      "data_year": 2023,
+      "school_count": 69,
+      "funding_billions": 0.65391,
+      "avg_funding_millions": 9.4769557681,
+      "max_funding_millions": 50.095201
+    },
+    {
+      "data_year": 2024,
+      "school_count": 73,
+      "funding_billions": 0.654115,
+      "avg_funding_millions": 8.9604804932,
+      "max_funding_millions": 45.676349
+    }
+  ],
+  "Surgery": [
+    {
+      "data_year": 2006,
+      "school_count": 87,
+      "funding_billions": 0.30367,
+      "avg_funding_millions": 3.4904646092,
+      "max_funding_millions": 32.185915
+    },
+    {
+      "data_year": 2007,
+      "school_count": 87,
+      "funding_billions": 0.318933,
+      "avg_funding_millions": 3.6658927471,
+      "max_funding_millions": 32.911338
+    },
+    {
+      "data_year": 2008,
+      "school_count": 88,
+      "funding_billions": 0.295179,
+      "avg_funding_millions": 3.3543094205,
+      "max_funding_millions": 27.018918
+    },
+    {
+      "data_year": 2009,
+      "school_count": 83,
+      "funding_billions": 0.296926,
+      "avg_funding_millions": 3.5774173133,
+      "max_funding_millions": 24.799743
+    },
+    {
+      "data_year": 2010,
+      "school_count": 86,
+      "funding_billions": 0.2885,
+      "avg_funding_millions": 3.3546558953,
+      "max_funding_millions": 27.714826
+    },
+    {
+      "data_year": 2011,
+      "school_count": 88,
+      "funding_billions": 0.268737,
+      "avg_funding_millions": 3.0538280114,
+      "max_funding_millions": 19.421117
+    },
+    {
+      "data_year": 2012,
+      "school_count": 85,
+      "funding_billions": 0.27621,
+      "avg_funding_millions": 3.2495308235,
+      "max_funding_millions": 21.798568
+    },
+    {
+      "data_year": 2013,
+      "school_count": 80,
+      "funding_billions": 0.276918,
+      "avg_funding_millions": 3.461472175,
+      "max_funding_millions": 17.482744
+    },
+    {
+      "data_year": 2014,
+      "school_count": 73,
+      "funding_billions": 0.277137,
+      "avg_funding_millions": 3.7964034384,
+      "max_funding_millions": 21.169882
+    },
+    {
+      "data_year": 2015,
+      "school_count": 73,
+      "funding_billions": 0.287185,
+      "avg_funding_millions": 3.934039863,
+      "max_funding_millions": 20.345127
+    },
+    {
+      "data_year": 2016,
+      "school_count": 76,
+      "funding_billions": 0.292805,
+      "avg_funding_millions": 3.8527025526,
+      "max_funding_millions": 19.621244
+    },
+    {
+      "data_year": 2017,
+      "school_count": 76,
+      "funding_billions": 0.301101,
+      "avg_funding_millions": 3.96185925,
+      "max_funding_millions": 19.526316
+    },
+    {
+      "data_year": 2018,
+      "school_count": 77,
+      "funding_billions": 0.351233,
+      "avg_funding_millions": 4.5614632857,
+      "max_funding_millions": 30.25745
+    },
+    {
+      "data_year": 2019,
+      "school_count": 74,
+      "funding_billions": 0.387136,
+      "avg_funding_millions": 5.2315674054,
+      "max_funding_millions": 26.145958
+    },
+    {
+      "data_year": 2020,
+      "school_count": 77,
+      "funding_billions": 0.442522,
+      "avg_funding_millions": 5.7470412338,
+      "max_funding_millions": 25.604626
+    },
+    {
+      "data_year": 2021,
+      "school_count": 76,
+      "funding_billions": 0.453983,
+      "avg_funding_millions": 5.9734585395,
+      "max_funding_millions": 30.913358
+    },
+    {
+      "data_year": 2022,
+      "school_count": 76,
+      "funding_billions": 0.504526,
+      "avg_funding_millions": 6.6384977237,
+      "max_funding_millions": 44.987067
+    },
+    {
+      "data_year": 2023,
+      "school_count": 77,
+      "funding_billions": 0.538428,
+      "avg_funding_millions": 6.9925670519,
+      "max_funding_millions": 47.357541
+    },
+    {
+      "data_year": 2024,
+      "school_count": 75,
+      "funding_billions": 0.527898,
+      "avg_funding_millions": 7.0386463867,
+      "max_funding_millions": 48.429438
+    }
+  ],
+  "Urology": [
+    {
+      "data_year": 2006,
+      "school_count": 33,
+      "funding_billions": 0.049399,
+      "avg_funding_millions": 1.4969474242,
+      "max_funding_millions": 5.129564
+    },
+    {
+      "data_year": 2007,
+      "school_count": 34,
+      "funding_billions": 0.04649,
+      "avg_funding_millions": 1.3673396471,
+      "max_funding_millions": 5.59753
+    },
+    {
+      "data_year": 2008,
+      "school_count": 35,
+      "funding_billions": 0.047339,
+      "avg_funding_millions": 1.3525566857,
+      "max_funding_millions": 5.262598
+    },
+    {
+      "data_year": 2009,
+      "school_count": 36,
+      "funding_billions": 0.059306,
+      "avg_funding_millions": 1.6473998056,
+      "max_funding_millions": 8.371901
+    },
+    {
+      "data_year": 2010,
+      "school_count": 34,
+      "funding_billions": 0.064443,
+      "avg_funding_millions": 1.8953737941,
+      "max_funding_millions": 9.224429
+    },
+    {
+      "data_year": 2011,
+      "school_count": 34,
+      "funding_billions": 0.064233,
+      "avg_funding_millions": 1.8891936765,
+      "max_funding_millions": 9.100156
+    },
+    {
+      "data_year": 2012,
+      "school_count": 34,
+      "funding_billions": 0.061682,
+      "avg_funding_millions": 1.8141906176,
+      "max_funding_millions": 9.146361
+    },
+    {
+      "data_year": 2013,
+      "school_count": 35,
+      "funding_billions": 0.059293,
+      "avg_funding_millions": 1.6940930571,
+      "max_funding_millions": 7.987267
+    },
+    {
+      "data_year": 2014,
+      "school_count": 35,
+      "funding_billions": 0.05385,
+      "avg_funding_millions": 1.5385800286,
+      "max_funding_millions": 5.224967
+    },
+    {
+      "data_year": 2015,
+      "school_count": 33,
+      "funding_billions": 0.054814,
+      "avg_funding_millions": 1.661036697,
+      "max_funding_millions": 5.077193
+    },
+    {
+      "data_year": 2016,
+      "school_count": 34,
+      "funding_billions": 0.061101,
+      "avg_funding_millions": 1.7970787647,
+      "max_funding_millions": 7.137144
+    },
+    {
+      "data_year": 2017,
+      "school_count": 36,
+      "funding_billions": 0.057955,
+      "avg_funding_millions": 1.6098621389,
+      "max_funding_millions": 7.750662
+    },
+    {
+      "data_year": 2018,
+      "school_count": 32,
+      "funding_billions": 0.055244,
+      "avg_funding_millions": 1.7263765313,
+      "max_funding_millions": 8.578366
+    },
+    {
+      "data_year": 2019,
+      "school_count": 32,
+      "funding_billions": 0.059147,
+      "avg_funding_millions": 1.8483481563,
+      "max_funding_millions": 10.217281
+    },
+    {
+      "data_year": 2020,
+      "school_count": 37,
+      "funding_billions": 0.058584,
+      "avg_funding_millions": 1.5833555135,
+      "max_funding_millions": 6.336724
+    },
+    {
+      "data_year": 2021,
+      "school_count": 39,
+      "funding_billions": 0.061308,
+      "avg_funding_millions": 1.5719938205,
+      "max_funding_millions": 7.245192
+    },
+    {
+      "data_year": 2022,
+      "school_count": 33,
+      "funding_billions": 0.071246,
+      "avg_funding_millions": 2.1589717576,
+      "max_funding_millions": 8.4471
+    },
+    {
+      "data_year": 2023,
+      "school_count": 33,
+      "funding_billions": 0.073867,
+      "avg_funding_millions": 2.2383977576,
+      "max_funding_millions": 6.761986
+    },
+    {
+      "data_year": 2024,
+      "school_count": 35,
+      "funding_billions": 0.077932,
+      "avg_funding_millions": 2.2266190571,
+      "max_funding_millions": 7.573181
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "nodes": [
+    {
+      "id": "VTLC",
+      "name": "VTLC (619 faculty)",
+      "org_name": "Anesthesia - MSD",
+      "faculty_count": 619,
+      "value": 6035,
+      "avg_publications": 9.749596122778675
+    },
+    {
+      "id": "VTGC",
+      "name": "VTGC (493 faculty)",
+      "org_name": "Anesthesiology, Perioperative and Pain Medicine",
+      "faculty_count": 493,
+      "value": 2462,
+      "avg_publications": 4.9939148073022315
+    },
+    {
+      "id": "VURG",
+      "name": "VURG (22 faculty)",
+      "org_name": "Anesthesia - Regional",
+      "faculty_count": 22,
+      "value": 494,
+      "avg_publications": 22.454545454545453
+    },
+    {
+      "id": "VUPG",
+      "name": "VUPG (166 faculty)",
+      "org_name": "Anesthesia - Pediatric",
+      "faculty_count": 166,
+      "value": 3928,
+      "avg_publications": 23.662650602409638
+    },
+    {
+      "id": "VURA",
+      "name": "VURA (166 faculty)",
+      "org_name": "Anesthesia - Adult Pain",
+      "faculty_count": 166,
+      "value": 2756,
+      "avg_publications": 16.602409638554217
+    },
+    {
+      "id": "VURD",
+      "name": "VURD (20 faculty)",
+      "org_name": "Anesthesia - Research Development and Administration",
+      "faculty_count": 20,
+      "value": 8,
+      "avg_publications": 0.4
+    },
+    {
+      "id": "VUOB",
+      "name": "VUOB (25 faculty)",
+      "org_name": "Anesthesia - Obstetrics",
+      "faculty_count": 25,
+      "value": 1427,
+      "avg_publications": 57.08
+    },
+    {
+      "id": "VUCA",
+      "name": "VUCA (49 faculty)",
+      "org_name": "Anesthesia - Cardiac",
+      "faculty_count": 49,
+      "value": 1241,
+      "avg_publications": 25.3265306122449
+    },
+    {
+      "id": "VUDO",
+      "name": "VUDO (71 faculty)",
+      "org_name": "Anesthesia - Department Operations",
+      "faculty_count": 71,
+      "value": 51,
+      "avg_publications": 0.7183098591549296
+    },
+    {
+      "id": "VUDR",
+      "name": "VUDR (54 faculty)",
+      "org_name": "Anesthesia - Department Research",
+      "faculty_count": 54,
+      "value": 855,
+      "avg_publications": 15.833333333333334
+    },
+    {
+      "id": "VUHS",
+      "name": "VUHS (16 faculty)",
+      "org_name": "Anesthesia - Critical Care",
+      "faculty_count": 16,
+      "value": 374,
+      "avg_publications": 23.375
+    },
+    {
+      "id": "VUED",
+      "name": "VUED (33 faculty)",
+      "org_name": "Anesthesia - Education",
+      "faculty_count": 33,
+      "value": 1,
+      "avg_publications": 0.030303030303030304
+    },
+    {
+      "id": "VUDL",
+      "name": "VUDL (2 faculty)",
+      "org_name": "Anesthesia - Department Leadership",
+      "faculty_count": 2,
+      "value": 0,
+      "avg_publications": 0.0
+    }
+  ],
+  "links": [
+    {
+      "source": "VTLC",
+      "target": "VURA",
+      "weight": 60
+    },
+    {
+      "source": "VTLC",
+      "target": "VUHS",
+      "weight": 14
+    },
+    {
+      "source": "VTLC",
+      "target": "VUCA",
+      "weight": 49
+    },
+    {
+      "source": "VTLC",
+      "target": "VUDR",
+      "weight": 32
+    },
+    {
+      "source": "VTLC",
+      "target": "VTGC",
+      "weight": 111
+    },
+    {
+      "source": "VTLC",
+      "target": "VUOB",
+      "weight": 65
+    },
+    {
+      "source": "VTLC",
+      "target": "VUPG",
+      "weight": 67
+    },
+    {
+      "source": "VTLC",
+      "target": "VURG",
+      "weight": 3
+    },
+    {
+      "source": "VTGC",
+      "target": "VURA",
+      "weight": 33
+    },
+    {
+      "source": "VTGC",
+      "target": "VURG",
+      "weight": 1
+    },
+    {
+      "source": "VTGC",
+      "target": "VUOB",
+      "weight": 13
+    },
+    {
+      "source": "VTGC",
+      "target": "VUCA",
+      "weight": 15
+    },
+    {
+      "source": "VTGC",
+      "target": "VUPG",
+      "weight": 10
+    },
+    {
+      "source": "VTGC",
+      "target": "VUDR",
+      "weight": 3
+    },
+    {
+      "source": "VURG",
+      "target": "VUPG",
+      "weight": 18
+    },
+    {
+      "source": "VURG",
+      "target": "VUCA",
+      "weight": 8
+    },
+    {
+      "source": "VURG",
+      "target": "VUOB",
+      "weight": 5
+    },
+    {
+      "source": "VURG",
+      "target": "VURA",
+      "weight": 1
+    },
+    {
+      "source": "VUPG",
+      "target": "VUED",
+      "weight": 1
+    },
+    {
+      "source": "VUPG",
+      "target": "VURA",
+      "weight": 10
+    },
+    {
+      "source": "VUPG",
+      "target": "VUOB",
+      "weight": 5
+    },
+    {
+      "source": "VUPG",
+      "target": "VUCA",
+      "weight": 8
+    },
+    {
+      "source": "VUPG",
+      "target": "VUHS",
+      "weight": 1
+    },
+    {
+      "source": "VUPG",
+      "target": "VUDR",
+      "weight": 4
+    },
+    {
+      "source": "VURA",
+      "target": "VUHS",
+      "weight": 1
+    },
+    {
+      "source": "VURA",
+      "target": "VUDR",
+      "weight": 1
+    },
+    {
+      "source": "VURA",
+      "target": "VUOB",
+      "weight": 2
+    },
+    {
+      "source": "VURA",
+      "target": "VUDO",
+      "weight": 4
+    },
+    {
+      "source": "VUOB",
+      "target": "VUCA",
+      "weight": 1
+    },
+    {
+      "source": "VUOB",
+      "target": "VUDR",
+      "weight": 15
+    },
+    {
+      "source": "VUCA",
+      "target": "VUHS",
+      "weight": 6
+    },
+    {
+      "source": "VUCA",
+      "target": "VURA",
+      "weight": 1
+    },
+    {
+      "source": "VUDR",
+      "target": "VUCA",
+      "weight": 1
+    },
+    {
+      "source": "VUHS",
+      "target": "VUOB",
+      "weight": 1
+    },
+    {
+      "source": "VUHS",
+      "target": "VTGC",
+      "weight": 3
+    },
+    {
+      "source": "VUHS",
+      "target": "VURG",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "generated": "2025-08-08T22:05:35.223746",
+    "total_orgs": 13,
+    "total_links": 36
+  }
+}

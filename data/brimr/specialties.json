@@ -1,0 +1,154 @@
+[
+  {
+    "specialty": "Internal_Medicine",
+    "school_count": 234,
+    "year_count": 19,
+    "funding_billions": 72.863529,
+    "avg_funding_millions": 33.8900136019,
+    "record_count": 2150
+  },
+  {
+    "specialty": "Psychiatry",
+    "school_count": 200,
+    "year_count": 19,
+    "funding_billions": 16.999398,
+    "avg_funding_millions": 10.5455325627,
+    "record_count": 1612
+  },
+  {
+    "specialty": "Pediatrics",
+    "school_count": 197,
+    "year_count": 19,
+    "funding_billions": 15.307961,
+    "avg_funding_millions": 9.1118815286,
+    "record_count": 1680
+  },
+  {
+    "specialty": "Pathology",
+    "school_count": 192,
+    "year_count": 19,
+    "funding_billions": 12.290624,
+    "avg_funding_millions": 7.2639620656,
+    "record_count": 1692
+  },
+  {
+    "specialty": "Neurology",
+    "school_count": 178,
+    "year_count": 19,
+    "funding_billions": 12.111596,
+    "avg_funding_millions": 8.3701423276,
+    "record_count": 1447
+  },
+  {
+    "specialty": "Radiology",
+    "school_count": 160,
+    "year_count": 19,
+    "funding_billions": 7.969806,
+    "avg_funding_millions": 6.1781445558,
+    "record_count": 1290
+  },
+  {
+    "specialty": "Surgery",
+    "school_count": 183,
+    "year_count": 19,
+    "funding_billions": 6.689028,
+    "avg_funding_millions": 4.4181161387,
+    "record_count": 1514
+  },
+  {
+    "specialty": "Public_Health",
+    "school_count": 137,
+    "year_count": 19,
+    "funding_billions": 6.495588,
+    "avg_funding_millions": 7.1774449867,
+    "record_count": 905
+  },
+  {
+    "specialty": "Ophthalmology",
+    "school_count": 144,
+    "year_count": 19,
+    "funding_billions": 4.634933,
+    "avg_funding_millions": 3.7168669904,
+    "record_count": 1247
+  },
+  {
+    "specialty": "Obstetrics_and_Gynecology",
+    "school_count": 167,
+    "year_count": 19,
+    "funding_billions": 3.3034,
+    "avg_funding_millions": 2.5990559732,
+    "record_count": 1271
+  },
+  {
+    "specialty": "Anesthesiology",
+    "school_count": 119,
+    "year_count": 19,
+    "funding_billions": 2.826319,
+    "avg_funding_millions": 2.9688229412,
+    "record_count": 952
+  },
+  {
+    "specialty": "Neurosurgery",
+    "school_count": 121,
+    "year_count": 19,
+    "funding_billions": 2.345487,
+    "avg_funding_millions": 2.7021745104,
+    "record_count": 868
+  },
+  {
+    "specialty": "Otolaryngology",
+    "school_count": 102,
+    "year_count": 19,
+    "funding_billions": 1.848104,
+    "avg_funding_millions": 2.6439256338,
+    "record_count": 699
+  },
+  {
+    "specialty": "Dermatology",
+    "school_count": 89,
+    "year_count": 19,
+    "funding_billions": 1.442808,
+    "avg_funding_millions": 2.179468716,
+    "record_count": 662
+  },
+  {
+    "specialty": "Orthopedics",
+    "school_count": 112,
+    "year_count": 19,
+    "funding_billions": 1.413004,
+    "avg_funding_millions": 1.7127323188,
+    "record_count": 825
+  },
+  {
+    "specialty": "Family_Medicine",
+    "school_count": 134,
+    "year_count": 19,
+    "funding_billions": 1.350955,
+    "avg_funding_millions": 1.6025560225,
+    "record_count": 843
+  },
+  {
+    "specialty": "Urology",
+    "school_count": 94,
+    "year_count": 19,
+    "funding_billions": 1.137234,
+    "avg_funding_millions": 1.7388897752,
+    "record_count": 654
+  },
+  {
+    "specialty": "Emergency_Medicine",
+    "school_count": 91,
+    "year_count": 19,
+    "funding_billions": 1.08754,
+    "avg_funding_millions": 1.6939879377,
+    "record_count": 642
+  },
+  {
+    "specialty": "Physical_Medicine",
+    "school_count": 74,
+    "year_count": 19,
+    "funding_billions": 0.63996,
+    "avg_funding_millions": 1.3444539118,
+    "record_count": 476
+  }
+]

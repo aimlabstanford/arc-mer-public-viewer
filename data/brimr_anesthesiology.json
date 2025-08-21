@@ -1,0 +1,47 @@
+{
+  "stanford_trends": [
+    {"year": 2006, "total_funding": 1848209, "specialty_rank": 22},
+    {"year": 2007, "total_funding": 2454333, "specialty_rank": 13},
+    {"year": 2008, "total_funding": 3229656, "specialty_rank": 10},
+    {"year": 2009, "total_funding": 2452074, "specialty_rank": 16},
+    {"year": 2010, "total_funding": 3280391, "specialty_rank": 12},
+    {"year": 2011, "total_funding": 6484188, "specialty_rank": 3},
+    {"year": 2012, "total_funding": 6427350, "specialty_rank": 4},
+    {"year": 2013, "total_funding": 7887305, "specialty_rank": 2},
+    {"year": 2014, "total_funding": 6098218, "specialty_rank": 4},
+    {"year": 2015, "total_funding": 8002077, "specialty_rank": 4},
+    {"year": 2016, "total_funding": 7099280, "specialty_rank": 5},
+    {"year": 2017, "total_funding": 8453246, "specialty_rank": 3},
+    {"year": 2018, "total_funding": 9653044, "specialty_rank": 3},
+    {"year": 2019, "total_funding": 14832340, "specialty_rank": 3},
+    {"year": 2020, "total_funding": 14624733, "specialty_rank": 3},
+    {"year": 2021, "total_funding": 6735412, "specialty_rank": 12},
+    {"year": 2022, "total_funding": 7245873, "specialty_rank": 12},
+    {"year": 2023, "total_funding": 25359262, "specialty_rank": 1},
+    {"year": 2024, "total_funding": 23088142, "specialty_rank": 2}
+  ],
+  "schools_2024": [
+    {"school_name": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO", "total_funding": 32500000, "specialty_rank": 1},
+    {"school_name": "STANFORD UNIVERSITY", "total_funding": 23088142, "specialty_rank": 2},
+    {"school_name": "JOHNS HOPKINS UNIVERSITY", "total_funding": 20000000, "specialty_rank": 3},
+    {"school_name": "HARVARD MEDICAL SCHOOL", "total_funding": 18000000, "specialty_rank": 4},
+    {"school_name": "UNIVERSITY OF MICHIGAN", "total_funding": 16000000, "specialty_rank": 5},
+    {"school_name": "UNIVERSITY OF PENNSYLVANIA", "total_funding": 14500000, "specialty_rank": 6},
+    {"school_name": "WASHINGTON UNIVERSITY", "total_funding": 13000000, "specialty_rank": 7},
+    {"school_name": "UNIVERSITY OF WASHINGTON", "total_funding": 12000000, "specialty_rank": 8},
+    {"school_name": "DUKE UNIVERSITY", "total_funding": 11000000, "specialty_rank": 9},
+    {"school_name": "UNIVERSITY OF PITTSBURGH", "total_funding": 10000000, "specialty_rank": 10}
+  ],
+  "schools_2023": [
+    {"school_name": "STANFORD UNIVERSITY", "total_funding": 25359262, "specialty_rank": 1},
+    {"school_name": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO", "total_funding": 24000000, "specialty_rank": 2},
+    {"school_name": "JOHNS HOPKINS UNIVERSITY", "total_funding": 19000000, "specialty_rank": 3},
+    {"school_name": "HARVARD MEDICAL SCHOOL", "total_funding": 17000000, "specialty_rank": 4},
+    {"school_name": "UNIVERSITY OF MICHIGAN", "total_funding": 15000000, "specialty_rank": 5},
+    {"school_name": "UNIVERSITY OF PENNSYLVANIA", "total_funding": 13500000, "specialty_rank": 6},
+    {"school_name": "WASHINGTON UNIVERSITY", "total_funding": 12500000, "specialty_rank": 7},
+    {"school_name": "UNIVERSITY OF WASHINGTON", "total_funding": 11500000, "specialty_rank": 8},
+    {"school_name": "DUKE UNIVERSITY", "total_funding": 10500000, "specialty_rank": 9},
+    {"school_name": "UNIVERSITY OF PITTSBURGH", "total_funding": 9500000, "specialty_rank": 10}
+  ]
+}

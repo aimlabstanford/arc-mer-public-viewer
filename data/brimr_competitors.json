@@ -1,0 +1,555 @@
+{
+  "WASHINGTON UNIVERSITY ST LOUIS": [
+    {
+      "year": 2020,
+      "total_funding": 16192892.0,
+      "specialty_rank": 2
+    },
+    {
+      "year": 2021,
+      "total_funding": 21004831.0,
+      "specialty_rank": 2
+    },
+    {
+      "year": 2022,
+      "total_funding": 17383973.0,
+      "specialty_rank": 3
+    },
+    {
+      "year": 2023,
+      "total_funding": 23775845.0,
+      "specialty_rank": 2
+    },
+    {
+      "year": 2024,
+      "total_funding": 31628629.0,
+      "specialty_rank": 1
+    }
+  ],
+  "UNIVERSITY OF MICHIGAN ANN ARBOR": [
+    {
+      "year": 2020,
+      "total_funding": 21454704.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2022,
+      "total_funding": 22365701.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2023,
+      "total_funding": 9381388.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2024,
+      "total_funding": 17282806.0,
+      "specialty_rank": 3
+    }
+  ],
+  "DUKE UNIVERSITY": [
+    {
+      "year": 2006,
+      "total_funding": 3197144.0,
+      "specialty_rank": 11
+    },
+    {
+      "year": 2007,
+      "total_funding": 2479809.0,
+      "specialty_rank": 12
+    },
+    {
+      "year": 2008,
+      "total_funding": 1992790.0,
+      "specialty_rank": 18
+    },
+    {
+      "year": 2009,
+      "total_funding": 1791524.0,
+      "specialty_rank": 21
+    },
+    {
+      "year": 2010,
+      "total_funding": 2218044.0,
+      "specialty_rank": 18
+    },
+    {
+      "year": 2011,
+      "total_funding": 2479452.0,
+      "specialty_rank": 13
+    },
+    {
+      "year": 2012,
+      "total_funding": 4418680.0,
+      "specialty_rank": 7
+    },
+    {
+      "year": 2013,
+      "total_funding": 3730426.0,
+      "specialty_rank": 10
+    },
+    {
+      "year": 2014,
+      "total_funding": 3291415.0,
+      "specialty_rank": 12
+    },
+    {
+      "year": 2015,
+      "total_funding": 3291858.0,
+      "specialty_rank": 12
+    },
+    {
+      "year": 2016,
+      "total_funding": 5008932.0,
+      "specialty_rank": 9
+    },
+    {
+      "year": 2017,
+      "total_funding": 3500156.0,
+      "specialty_rank": 16
+    },
+    {
+      "year": 2018,
+      "total_funding": 5802860.0,
+      "specialty_rank": 7
+    },
+    {
+      "year": 2019,
+      "total_funding": 7044930.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2020,
+      "total_funding": 9226779.0,
+      "specialty_rank": 5
+    },
+    {
+      "year": 2021,
+      "total_funding": 7975702.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2022,
+      "total_funding": 20666059.0,
+      "specialty_rank": 2
+    },
+    {
+      "year": 2023,
+      "total_funding": 18165424.0,
+      "specialty_rank": 3
+    },
+    {
+      "year": 2024,
+      "total_funding": 12905331.0,
+      "specialty_rank": 4
+    }
+  ],
+  "VANDERBILT UNIVERSITY": [
+    {
+      "year": 2006,
+      "total_funding": 4112070.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2007,
+      "total_funding": 3214333.0,
+      "specialty_rank": 9
+    },
+    {
+      "year": 2008,
+      "total_funding": 3429973.0,
+      "specialty_rank": 9
+    },
+    {
+      "year": 2009,
+      "total_funding": 3601787.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2010,
+      "total_funding": 2622671.0,
+      "specialty_rank": 16
+    },
+    {
+      "year": 2011,
+      "total_funding": 2004751.0,
+      "specialty_rank": 19
+    },
+    {
+      "year": 2012,
+      "total_funding": 3393818.0,
+      "specialty_rank": 12
+    },
+    {
+      "year": 2014,
+      "total_funding": 4288224.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2015,
+      "total_funding": 4514345.0,
+      "specialty_rank": 9
+    },
+    {
+      "year": 2016,
+      "total_funding": 4086623.0,
+      "specialty_rank": 14
+    },
+    {
+      "year": 2017,
+      "total_funding": 4723339.0,
+      "specialty_rank": 13
+    },
+    {
+      "year": 2018,
+      "total_funding": 3886475.0,
+      "specialty_rank": 14
+    },
+    {
+      "year": 2019,
+      "total_funding": 4610318.0,
+      "specialty_rank": 17
+    },
+    {
+      "year": 2020,
+      "total_funding": 7083853.0,
+      "specialty_rank": 11
+    },
+    {
+      "year": 2021,
+      "total_funding": 7608040.0,
+      "specialty_rank": 9
+    },
+    {
+      "year": 2022,
+      "total_funding": 8156344.0,
+      "specialty_rank": 9
+    },
+    {
+      "year": 2023,
+      "total_funding": 11721520.0,
+      "specialty_rank": 5
+    },
+    {
+      "year": 2024,
+      "total_funding": 11894653.0,
+      "specialty_rank": 5
+    }
+  ],
+  "UNIVERSITY OF PITTSBURGH": [
+    {
+      "year": 2020,
+      "total_funding": 5059608.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2022,
+      "total_funding": 9913722.0,
+      "specialty_rank": 5
+    },
+    {
+      "year": 2023,
+      "total_funding": 7538547.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2024,
+      "total_funding": 10705291.0,
+      "specialty_rank": 6
+    }
+  ],
+  "NEW YORK UNIVERSITY SCHOOL OF MEDICINE": [
+    {
+      "year": 2006,
+      "total_funding": 2378546.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2007,
+      "total_funding": 2362926.0,
+      "specialty_rank": 14
+    },
+    {
+      "year": 2008,
+      "total_funding": 2537046.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2009,
+      "total_funding": 2419889.0,
+      "specialty_rank": 17
+    },
+    {
+      "year": 2012,
+      "total_funding": 162000.0,
+      "specialty_rank": 45
+    },
+    {
+      "year": 2013,
+      "total_funding": 162000.0,
+      "specialty_rank": 48
+    },
+    {
+      "year": 2014,
+      "total_funding": 477448.0,
+      "specialty_rank": 42
+    },
+    {
+      "year": 2015,
+      "total_funding": 3473581.0,
+      "specialty_rank": 11
+    },
+    {
+      "year": 2016,
+      "total_funding": 3026614.0,
+      "specialty_rank": 16
+    },
+    {
+      "year": 2017,
+      "total_funding": 2742120.0,
+      "specialty_rank": 20
+    },
+    {
+      "year": 2018,
+      "total_funding": 3803449.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2019,
+      "total_funding": 18402105.0,
+      "specialty_rank": 2
+    },
+    {
+      "year": 2020,
+      "total_funding": 8379745.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2021,
+      "total_funding": 10418896.0,
+      "specialty_rank": 4
+    },
+    {
+      "year": 2022,
+      "total_funding": 5238593.0,
+      "specialty_rank": 16
+    },
+    {
+      "year": 2023,
+      "total_funding": 7070461.0,
+      "specialty_rank": 16
+    },
+    {
+      "year": 2024,
+      "total_funding": 9121466.0,
+      "specialty_rank": 7
+    }
+  ],
+  "UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON": [
+    {
+      "year": 2017,
+      "total_funding": 1104950.0,
+      "specialty_rank": 34
+    },
+    {
+      "year": 2018,
+      "total_funding": 845254.0,
+      "specialty_rank": 38
+    },
+    {
+      "year": 2019,
+      "total_funding": 1651165.0,
+      "specialty_rank": 35
+    },
+    {
+      "year": 2020,
+      "total_funding": 1510359.0,
+      "specialty_rank": 31
+    },
+    {
+      "year": 2021,
+      "total_funding": 2569169.0,
+      "specialty_rank": 19
+    },
+    {
+      "year": 2022,
+      "total_funding": 4247382.0,
+      "specialty_rank": 20
+    },
+    {
+      "year": 2023,
+      "total_funding": 7692383.0,
+      "specialty_rank": 13
+    },
+    {
+      "year": 2024,
+      "total_funding": 7973762.0,
+      "specialty_rank": 8
+    }
+  ],
+  "UNIVERSITY OF CALIFORNIA SAN FRANCISCO": [
+    {
+      "year": 2006,
+      "total_funding": 7037760.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2007,
+      "total_funding": 8869185.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2008,
+      "total_funding": 6900791.0,
+      "specialty_rank": 2
+    },
+    {
+      "year": 2009,
+      "total_funding": 8867349.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2010,
+      "total_funding": 8758172.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2011,
+      "total_funding": 7615325.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2012,
+      "total_funding": 7475762.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2013,
+      "total_funding": 8000542.0,
+      "specialty_rank": 1
+    },
+    {
+      "year": 2020,
+      "total_funding": 8609916.0,
+      "specialty_rank": 7
+    },
+    {
+      "year": 2021,
+      "total_funding": 8580690.0,
+      "specialty_rank": 7
+    },
+    {
+      "year": 2022,
+      "total_funding": 7474038.0,
+      "specialty_rank": 11
+    },
+    {
+      "year": 2023,
+      "total_funding": 7950276.0,
+      "specialty_rank": 11
+    },
+    {
+      "year": 2024,
+      "total_funding": 7811275.0,
+      "specialty_rank": 9
+    }
+  ],
+  "COLUMBIA UNIVERSITY HEALTH SCIENCES": [
+    {
+      "year": 2006,
+      "total_funding": 2273575.0,
+      "specialty_rank": 16
+    },
+    {
+      "year": 2007,
+      "total_funding": 2328232.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2008,
+      "total_funding": 3081572.0,
+      "specialty_rank": 12
+    },
+    {
+      "year": 2009,
+      "total_funding": 3073940.0,
+      "specialty_rank": 11
+    },
+    {
+      "year": 2010,
+      "total_funding": 4774928.0,
+      "specialty_rank": 4
+    },
+    {
+      "year": 2011,
+      "total_funding": 4594142.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2012,
+      "total_funding": 4364979.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2013,
+      "total_funding": 4680795.0,
+      "specialty_rank": 5
+    },
+    {
+      "year": 2014,
+      "total_funding": 4522161.0,
+      "specialty_rank": 6
+    },
+    {
+      "year": 2015,
+      "total_funding": 3858876.0,
+      "specialty_rank": 10
+    },
+    {
+      "year": 2016,
+      "total_funding": 4087163.0,
+      "specialty_rank": 13
+    },
+    {
+      "year": 2017,
+      "total_funding": 4387151.0,
+      "specialty_rank": 14
+    },
+    {
+      "year": 2018,
+      "total_funding": 5763743.0,
+      "specialty_rank": 8
+    },
+    {
+      "year": 2019,
+      "total_funding": 5341756.0,
+      "specialty_rank": 15
+    },
+    {
+      "year": 2020,
+      "total_funding": 5306150.0,
+      "specialty_rank": 14
+    },
+    {
+      "year": 2021,
+      "total_funding": 7266906.0,
+      "specialty_rank": 10
+    },
+    {
+      "year": 2022,
+      "total_funding": 7886227.0,
+      "specialty_rank": 10
+    },
+    {
+      "year": 2023,
+      "total_funding": 9757232.0,
+      "specialty_rank": 6
+    },
+    {
+      "year": 2024,
+      "total_funding": 7624355.0,
+      "specialty_rank": 10
+    }
+  ]
+}

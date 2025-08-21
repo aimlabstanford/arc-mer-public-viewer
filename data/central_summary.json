@@ -1,0 +1,126 @@
+{
+  "generated_at": "2025-08-09T22:03:20.664536",
+  "anesthesiology": {
+    "all_time": {
+      "grant_count": 182,
+      "total_funding": 77188895.0,
+      "unique_pis": 33,
+      "funding_millions": 77.2
+    },
+    "years_2015_2025": {
+      "grant_count": 112,
+      "total_funding": 54798596.0,
+      "unique_pis": 28,
+      "funding_millions": 54.8
+    },
+    "publications_2015_2025": 5195
+  },
+  "all_departments": {
+    "years_2015_2025": {
+      "grant_count": 118,
+      "total_funding": 57818465.0,
+      "funding_millions": 57.8
+    }
+  },
+  "timeline_2015_2024": {},
+  "display_values": {
+    "funding_analytics_page": {
+      "title": "Anesthesiology Funding (All Time)",
+      "amount": "$77.2M",
+      "grants": 182,
+      "description": "Department-verified grants only"
+    },
+    "homepage_timeline": {
+      "title": "Research Output & Funding Trends (2015-2025)",
+      "funding": "$54.8M",
+      "grants": 112,
+      "publications": 5195,
+      "description": "Anesthesiology Department only"
+    },
+    "homepage_funding_icon": {
+      "title": "Funding Analytics",
+      "amount": "$54.8M",
+      "grants": 112,
+      "description": "2015-2025 Anesthesiology grants"
+    },
+    "homepage_publications_icon": {
+      "title": "Publication Analytics",
+      "total": "9.0K",
+      "collaboration_rate": "39.2%",
+      "description": "All publications with collaboration metrics"
+    }
+  },
+  "timeline_2015_2025": [
+    {
+      "year": 2015,
+      "grants": 15,
+      "funding": 5283933.0,
+      "funding_millions": 5.3
+    },
+    {
+      "year": 2016,
+      "grants": 7,
+      "funding": 2573518.0,
+      "funding_millions": 2.6
+    },
+    {
+      "year": 2017,
+      "grants": 12,
+      "funding": 4784177.0,
+      "funding_millions": 4.8
+    },
+    {
+      "year": 2018,
+      "grants": 8,
+      "funding": 3811804.0,
+      "funding_millions": 3.8
+    },
+    {
+      "year": 2019,
+      "grants": 7,
+      "funding": 2465420.0,
+      "funding_millions": 2.5
+    },
+    {
+      "year": 2020,
+      "grants": 4,
+      "funding": 8868550.0,
+      "funding_millions": 8.9
+    },
+    {
+      "year": 2021,
+      "grants": 10,
+      "funding": 2874846.0,
+      "funding_millions": 2.9
+    },
+    {
+      "year": 2022,
+      "grants": 4,
+      "funding": 1693124.0,
+      "funding_millions": 1.7
+    },
+    {
+      "year": 2023,
+      "grants": 11,
+      "funding": 5912411.0,
+      "funding_millions": 5.9
+    },
+    {
+      "year": 2024,
+      "grants": 16,
+      "funding": 8874526.0,
+      "funding_millions": 8.9
+    },
+    {
+      "year": 2025,
+      "grants": 18,
+      "funding": 7656287.0,
+      "funding_millions": 7.7
+    }
+  ],
+  "publications": {
+    "total": 9012,
+    "with_collaborations": 230,
+    "collaboration_rate": 39.2
+  }
+}

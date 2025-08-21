@@ -1,0 +1,129 @@
+{
+  "total_faculty": 1736,
+  "total_collaborations": 202,
+  "faculty_by_org": {
+    "VTLC": 619,
+    "VTGC": 493,
+    "VURG": 22,
+    "VUPG": 166,
+    "VURA": 166,
+    "VURD": 20,
+    "VUOB": 25,
+    "VUCA": 49,
+    "VUDO": 71,
+    "VUDR": 54,
+    "VUHS": 16,
+    "VUED": 33,
+    "VUDL": 2
+  },
+  "top_collaborators": [
+    {
+      "uid": "smackey",
+      "name": "Sean Mackey, M.D., Ph.D.",
+      "collaborators": 48
+    },
+    {
+      "uid": "ang",
+      "name": "Martin S. Angst",
+      "collaborators": 47
+    },
+    {
+      "uid": "carvalb",
+      "name": "Brendan Carvalho",
+      "collaborators": 46
+    },
+    {
+      "uid": "brockutn",
+      "name": "John Brock-Utne",
+      "collaborators": 40
+    },
+    {
+      "uid": "ddrover",
+      "name": "David Drover",
+      "collaborators": 38
+    },
+    {
+      "uid": "lnywang",
+      "name": "Ellen Wang",
+      "collaborators": 37
+    },
+    {
+      "uid": "emariano",
+      "name": "Edward R. Mariano, MD, MAS, FASA, FASRA",
+      "collaborators": 33
+    },
+    {
+      "uid": "tjcaruso",
+      "name": "Thomas Caruso",
+      "collaborators": 31
+    },
+    {
+      "uid": "amaca",
+      "name": "Alex Macario MD MBA",
+      "collaborators": 30
+    },
+    {
+      "uid": "cschmies",
+      "name": "Cliff Schmiesing, MD",
+      "collaborators": 30
+    }
+  ],
+  "top_publishers": [
+    {
+      "uid": "smithdw",
+      "name": "Derek Whitney Smith",
+      "publications": 1016
+    },
+    {
+      "uid": "smackey",
+      "name": "Sean Mackey, M.D., Ph.D.",
+      "publications": 504
+    },
+    {
+      "uid": "carvalb",
+      "name": "Brendan Carvalho",
+      "publications": 497
+    },
+    {
+      "uid": "btb",
+      "name": "Brian T. Bateman",
+      "publications": 450
+    },
+    {
+      "uid": "sshafer",
+      "name": "Steven L. Shafer, MD",
+      "publications": 428
+    },
+    {
+      "uid": "rabbitts",
+      "name": "Jennifer Anne Rabbitts",
+      "publications": 378
+    },
+    {
+      "uid": "emariano",
+      "name": "Edward R. Mariano, MD, MAS, FASA, FASRA",
+      "publications": 360
+    },
+    {
+      "uid": "amaca",
+      "name": "Alex Macario MD MBA",
+      "publications": 305
+    },
+    {
+      "uid": "djclark",
+      "name": "David Clark",
+      "publications": 298
+    },
+    {
+      "uid": "jbrodsky",
+      "name": "Jay B. Brodsky",
+      "publications": 284
+    }
+  ],
+  "network_metrics": {
+    "nodes": 1736,
+    "edges": 1129,
+    "density": 0.0007496779505703927,
+    "components": 1490
+  }
+}

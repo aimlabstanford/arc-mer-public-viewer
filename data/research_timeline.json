@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "generated": "2025-08-09T21:31:21.217859",
+    "description": "Stanford Anesthesiology Research Timeline",
+    "years_covered": "2015-2024",
+    "data_sources": [
+      "cap_api_publications",
+      "research_grants"
+    ]
+  },
+  "summary": {
+    "total_publications": 6982,
+    "total_grants": 93,
+    "total_funding": 48319864.0,
+    "avg_funding_per_grant": 519568.4301075269,
+    "latest_year": 2024,
+    "growth": {
+      "publications_yoy": 4.0,
+      "grants_yoy": 33.3,
+      "funding_yoy": 79.0
+    }
+  },
+  "timeline": [
+    {
+      "year": 2015,
+      "publications": {
+        "count": 435,
+        "unique_authors": 106
+      },
+      "grants": {
+        "count": 16,
+        "total_amount": 5650004.0,
+        "avg_amount": 353125.25,
+        "unique_pis": 4
+      }
+    },
+    {
+      "year": 2016,
+      "publications": {
+        "count": 523,
+        "unique_authors": 134
+      },
+      "grants": {
+        "count": 8,
+        "total_amount": 2917893.0,
+        "avg_amount": 364736.625,
+        "unique_pis": 6
+      }
+    },
+    {
+      "year": 2017,
+      "publications": {
+        "count": 541,
+        "unique_authors": 145
+      },
+      "grants": {
+        "count": 13,
+        "total_amount": 5128057.0,
+        "avg_amount": 394465.923077,
+        "unique_pis": 6
+      }
+    },
+    {
+      "year": 2018,
+      "publications": {
+        "count": 690,
+        "unique_authors": 152
+      },
+      "grants": {
+        "count": 8,
+        "total_amount": 3811804.0,
+        "avg_amount": 476475.5,
+        "unique_pis": 3
+      }
+    },
+    {
+      "year": 2019,
+      "publications": {
+        "count": 837,
+        "unique_authors": 167
+      },
+      "grants": {
+        "count": 7,
+        "total_amount": 2465420.0,
+        "avg_amount": 352202.857143,
+        "unique_pis": 4
+      }
+    },
+    {
+      "year": 2020,
+      "publications": {
+        "count": 783,
+        "unique_authors": 177
+      },
+      "grants": {
+        "count": 5,
+        "total_amount": 9291281.0,
+        "avg_amount": 1858256.2,
+        "unique_pis": 3
+      }
+    },
+    {
+      "year": 2021,
+      "publications": {
+        "count": 789,
+        "unique_authors": 179
+      },
+      "grants": {
+        "count": 10,
+        "total_amount": 2874846.0,
+        "avg_amount": 287484.6,
+        "unique_pis": 7
+      }
+    },
+    {
+      "year": 2022,
+      "publications": {
+        "count": 793,
+        "unique_authors": 199
+      },
+      "grants": {
+        "count": 5,
+        "total_amount": 2468889.0,
+        "avg_amount": 493777.8,
+        "unique_pis": 4
+      }
+    },
+    {
+      "year": 2023,
+      "publications": {
+        "count": 780,
+        "unique_authors": 189
+      },
+      "grants": {
+        "count": 9,
+        "total_amount": 4913815.0,
+        "avg_amount": 545979.444444,
+        "unique_pis": 8
+      }
+    },
+    {
+      "year": 2024,
+      "publications": {
+        "count": 811,
+        "unique_authors": 182
+      },
+      "grants": {
+        "count": 12,
+        "total_amount": 8797855.0,
+        "avg_amount": 733154.583333,
+        "unique_pis": 10
+      }
+    }
+  ]
+}

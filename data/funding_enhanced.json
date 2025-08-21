@@ -1,0 +1,1785 @@
+{
+  "generated_at": "2025-08-09T16:53:54.688815",
+  "research_area_funding": [
+    {
+      "name": "Brain",
+      "total_funding": 3420356.0126585285,
+      "faculty_count": 5,
+      "grant_count": 4,
+      "publication_count": 59
+    },
+    {
+      "name": "Pain Measurement",
+      "total_funding": 3149672.389568425,
+      "faculty_count": 13,
+      "grant_count": 4,
+      "publication_count": 182
+    },
+    {
+      "name": "Pain",
+      "total_funding": 3077694.450625496,
+      "faculty_count": 11,
+      "grant_count": 4,
+      "publication_count": 137
+    },
+    {
+      "name": "Analgesics, Opioid",
+      "total_funding": 2650913.6408386873,
+      "faculty_count": 14,
+      "grant_count": 3,
+      "publication_count": 197
+    },
+    {
+      "name": "Adolescent",
+      "total_funding": 2503354.9691717685,
+      "faculty_count": 12,
+      "grant_count": 3,
+      "publication_count": 173
+    },
+    {
+      "name": "Chronic Pain",
+      "total_funding": 2381291.4124084404,
+      "faculty_count": 8,
+      "grant_count": 3,
+      "publication_count": 101
+    },
+    {
+      "name": "Pain Management",
+      "total_funding": 2368230.2994016586,
+      "faculty_count": 9,
+      "grant_count": 3,
+      "publication_count": 104
+    },
+    {
+      "name": "Young Adult",
+      "total_funding": 2335044.35666334,
+      "faculty_count": 13,
+      "grant_count": 3,
+      "publication_count": 153
+    },
+    {
+      "name": "Treatment Outcome",
+      "total_funding": 2312916.0520231016,
+      "faculty_count": 11,
+      "grant_count": 3,
+      "publication_count": 134
+    },
+    {
+      "name": "Anesthesia",
+      "total_funding": 2190467.732882149,
+      "faculty_count": 5,
+      "grant_count": 2,
+      "publication_count": 56
+    },
+    {
+      "name": "Chronic Disease",
+      "total_funding": 2001724.7124706004,
+      "faculty_count": 5,
+      "grant_count": 3,
+      "publication_count": 59
+    },
+    {
+      "name": "Prospective Studies",
+      "total_funding": 1992287.5702154213,
+      "faculty_count": 9,
+      "grant_count": 2,
+      "publication_count": 100
+    },
+    {
+      "name": "Anesthesiology",
+      "total_funding": 1951123.6528097652,
+      "faculty_count": 3,
+      "grant_count": 2,
+      "publication_count": 42
+    },
+    {
+      "name": "Neurocognitive Disorders",
+      "total_funding": 1863737.75,
+      "faculty_count": 1,
+      "grant_count": 2,
+      "publication_count": 9
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "total_funding": 1836119.2109725985,
+      "faculty_count": 3,
+      "grant_count": 3,
+      "publication_count": 44
+    },
+    {
+      "name": "Pain Threshold",
+      "total_funding": 1705003.6252278606,
+      "faculty_count": 5,
+      "grant_count": 2,
+      "publication_count": 60
+    },
+    {
+      "name": "Neuralgia",
+      "total_funding": 1666670.8478427818,
+      "faculty_count": 3,
+      "grant_count": 2,
+      "publication_count": 36
+    },
+    {
+      "name": "Complex Regional Pain Syndromes",
+      "total_funding": 1461555.7034528642,
+      "faculty_count": 2,
+      "grant_count": 2,
+      "publication_count": 21
+    },
+    {
+      "name": "Reproducibility of Results",
+      "total_funding": 1461555.7034528642,
+      "faculty_count": 2,
+      "grant_count": 2,
+      "publication_count": 21
+    },
+    {
+      "name": "Randomized Controlled Trials as Topic",
+      "total_funding": 1455353.954111218,
+      "faculty_count": 4,
+      "grant_count": 2,
+      "publication_count": 41
+    }
+  ],
+  "collaboration_impact": [
+    {
+      "uid": "arudin",
+      "name": "Aaron Rudin",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "ergross",
+      "name": "Eric Gross",
+      "total_funding": 4478344.0,
+      "grant_count": 16,
+      "collaboration_count": 27.0,
+      "publication_count": 88,
+      "h_index": 0
+    },
+    {
+      "uid": "tkung",
+      "name": "Tiffany Kung",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 10,
+      "h_index": 0
+    },
+    {
+      "uid": "mcchen8",
+      "name": "Marianne Chen",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 10.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "saragf",
+      "name": "Sara Naomi Goldhaber-Fiebert",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 16.0,
+      "publication_count": 27,
+      "h_index": 0
+    },
+    {
+      "uid": "panousis",
+      "name": "Dr. Periklis Panousis",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 2.0,
+      "publication_count": 4,
+      "h_index": 0
+    },
+    {
+      "uid": "bheifets",
+      "name": "Boris Dov Heifets",
+      "total_funding": 3123526.0,
+      "grant_count": 8,
+      "collaboration_count": 47.0,
+      "publication_count": 106,
+      "h_index": 0
+    },
+    {
+      "uid": "nhasan",
+      "name": "Natalya Hasan-Hill MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 7.0,
+      "publication_count": 4,
+      "h_index": 0
+    },
+    {
+      "uid": "bkadry",
+      "name": "Bassam Kadry",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 14.0,
+      "publication_count": 12,
+      "h_index": 0
+    },
+    {
+      "uid": "esun1",
+      "name": "Eric Sun",
+      "total_funding": 3136309.0,
+      "grant_count": 5,
+      "collaboration_count": 64.0,
+      "publication_count": 91,
+      "h_index": 0
+    },
+    {
+      "uid": "vyin",
+      "name": "Victoria Yin",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "anilpani",
+      "name": "Anil Panigrahi",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 31,
+      "h_index": 0
+    },
+    {
+      "uid": "lhan2",
+      "name": "Lichy Han",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 18.0,
+      "publication_count": 27,
+      "h_index": 0
+    },
+    {
+      "uid": "cstary",
+      "name": "Creed Michael Stary",
+      "total_funding": 1445088.0,
+      "grant_count": 4,
+      "collaboration_count": 15.0,
+      "publication_count": 95,
+      "h_index": 0
+    },
+    {
+      "uid": "pkalra",
+      "name": "Praveen Kalra",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "markburb",
+      "name": "Mark Burbridge",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 22.0,
+      "publication_count": 51,
+      "h_index": 0
+    },
+    {
+      "uid": "shwald",
+      "name": "Dr. Sam Wald",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 20.0,
+      "publication_count": 21,
+      "h_index": 0
+    },
+    {
+      "uid": "aruan",
+      "name": "Alexandra Ruan",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "saffary",
+      "name": "Roya Saffary",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 17.0,
+      "publication_count": 14,
+      "h_index": 0
+    },
+    {
+      "uid": "sastone",
+      "name": "Sarah Ann Stone",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 8,
+      "h_index": 0
+    },
+    {
+      "uid": "pminot2",
+      "name": "Patrick Minot",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "rishel",
+      "name": "Chris Rishel",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 10,
+      "h_index": 0
+    },
+    {
+      "uid": "aclu",
+      "name": "Amy Lu",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 23.0,
+      "publication_count": 22,
+      "h_index": 0
+    },
+    {
+      "uid": "didigood",
+      "name": "Dr. Didi Goodnough",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "kazando",
+      "name": "Kazuo Ando",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 83.0,
+      "publication_count": 39,
+      "h_index": 0
+    },
+    {
+      "uid": "kspeirs",
+      "name": "Katie Speirs",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "bdesouza",
+      "name": "Beth De Souza",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 28.0,
+      "publication_count": 25,
+      "h_index": 0
+    },
+    {
+      "uid": "agoodell",
+      "name": "Alexander Goodell",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 12,
+      "h_index": 0
+    },
+    {
+      "uid": "ljd14",
+      "name": "Lauren Janine Donovan",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 8,
+      "h_index": 0
+    },
+    {
+      "uid": "frwere",
+      "name": "Freeborn Rwere",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 8.0,
+      "publication_count": 23,
+      "h_index": 0
+    },
+    {
+      "uid": "alanleec",
+      "name": "Alan Lee Chang",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 55.0,
+      "publication_count": 27,
+      "h_index": 0
+    },
+    {
+      "uid": "pochebm",
+      "name": "Maxim Pochebyt",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "cchiu105",
+      "name": "Cornel Chiu",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "yzhang23",
+      "name": "Yang Zhang",
+      "total_funding": 1387702.0,
+      "grant_count": 2,
+      "collaboration_count": 0.0,
+      "publication_count": 0,
+      "h_index": 0
+    },
+    {
+      "uid": "chshu",
+      "name": "Nolan Shu",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 11.0,
+      "publication_count": 5,
+      "h_index": 0
+    },
+    {
+      "uid": "ppurdon",
+      "name": "Patrick Lee Purdon",
+      "total_funding": 7454951.0,
+      "grant_count": 8,
+      "collaboration_count": 1.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "aadriano",
+      "name": "Dr Aileen Adriano",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "emariano",
+      "name": "Edward Mariano",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 119.0,
+      "publication_count": 357,
+      "h_index": 0
+    },
+    {
+      "uid": "mnemenov",
+      "name": "Mikhail I. Nemenov PhD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 22,
+      "h_index": 0
+    },
+    {
+      "uid": "arsaxena",
+      "name": "Amit Raj Saxena",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 11.0,
+      "publication_count": 11,
+      "h_index": 0
+    },
+    {
+      "uid": "hchow",
+      "name": "Harrison Shong-Wen Chow",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "ang",
+      "name": "Martin Angst",
+      "total_funding": 480826.0,
+      "grant_count": 1,
+      "collaboration_count": 174.0,
+      "publication_count": 182,
+      "h_index": 0
+    },
+    {
+      "uid": "amaca",
+      "name": "Alex Macario",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 92.0,
+      "publication_count": 298,
+      "h_index": 0
+    },
+    {
+      "uid": "nek",
+      "name": "Vladimir Nekhendzy",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 9.0,
+      "publication_count": 17,
+      "h_index": 0
+    },
+    {
+      "uid": "rjram",
+      "name": "R J Ramamurthi",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 10.0,
+      "publication_count": 29,
+      "h_index": 0
+    },
+    {
+      "uid": "geoffl",
+      "name": "Geoffrey Lighthall",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 14.0,
+      "publication_count": 57,
+      "h_index": 0
+    },
+    {
+      "uid": "rclaure",
+      "name": "Rebecca Claure",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 15.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "hlemmens",
+      "name": "Hendrikus Lemmens",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 17.0,
+      "publication_count": 91,
+      "h_index": 0
+    },
+    {
+      "uid": "stevenf",
+      "name": "Steven D. Feinberg M.D.",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 3,
+      "h_index": 0
+    },
+    {
+      "uid": "anjalid",
+      "name": "Anjali Ashish Dixit",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 21.0,
+      "publication_count": 23,
+      "h_index": 0
+    },
+    {
+      "uid": "echorowe",
+      "name": "Echo Rowe",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 3,
+      "h_index": 0
+    },
+    {
+      "uid": "michael1",
+      "name": "Michael Ie Chen",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 16.0,
+      "publication_count": 13,
+      "h_index": 0
+    },
+    {
+      "uid": "mmuffly",
+      "name": "Matthew Muffly",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 19.0,
+      "publication_count": 17,
+      "h_index": 0
+    },
+    {
+      "uid": "tanders0",
+      "name": "Thomas Anderson",
+      "total_funding": 5011074.0,
+      "grant_count": 2,
+      "collaboration_count": 22.0,
+      "publication_count": 51,
+      "h_index": 0
+    },
+    {
+      "uid": "otm1",
+      "name": "Louise Kimiko Furukawa",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 5,
+      "h_index": 0
+    },
+    {
+      "uid": "rbhandar",
+      "name": "Rashmi Parekh Bhandari",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 33.0,
+      "publication_count": 36,
+      "h_index": 0
+    },
+    {
+      "uid": "oalbert",
+      "name": "Olga Nella Wolke",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 2.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "ic38",
+      "name": "Dr. Ian R Carroll",
+      "total_funding": 186161.0,
+      "grant_count": 2,
+      "collaboration_count": 71.0,
+      "publication_count": 85,
+      "h_index": 0
+    },
+    {
+      "uid": "rfanning",
+      "name": "Ruth M. Fanning",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 8.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "mudumbai",
+      "name": "Sesh Mudumbai MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 70.0,
+      "publication_count": 77,
+      "h_index": 0
+    },
+    {
+      "uid": "agdoufas",
+      "name": "Anthony Doufas",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 75,
+      "h_index": 0
+    },
+    {
+      "uid": "ptanaka",
+      "name": "Pedro Paulo Tanaka",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 41.0,
+      "publication_count": 52,
+      "h_index": 0
+    },
+    {
+      "uid": "jhah",
+      "name": "Jennifer Myunghae Hah MD",
+      "total_funding": 5312627.0,
+      "grant_count": 6,
+      "collaboration_count": 84.0,
+      "publication_count": 71,
+      "h_index": 0
+    },
+    {
+      "uid": "juliewil",
+      "name": "Julie Williamson",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 5,
+      "h_index": 0
+    },
+    {
+      "uid": "gdsouza",
+      "name": "Genevieve D'Souza",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 21.0,
+      "publication_count": 17,
+      "h_index": 0
+    },
+    {
+      "uid": "manchuln",
+      "name": "Manchula Navaratnam",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 18.0,
+      "publication_count": 39,
+      "h_index": 0
+    },
+    {
+      "uid": "mckao",
+      "name": "Ming-Chih Kao",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 65.0,
+      "publication_count": 66,
+      "h_index": 0
+    },
+    {
+      "uid": "cdnguyen",
+      "name": "Clarice Nguyen",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "xqian",
+      "name": "Xiang Qian",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 17.0,
+      "publication_count": 39,
+      "h_index": 0
+    },
+    {
+      "uid": "teresan1",
+      "name": "Teresa Phuongtram Nguyen",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 11.0,
+      "publication_count": 12,
+      "h_index": 0
+    },
+    {
+      "uid": "vivianne",
+      "name": "Vivianne Tawfik",
+      "total_funding": 9617079.0,
+      "grant_count": 23,
+      "collaboration_count": 39.0,
+      "publication_count": 77,
+      "h_index": 0
+    },
+    {
+      "uid": "xiaoxiao",
+      "name": "Xiaoxiao Gao",
+      "total_funding": 2422095.0,
+      "grant_count": 10,
+      "collaboration_count": 0.0,
+      "publication_count": 0,
+      "h_index": 0
+    },
+    {
+      "uid": "mgboltz",
+      "name": "M. Gail Boltz",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 15.0,
+      "publication_count": 13,
+      "h_index": 0
+    },
+    {
+      "uid": "bmittal",
+      "name": "Dr. Brita M Mittal MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 10,
+      "h_index": 0
+    },
+    {
+      "uid": "lnywang",
+      "name": "Ellen Wang",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 130.0,
+      "publication_count": 75,
+      "h_index": 0
+    },
+    {
+      "uid": "jnewmark",
+      "name": "Jordan Lee Newmark",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "zoelq",
+      "name": "Zoel Quinonez",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 26.0,
+      "publication_count": 28,
+      "h_index": 0
+    },
+    {
+      "uid": "bdarnall",
+      "name": "Beth Darnall",
+      "total_funding": 960458.0,
+      "grant_count": 6,
+      "collaboration_count": 215.0,
+      "publication_count": 216,
+      "h_index": 0
+    },
+    {
+      "uid": "petercs",
+      "name": "Pete Schmidt MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 24.0,
+      "publication_count": 22,
+      "h_index": 0
+    },
+    {
+      "uid": "shuestis",
+      "name": "Samantha E. Huestis PhD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 7.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "hking",
+      "name": "Heather Poupore-King",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 21.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "pflood",
+      "name": "Dr. Pamela Flood",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 73.0,
+      "publication_count": 149,
+      "h_index": 0
+    },
+    {
+      "uid": "kristen3",
+      "name": "Kristen Slater",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 8.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "grantmcf",
+      "name": "Grant McFadyen",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 4,
+      "h_index": 0
+    },
+    {
+      "uid": "tlii",
+      "name": "Theresa Lii",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 19.0,
+      "publication_count": 16,
+      "h_index": 0
+    },
+    {
+      "uid": "sr1",
+      "name": "Samuel Rodriguez",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 68.0,
+      "publication_count": 64,
+      "h_index": 0
+    },
+    {
+      "uid": "agarwalr",
+      "name": "Rita Agarwal",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 16.0,
+      "publication_count": 32,
+      "h_index": 0
+    },
+    {
+      "uid": "aburgart",
+      "name": "Alyssa M Burgart",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 8.0,
+      "publication_count": 27,
+      "h_index": 0
+    },
+    {
+      "uid": "akaggarw",
+      "name": "Anuj Aggarwal",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 24.0,
+      "publication_count": 21,
+      "h_index": 0
+    },
+    {
+      "uid": "msleong",
+      "name": "Michael Leong",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 23.0,
+      "publication_count": 29,
+      "h_index": 0
+    },
+    {
+      "uid": "kaitlinf",
+      "name": "Kaitlin Flannery",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "sgsastry",
+      "name": "Sunita G. Sastry",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 5.0,
+      "publication_count": 3,
+      "h_index": 0
+    },
+    {
+      "uid": "gpeltz",
+      "name": "Gary Peltz M.D. Ph.D.",
+      "total_funding": 11471356.0,
+      "grant_count": 19,
+      "collaboration_count": 15.0,
+      "publication_count": 170,
+      "h_index": 0
+    },
+    {
+      "uid": "mlennig",
+      "name": "Michael Lennig",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 12.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "krhee",
+      "name": "Kirsten Steffner",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 13.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "julieg",
+      "name": "Julie Good MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 2.0,
+      "publication_count": 12,
+      "h_index": 0
+    },
+    {
+      "uid": "lesimons",
+      "name": "Laura Simons",
+      "total_funding": 6543493.0,
+      "grant_count": 12,
+      "collaboration_count": 65.0,
+      "publication_count": 212,
+      "h_index": 0
+    },
+    {
+      "uid": "kenweber",
+      "name": "Kenneth Arnold Weber",
+      "total_funding": 1380501.0,
+      "grant_count": 3,
+      "collaboration_count": 41.0,
+      "publication_count": 97,
+      "h_index": 0
+    },
+    {
+      "uid": "alicehli",
+      "name": "Alice Huai-Yu Li",
+      "total_funding": 418454.0,
+      "grant_count": 3,
+      "collaboration_count": 8.0,
+      "publication_count": 8,
+      "h_index": 0
+    },
+    {
+      "uid": "vsalmasi",
+      "name": "Vafi Salmasi",
+      "total_funding": 1334237.0,
+      "grant_count": 7,
+      "collaboration_count": 45.0,
+      "publication_count": 46,
+      "h_index": 0
+    },
+    {
+      "uid": "edwardb",
+      "name": "Prof Edward J. Bertaccini MD",
+      "total_funding": 358204.0,
+      "grant_count": 2,
+      "collaboration_count": 17.0,
+      "publication_count": 88,
+      "h_index": 0
+    },
+    {
+      "uid": "janiceym",
+      "name": "Janice Man",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 9.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "clin999",
+      "name": "Carole Lin",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 10.0,
+      "publication_count": 10,
+      "h_index": 0
+    },
+    {
+      "uid": "chenqi",
+      "name": "QiLiang Chen",
+      "total_funding": 228420.0,
+      "grant_count": 1,
+      "collaboration_count": 15.0,
+      "publication_count": 36,
+      "h_index": 0
+    },
+    {
+      "uid": "alsawyer",
+      "name": "Anthony LaMarr Sawyer",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "mziadni",
+      "name": "Maisa Ziadni",
+      "total_funding": 318438.0,
+      "grant_count": 2,
+      "collaboration_count": 115.0,
+      "publication_count": 75,
+      "h_index": 0
+    },
+    {
+      "uid": "astsai",
+      "name": "Amy Sung Tsai",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 91.0,
+      "publication_count": 46,
+      "h_index": 0
+    },
+    {
+      "uid": "panri",
+      "name": "Patricia Ann Richardson",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 5.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "marly",
+      "name": "Samuel Mireles",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 5.0,
+      "publication_count": 4,
+      "h_index": 0
+    },
+    {
+      "uid": "jeinhaus",
+      "name": "Jakob Franz Einhaus",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 41.0,
+      "publication_count": 21,
+      "h_index": 0
+    },
+    {
+      "uid": "amurray3",
+      "name": "Andrea J Murray",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "tlrn",
+      "name": "Travis Lee Reece-Nguyen",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 16,
+      "h_index": 0
+    },
+    {
+      "uid": "esfahanm",
+      "name": "Mohammad Esfahanian",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 7.0,
+      "publication_count": 5,
+      "h_index": 0
+    },
+    {
+      "uid": "asheen21",
+      "name": "Asheen Rama",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 21.0,
+      "publication_count": 12,
+      "h_index": 0
+    },
+    {
+      "uid": "alkwon",
+      "name": "Albert Hyukjae Kwon",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 9.0,
+      "publication_count": 23,
+      "h_index": 0
+    },
+    {
+      "uid": "leharr",
+      "name": "Lauren Elisabeth Harrison",
+      "total_funding": 914130.0,
+      "grant_count": 6,
+      "collaboration_count": 37.0,
+      "publication_count": 36,
+      "h_index": 0
+    },
+    {
+      "uid": "kleina",
+      "name": "Alexandra Bor",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 10.0,
+      "publication_count": 15,
+      "h_index": 0
+    },
+    {
+      "uid": "jjfehr",
+      "name": "Jim Fehr",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 17.0,
+      "publication_count": 37,
+      "h_index": 0
+    },
+    {
+      "uid": "ajrod",
+      "name": "Alexander Rodriguez",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 4,
+      "h_index": 0
+    },
+    {
+      "uid": "sjpan",
+      "name": "Stephanie Pan",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 13.0,
+      "publication_count": 18,
+      "h_index": 0
+    },
+    {
+      "uid": "ngregory",
+      "name": "Nicholas Scott Gregory",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 8.0,
+      "publication_count": 13,
+      "h_index": 0
+    },
+    {
+      "uid": "mrebecca",
+      "name": "Rebecca Sara Morris",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "gaba",
+      "name": "David M Gaba",
+      "total_funding": 556004.0,
+      "grant_count": 2,
+      "collaboration_count": 18.0,
+      "publication_count": 172,
+      "h_index": 0
+    },
+    {
+      "uid": "gmuwanga",
+      "name": "Gabriella Muwanga",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "dfeyaer",
+      "name": "Dorien Feyaerts",
+      "total_funding": 131085.0,
+      "grant_count": 1,
+      "collaboration_count": 64.0,
+      "publication_count": 35,
+      "h_index": 0
+    },
+    {
+      "uid": "agoyaarc",
+      "name": "Ana Belen Goya Arce",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 6.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "aterkawi",
+      "name": "Abdullah Sulieman Terkawi",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 16.0,
+      "publication_count": 99,
+      "h_index": 0
+    },
+    {
+      "uid": "jfbarnet",
+      "name": "Jonathan Barnett",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "elannon",
+      "name": "Edward Lannon",
+      "total_funding": 348550.0,
+      "grant_count": 3,
+      "collaboration_count": 17.0,
+      "publication_count": 10,
+      "h_index": 0
+    },
+    {
+      "uid": "eloiseb",
+      "name": "Eloise Berson",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 58.0,
+      "publication_count": 25,
+      "h_index": 0
+    },
+    {
+      "uid": "abcasey",
+      "name": "Austen Brooks Casey",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 12.0,
+      "publication_count": 15,
+      "h_index": 0
+    },
+    {
+      "uid": "anippert",
+      "name": "Amy Ruth Nippert",
+      "total_funding": 286728.0,
+      "grant_count": 4,
+      "collaboration_count": 0.0,
+      "publication_count": 0,
+      "h_index": 0
+    },
+    {
+      "uid": "nevillea",
+      "name": "Alexandra Joan Neville",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 11.0,
+      "publication_count": 27,
+      "h_index": 0
+    },
+    {
+      "uid": "cslaw",
+      "name": "Christine Sze Wan Law",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 28.0,
+      "publication_count": 23,
+      "h_index": 0
+    },
+    {
+      "uid": "sikka",
+      "name": "Pilleriin Sikka",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 2.0,
+      "publication_count": 36,
+      "h_index": 0
+    },
+    {
+      "uid": "cwhess",
+      "name": "Courtney Wynne Hess",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 18.0,
+      "publication_count": 21,
+      "h_index": 0
+    },
+    {
+      "uid": "aborucki",
+      "name": "Amber Borucki",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "jliaomd",
+      "name": "Joseph Liao",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 6,
+      "h_index": 0
+    },
+    {
+      "uid": "st31589d",
+      "name": "Troy Christopher Dildine",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 15.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "rabbitts",
+      "name": "Jennifer Rabbitts",
+      "total_funding": 894320.0,
+      "grant_count": 5,
+      "collaboration_count": 26.0,
+      "publication_count": 68,
+      "h_index": 0
+    },
+    {
+      "uid": "sewillia",
+      "name": "Sara Williams",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 10.0,
+      "publication_count": 11,
+      "h_index": 0
+    },
+    {
+      "uid": "ameliec",
+      "name": "Amelie Isabelle Fanny Cambriel",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 12.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "tomin",
+      "name": "Tomin Koiprayil James",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 15.0,
+      "publication_count": 4,
+      "h_index": 0
+    },
+    {
+      "uid": "mkaptan",
+      "name": "Merve Kaptan",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 15.0,
+      "publication_count": 11,
+      "h_index": 0
+    },
+    {
+      "uid": "dpfyffer",
+      "name": "Dario Pfyffer",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 19.0,
+      "publication_count": 18,
+      "h_index": 0
+    },
+    {
+      "uid": "cgroen",
+      "name": "Cornelius Groenewald",
+      "total_funding": 2469470.0,
+      "grant_count": 4,
+      "collaboration_count": 26.0,
+      "publication_count": 66,
+      "h_index": 0
+    },
+    {
+      "uid": "asujan",
+      "name": "Ayesha Chatterji Sujan",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 9.0,
+      "publication_count": 22,
+      "h_index": 0
+    },
+    {
+      "uid": "liu90081",
+      "name": "Liu Yang",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 5.0,
+      "publication_count": 18,
+      "h_index": 0
+    },
+    {
+      "uid": "chungp",
+      "name": "Philip Chung",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 28.0,
+      "publication_count": 25,
+      "h_index": 0
+    },
+    {
+      "uid": "mh1",
+      "name": "Mingjian He",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 11,
+      "h_index": 0
+    },
+    {
+      "uid": "marcgh",
+      "name": "Marc Ghanem",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 24.0,
+      "publication_count": 23,
+      "h_index": 0
+    },
+    {
+      "uid": "cschmies",
+      "name": "Dr. Cliff Schmiesing",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 34.0,
+      "publication_count": 25,
+      "h_index": 0
+    },
+    {
+      "uid": "samsukk",
+      "name": "Samsuk Kim",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 9.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "jfundaun",
+      "name": "Joel Fundaun",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 12,
+      "h_index": 0
+    },
+    {
+      "uid": "amachi",
+      "name": "Anthony Machi",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 4.0,
+      "publication_count": 10,
+      "h_index": 0
+    },
+    {
+      "uid": "melodyr",
+      "name": "Melody Reese Smith",
+      "total_funding": 668304.0,
+      "grant_count": 4,
+      "collaboration_count": 17.0,
+      "publication_count": 21,
+      "h_index": 0
+    },
+    {
+      "uid": "lwd97",
+      "name": "Weida Liu",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 1,
+      "h_index": 0
+    },
+    {
+      "uid": "rictreml",
+      "name": "Ricardo Esper Treml",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 1.0,
+      "publication_count": 19,
+      "h_index": 0
+    },
+    {
+      "uid": "lchu",
+      "name": "Dr Larry Fu-nien Chu",
+      "total_funding": 1492962.0,
+      "grant_count": 8,
+      "collaboration_count": 63.0,
+      "publication_count": 131,
+      "h_index": 0
+    },
+    {
+      "uid": "mbarad",
+      "name": "Meredith Barad",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 25.0,
+      "publication_count": 30,
+      "h_index": 0
+    },
+    {
+      "uid": "bjwbjw",
+      "name": "Becky Jan Wong",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 21.0,
+      "publication_count": 14,
+      "h_index": 0
+    },
+    {
+      "uid": "djclark",
+      "name": "David J. Clark",
+      "total_funding": 1943952.0,
+      "grant_count": 6,
+      "collaboration_count": 21.0,
+      "publication_count": 40,
+      "h_index": 0
+    },
+    {
+      "uid": "calypso1",
+      "name": "Dr. JT Kong",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 39.0,
+      "publication_count": 30,
+      "h_index": 0
+    },
+    {
+      "uid": "viveknk",
+      "name": "Vivek Kulkarni",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 9,
+      "h_index": 0
+    },
+    {
+      "uid": "tmallick",
+      "name": "Theresa Mallick-Searle NP RN",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 9.0,
+      "publication_count": 30,
+      "h_index": 0
+    },
+    {
+      "uid": "timangel",
+      "name": "Dr. Tim Angelotti",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 7.0,
+      "publication_count": 63,
+      "h_index": 0
+    },
+    {
+      "uid": "marks9",
+      "name": "Mark A Singleton",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 16.0,
+      "publication_count": 11,
+      "h_index": 0
+    },
+    {
+      "uid": "foko",
+      "name": "Dr. F. Fabian Okonski MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 2.0,
+      "publication_count": 2,
+      "h_index": 0
+    },
+    {
+      "uid": "ottestad",
+      "name": "Einar Ottestad",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 37.0,
+      "publication_count": 34,
+      "h_index": 0
+    },
+    {
+      "uid": "honkanen",
+      "name": "Anita Honkanen MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 24.0,
+      "publication_count": 23,
+      "h_index": 0
+    },
+    {
+      "uid": "dchar",
+      "name": "Danton Samuel Char",
+      "total_funding": 233947.0,
+      "grant_count": 1,
+      "collaboration_count": 35.0,
+      "publication_count": 78,
+      "h_index": 0
+    },
+    {
+      "uid": "ckuan",
+      "name": "Calvin Kuan",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 11.0,
+      "publication_count": 11,
+      "h_index": 0
+    },
+    {
+      "uid": "tjcaruso",
+      "name": "Thomas Jon Caruso",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 128.0,
+      "publication_count": 118,
+      "h_index": 0
+    },
+    {
+      "uid": "jxie",
+      "name": "James Xie",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 50.0,
+      "publication_count": 37,
+      "h_index": 0
+    },
+    {
+      "uid": "kkamra",
+      "name": "Dr Komal Kamra",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 16.0,
+      "publication_count": 21,
+      "h_index": 0
+    },
+    {
+      "uid": "mberger1",
+      "name": "Miles Berger",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 20.0,
+      "publication_count": 130,
+      "h_index": 0
+    },
+    {
+      "uid": "bena",
+      "name": "Behnaz Jarrahi",
+      "total_funding": 175889.0,
+      "grant_count": 1,
+      "collaboration_count": 0.0,
+      "publication_count": 0,
+      "h_index": 0
+    },
+    {
+      "uid": "fperez",
+      "name": "Felipe D. Perez MD",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 19.0,
+      "publication_count": 14,
+      "h_index": 0
+    },
+    {
+      "uid": "bgolianu",
+      "name": "Brenda Golianu",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 5.0,
+      "publication_count": 7,
+      "h_index": 0
+    },
+    {
+      "uid": "ashafer",
+      "name": "Audrey Shafer",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 3.0,
+      "publication_count": 79,
+      "h_index": 0
+    },
+    {
+      "uid": "juli",
+      "name": "",
+      "total_funding": 0,
+      "grant_count": 0,
+      "collaboration_count": 11.0,
+      "publication_count": 17,
+      "h_index": 0
+    },
+    {
+      "uid": "smackey",
+      "name": "Sean Mackey",
+      "total_funding": 42310295.0,
+      "grant_count": 91,
+      "collaboration_count": 343.0,
+      "publication_count": 388,
+      "h_index": 0
+    }
+  ]
+}

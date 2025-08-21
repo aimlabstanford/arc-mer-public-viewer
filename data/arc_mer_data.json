@@ -1,0 +1,1522 @@
+{
+  "generated": "2025-08-13T01:35:54.860877",
+  "data_by_years": {
+    "2015-2019": {
+      "specialties": {
+        "ANESTHESIOLOGY": {
+          "R21": {
+            "grants": 4,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 1,
+            "publications": 3
+          },
+          "R25": {
+            "grants": 3,
+            "publications": 0
+          },
+          "UL1": {
+            "grants": 2,
+            "publications": 0
+          },
+          "KL2": {
+            "grants": 1,
+            "publications": 0
+          },
+          "TL1": {
+            "grants": 1,
+            "publications": 8
+          },
+          "R01": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "EMERGENCY MEDICINE": {
+          "R25": {
+            "grants": 2,
+            "publications": 2
+          },
+          "T35": {
+            "grants": 2,
+            "publications": 0
+          },
+          "KL2": {
+            "grants": 2,
+            "publications": 4
+          },
+          "R01": {
+            "grants": 2,
+            "publications": 0
+          },
+          "R03": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "SURGERY": {
+          "T35": {
+            "grants": 7,
+            "publications": 0
+          },
+          "R01": {
+            "grants": 16,
+            "publications": 84
+          },
+          "R25": {
+            "grants": 19,
+            "publications": 36
+          },
+          "K24": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R21": {
+            "grants": 5,
+            "publications": 0
+          },
+          "U54": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K08": {
+            "grants": 3,
+            "publications": 0
+          },
+          "U24": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P20": {
+            "grants": 2,
+            "publications": 4
+          },
+          "D43": {
+            "grants": 4,
+            "publications": 0
+          },
+          "F32": {
+            "grants": 1,
+            "publications": 0
+          },
+          "DP2": {
+            "grants": 1,
+            "publications": 3
+          },
+          "TL1": {
+            "grants": 1,
+            "publications": 6
+          },
+          "P30": {
+            "grants": 1,
+            "publications": 72
+          }
+        },
+        "INTERNAL MEDICINE/MEDICINE": {
+          "K24": {
+            "grants": 55,
+            "publications": 582
+          },
+          "R01": {
+            "grants": 79,
+            "publications": 115
+          },
+          "P60": {
+            "grants": 8,
+            "publications": 18
+          },
+          "P30": {
+            "grants": 113,
+            "publications": 2163
+          },
+          "T35": {
+            "grants": 95,
+            "publications": 142
+          },
+          "R25": {
+            "grants": 124,
+            "publications": 117
+          },
+          "K05": {
+            "grants": 5,
+            "publications": 108
+          },
+          "D43": {
+            "grants": 15,
+            "publications": 26
+          },
+          "R24": {
+            "grants": 10,
+            "publications": 20
+          },
+          "K99": {
+            "grants": 2,
+            "publications": 0
+          },
+          "R21": {
+            "grants": 16,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 13,
+            "publications": 42
+          },
+          "TL1": {
+            "grants": 45,
+            "publications": 311
+          },
+          "R03": {
+            "grants": 7,
+            "publications": 2
+          },
+          "KL2": {
+            "grants": 23,
+            "publications": 267
+          },
+          "K08": {
+            "grants": 13,
+            "publications": 7
+          },
+          "R13": {
+            "grants": 21,
+            "publications": 0
+          },
+          "U01": {
+            "grants": 14,
+            "publications": 16
+          },
+          "P50": {
+            "grants": 10,
+            "publications": 64
+          },
+          "K12": {
+            "grants": 7,
+            "publications": 12
+          },
+          "U54": {
+            "grants": 36,
+            "publications": 288
+          },
+          "F32": {
+            "grants": 3,
+            "publications": 0
+          },
+          "P20": {
+            "grants": 21,
+            "publications": 168
+          },
+          "P01": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U41": {
+            "grants": 3,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 9,
+            "publications": 48
+          },
+          "U10": {
+            "grants": 1,
+            "publications": 4
+          },
+          "K07": {
+            "grants": 5,
+            "publications": 22
+          },
+          "UL1": {
+            "grants": 33,
+            "publications": 2918
+          },
+          "T15": {
+            "grants": 6,
+            "publications": 456
+          },
+          "G11": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 6,
+            "publications": 4
+          },
+          "G12": {
+            "grants": 2,
+            "publications": 9
+          },
+          "R18": {
+            "grants": 2,
+            "publications": 0
+          },
+          "R33": {
+            "grants": 3,
+            "publications": 0
+          },
+          "UH2": {
+            "grants": 2,
+            "publications": 10
+          },
+          "R00": {
+            "grants": 2,
+            "publications": 2
+          },
+          "R38": {
+            "grants": 6,
+            "publications": 4
+          },
+          "F31": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U19": {
+            "grants": 1,
+            "publications": 3
+          },
+          "K22": {
+            "grants": 1,
+            "publications": 0
+          },
+          "DP5": {
+            "grants": 1,
+            "publications": 2
+          },
+          "UH3": {
+            "grants": 2,
+            "publications": 4
+          }
+        },
+        "OBSTETRICS & GYNECOLOGY": {
+          "T35": {
+            "grants": 4,
+            "publications": 2
+          },
+          "R25": {
+            "grants": 8,
+            "publications": 0
+          },
+          "U01": {
+            "grants": 2,
+            "publications": 0
+          },
+          "R13": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U54": {
+            "grants": 4,
+            "publications": 48
+          },
+          "R01": {
+            "grants": 3,
+            "publications": 3
+          },
+          "K01": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P20": {
+            "grants": 4,
+            "publications": 0
+          },
+          "P50": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 2,
+            "publications": 20
+          },
+          "TL1": {
+            "grants": 2,
+            "publications": 0
+          }
+        },
+        "PEDIATRICS": {
+          "K24": {
+            "grants": 9,
+            "publications": 41
+          },
+          "K23": {
+            "grants": 6,
+            "publications": 21
+          },
+          "T35": {
+            "grants": 8,
+            "publications": 0
+          },
+          "R25": {
+            "grants": 35,
+            "publications": 15
+          },
+          "R03": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R01": {
+            "grants": 10,
+            "publications": 3
+          },
+          "U24": {
+            "grants": 2,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 4,
+            "publications": 0
+          },
+          "DP3": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P30": {
+            "grants": 7,
+            "publications": 169
+          },
+          "R13": {
+            "grants": 5,
+            "publications": 0
+          },
+          "UL1": {
+            "grants": 12,
+            "publications": 108
+          },
+          "KL2": {
+            "grants": 3,
+            "publications": 91
+          },
+          "R21": {
+            "grants": 5,
+            "publications": 4
+          },
+          "TL1": {
+            "grants": 4,
+            "publications": 18
+          },
+          "RM1": {
+            "grants": 1,
+            "publications": 3
+          },
+          "U01": {
+            "grants": 3,
+            "publications": 2
+          },
+          "K08": {
+            "grants": 4,
+            "publications": 2
+          },
+          "U54": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 2,
+            "publications": 0
+          },
+          "F30": {
+            "grants": 2,
+            "publications": 0
+          },
+          "F31": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K12": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UG1": {
+            "grants": 1,
+            "publications": 0
+          }
+        }
+      },
+      "stats": {
+        "total_grants": 1075,
+        "total_publications": 8726,
+        "unique_mechanisms": 49,
+        "unique_specialties": 6
+      }
+    },
+    "2020-2024": {
+      "specialties": {
+        "ANESTHESIOLOGY": {
+          "R25": {
+            "grants": 2,
+            "publications": 0
+          },
+          "R01": {
+            "grants": 7,
+            "publications": 21
+          },
+          "R21": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K07": {
+            "grants": 3,
+            "publications": 1
+          },
+          "R24": {
+            "grants": 4,
+            "publications": 108
+          },
+          "U19": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 3,
+            "publications": 0
+          }
+        },
+        "EMERGENCY MEDICINE": {
+          "R01": {
+            "grants": 12,
+            "publications": 6
+          },
+          "R21": {
+            "grants": 2,
+            "publications": 0
+          },
+          "T35": {
+            "grants": 3,
+            "publications": 0
+          },
+          "KL2": {
+            "grants": 4,
+            "publications": 6
+          },
+          "R03": {
+            "grants": 3,
+            "publications": 8
+          },
+          "K23": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UG3": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "SURGERY": {
+          "T35": {
+            "grants": 16,
+            "publications": 10
+          },
+          "R25": {
+            "grants": 24,
+            "publications": 23
+          },
+          "K08": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R01": {
+            "grants": 19,
+            "publications": 21
+          },
+          "K24": {
+            "grants": 9,
+            "publications": 231
+          },
+          "UM1": {
+            "grants": 4,
+            "publications": 0
+          },
+          "R21": {
+            "grants": 4,
+            "publications": 0
+          },
+          "D43": {
+            "grants": 2,
+            "publications": 0
+          },
+          "P30": {
+            "grants": 6,
+            "publications": 432
+          },
+          "TL1": {
+            "grants": 3,
+            "publications": 20
+          },
+          "R38": {
+            "grants": 4,
+            "publications": 0
+          },
+          "K12": {
+            "grants": 3,
+            "publications": 0
+          },
+          "U01": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UH3": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "INTERNAL MEDICINE/MEDICINE": {
+          "R25": {
+            "grants": 178,
+            "publications": 89
+          },
+          "T35": {
+            "grants": 102,
+            "publications": 123
+          },
+          "R01": {
+            "grants": 121,
+            "publications": 49
+          },
+          "K08": {
+            "grants": 10,
+            "publications": 12
+          },
+          "K01": {
+            "grants": 11,
+            "publications": 2
+          },
+          "K24": {
+            "grants": 41,
+            "publications": 264
+          },
+          "P30": {
+            "grants": 117,
+            "publications": 716
+          },
+          "R38": {
+            "grants": 22,
+            "publications": 30
+          },
+          "KL2": {
+            "grants": 25,
+            "publications": 214
+          },
+          "UL1": {
+            "grants": 32,
+            "publications": 1396
+          },
+          "F32": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R21": {
+            "grants": 18,
+            "publications": 8
+          },
+          "K23": {
+            "grants": 5,
+            "publications": 2
+          },
+          "K99": {
+            "grants": 1,
+            "publications": 0
+          },
+          "D43": {
+            "grants": 12,
+            "publications": 15
+          },
+          "UE5": {
+            "grants": 3,
+            "publications": 3
+          },
+          "P20": {
+            "grants": 19,
+            "publications": 284
+          },
+          "R13": {
+            "grants": 8,
+            "publications": 0
+          },
+          "U19": {
+            "grants": 6,
+            "publications": 6
+          },
+          "R18": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K07": {
+            "grants": 8,
+            "publications": 6
+          },
+          "TL1": {
+            "grants": 31,
+            "publications": 148
+          },
+          "U54": {
+            "grants": 20,
+            "publications": 74
+          },
+          "K12": {
+            "grants": 10,
+            "publications": 12
+          },
+          "T15": {
+            "grants": 4,
+            "publications": 90
+          },
+          "U01": {
+            "grants": 26,
+            "publications": 23
+          },
+          "R33": {
+            "grants": 6,
+            "publications": 12
+          },
+          "DP5": {
+            "grants": 3,
+            "publications": 4
+          },
+          "UH3": {
+            "grants": 5,
+            "publications": 2
+          },
+          "R03": {
+            "grants": 4,
+            "publications": 5
+          },
+          "F30": {
+            "grants": 6,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 2,
+            "publications": 4
+          },
+          "R37": {
+            "grants": 1,
+            "publications": 1
+          },
+          "UG3": {
+            "grants": 2,
+            "publications": 0
+          },
+          "U2C": {
+            "grants": 3,
+            "publications": 14
+          },
+          "R00": {
+            "grants": 6,
+            "publications": 0
+          },
+          "P51": {
+            "grants": 1,
+            "publications": 20
+          },
+          "P50": {
+            "grants": 2,
+            "publications": 0
+          },
+          "S10": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U24": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R35": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R16": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R50": {
+            "grants": 1,
+            "publications": 0
+          },
+          "DP2": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P42": {
+            "grants": 1,
+            "publications": 9
+          },
+          "K26": {
+            "grants": 2,
+            "publications": 0
+          }
+        },
+        "OBSTETRICS & GYNECOLOGY": {
+          "R01": {
+            "grants": 3,
+            "publications": 1
+          },
+          "T35": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P30": {
+            "grants": 5,
+            "publications": 94
+          },
+          "K23": {
+            "grants": 1,
+            "publications": 10
+          },
+          "R25": {
+            "grants": 5,
+            "publications": 0
+          },
+          "K12": {
+            "grants": 4,
+            "publications": 6
+          },
+          "U54": {
+            "grants": 4,
+            "publications": 60
+          },
+          "TL1": {
+            "grants": 4,
+            "publications": 0
+          },
+          "R24": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "PEDIATRICS": {
+          "R25": {
+            "grants": 49,
+            "publications": 18
+          },
+          "R13": {
+            "grants": 8,
+            "publications": 0
+          },
+          "K24": {
+            "grants": 12,
+            "publications": 36
+          },
+          "P30": {
+            "grants": 11,
+            "publications": 300
+          },
+          "R21": {
+            "grants": 4,
+            "publications": 0
+          },
+          "G13": {
+            "grants": 3,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 8,
+            "publications": 3
+          },
+          "R01": {
+            "grants": 28,
+            "publications": 10
+          },
+          "F31": {
+            "grants": 1,
+            "publications": 0
+          },
+          "T35": {
+            "grants": 8,
+            "publications": 0
+          },
+          "K12": {
+            "grants": 9,
+            "publications": 18
+          },
+          "RM1": {
+            "grants": 4,
+            "publications": 10
+          },
+          "R03": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UG1": {
+            "grants": 11,
+            "publications": 0
+          },
+          "K08": {
+            "grants": 7,
+            "publications": 2
+          },
+          "U54": {
+            "grants": 4,
+            "publications": 24
+          },
+          "R61": {
+            "grants": 3,
+            "publications": 0
+          },
+          "F30": {
+            "grants": 3,
+            "publications": 0
+          },
+          "U19": {
+            "grants": 2,
+            "publications": 1
+          },
+          "KL2": {
+            "grants": 2,
+            "publications": 0
+          },
+          "D43": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U2C": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K07": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R33": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R56": {
+            "grants": 1,
+            "publications": 0
+          }
+        }
+      },
+      "stats": {
+        "total_grants": 1245,
+        "total_publications": 5117,
+        "unique_mechanisms": 53,
+        "unique_specialties": 6
+      }
+    },
+    "2015-2024": {
+      "specialties": {
+        "ANESTHESIOLOGY": {
+          "R21": {
+            "grants": 6,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 1,
+            "publications": 3
+          },
+          "R25": {
+            "grants": 5,
+            "publications": 0
+          },
+          "UL1": {
+            "grants": 2,
+            "publications": 0
+          },
+          "KL2": {
+            "grants": 1,
+            "publications": 0
+          },
+          "TL1": {
+            "grants": 1,
+            "publications": 8
+          },
+          "R01": {
+            "grants": 8,
+            "publications": 21
+          },
+          "K07": {
+            "grants": 3,
+            "publications": 1
+          },
+          "R24": {
+            "grants": 4,
+            "publications": 108
+          },
+          "U19": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 3,
+            "publications": 0
+          }
+        },
+        "EMERGENCY MEDICINE": {
+          "R25": {
+            "grants": 2,
+            "publications": 2
+          },
+          "T35": {
+            "grants": 5,
+            "publications": 0
+          },
+          "KL2": {
+            "grants": 6,
+            "publications": 10
+          },
+          "R01": {
+            "grants": 14,
+            "publications": 6
+          },
+          "R03": {
+            "grants": 4,
+            "publications": 8
+          },
+          "R21": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UG3": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "SURGERY": {
+          "T35": {
+            "grants": 23,
+            "publications": 10
+          },
+          "R01": {
+            "grants": 35,
+            "publications": 105
+          },
+          "R25": {
+            "grants": 43,
+            "publications": 59
+          },
+          "K24": {
+            "grants": 12,
+            "publications": 231
+          },
+          "R21": {
+            "grants": 9,
+            "publications": 0
+          },
+          "U54": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 6,
+            "publications": 0
+          },
+          "K08": {
+            "grants": 4,
+            "publications": 0
+          },
+          "U24": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P20": {
+            "grants": 2,
+            "publications": 4
+          },
+          "D43": {
+            "grants": 6,
+            "publications": 0
+          },
+          "F32": {
+            "grants": 1,
+            "publications": 0
+          },
+          "DP2": {
+            "grants": 1,
+            "publications": 3
+          },
+          "TL1": {
+            "grants": 4,
+            "publications": 26
+          },
+          "P30": {
+            "grants": 7,
+            "publications": 504
+          },
+          "R38": {
+            "grants": 4,
+            "publications": 0
+          },
+          "K12": {
+            "grants": 3,
+            "publications": 0
+          },
+          "U01": {
+            "grants": 1,
+            "publications": 0
+          },
+          "UH3": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "INTERNAL MEDICINE/MEDICINE": {
+          "K24": {
+            "grants": 96,
+            "publications": 846
+          },
+          "R01": {
+            "grants": 200,
+            "publications": 164
+          },
+          "P60": {
+            "grants": 8,
+            "publications": 18
+          },
+          "P30": {
+            "grants": 230,
+            "publications": 2879
+          },
+          "T35": {
+            "grants": 197,
+            "publications": 265
+          },
+          "R25": {
+            "grants": 302,
+            "publications": 206
+          },
+          "K05": {
+            "grants": 5,
+            "publications": 108
+          },
+          "D43": {
+            "grants": 27,
+            "publications": 41
+          },
+          "R24": {
+            "grants": 10,
+            "publications": 20
+          },
+          "K99": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R21": {
+            "grants": 34,
+            "publications": 8
+          },
+          "K23": {
+            "grants": 18,
+            "publications": 44
+          },
+          "TL1": {
+            "grants": 76,
+            "publications": 459
+          },
+          "R03": {
+            "grants": 11,
+            "publications": 7
+          },
+          "KL2": {
+            "grants": 48,
+            "publications": 481
+          },
+          "K08": {
+            "grants": 23,
+            "publications": 19
+          },
+          "R13": {
+            "grants": 29,
+            "publications": 0
+          },
+          "U01": {
+            "grants": 40,
+            "publications": 39
+          },
+          "P50": {
+            "grants": 12,
+            "publications": 64
+          },
+          "K12": {
+            "grants": 17,
+            "publications": 24
+          },
+          "U54": {
+            "grants": 56,
+            "publications": 362
+          },
+          "F32": {
+            "grants": 6,
+            "publications": 0
+          },
+          "P20": {
+            "grants": 40,
+            "publications": 452
+          },
+          "P01": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U41": {
+            "grants": 3,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 11,
+            "publications": 52
+          },
+          "U10": {
+            "grants": 1,
+            "publications": 4
+          },
+          "K07": {
+            "grants": 13,
+            "publications": 28
+          },
+          "UL1": {
+            "grants": 65,
+            "publications": 4314
+          },
+          "T15": {
+            "grants": 10,
+            "publications": 546
+          },
+          "G11": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K01": {
+            "grants": 17,
+            "publications": 6
+          },
+          "G12": {
+            "grants": 2,
+            "publications": 9
+          },
+          "R18": {
+            "grants": 4,
+            "publications": 0
+          },
+          "R33": {
+            "grants": 9,
+            "publications": 12
+          },
+          "UH2": {
+            "grants": 2,
+            "publications": 10
+          },
+          "R00": {
+            "grants": 8,
+            "publications": 2
+          },
+          "R38": {
+            "grants": 28,
+            "publications": 34
+          },
+          "F31": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U19": {
+            "grants": 7,
+            "publications": 9
+          },
+          "K22": {
+            "grants": 1,
+            "publications": 0
+          },
+          "DP5": {
+            "grants": 4,
+            "publications": 6
+          },
+          "UH3": {
+            "grants": 7,
+            "publications": 6
+          },
+          "UE5": {
+            "grants": 3,
+            "publications": 3
+          },
+          "F30": {
+            "grants": 6,
+            "publications": 0
+          },
+          "R37": {
+            "grants": 1,
+            "publications": 1
+          },
+          "UG3": {
+            "grants": 2,
+            "publications": 0
+          },
+          "U2C": {
+            "grants": 3,
+            "publications": 14
+          },
+          "P51": {
+            "grants": 1,
+            "publications": 20
+          },
+          "S10": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U24": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R35": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R16": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R50": {
+            "grants": 1,
+            "publications": 0
+          },
+          "DP2": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P42": {
+            "grants": 1,
+            "publications": 9
+          },
+          "K26": {
+            "grants": 2,
+            "publications": 0
+          }
+        },
+        "OBSTETRICS & GYNECOLOGY": {
+          "T35": {
+            "grants": 5,
+            "publications": 2
+          },
+          "R25": {
+            "grants": 13,
+            "publications": 0
+          },
+          "U01": {
+            "grants": 2,
+            "publications": 0
+          },
+          "R13": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U54": {
+            "grants": 8,
+            "publications": 108
+          },
+          "R01": {
+            "grants": 6,
+            "publications": 4
+          },
+          "K01": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P20": {
+            "grants": 4,
+            "publications": 0
+          },
+          "P50": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K23": {
+            "grants": 3,
+            "publications": 30
+          },
+          "TL1": {
+            "grants": 6,
+            "publications": 0
+          },
+          "P30": {
+            "grants": 5,
+            "publications": 94
+          },
+          "K12": {
+            "grants": 4,
+            "publications": 6
+          },
+          "R24": {
+            "grants": 1,
+            "publications": 0
+          }
+        },
+        "PEDIATRICS": {
+          "K24": {
+            "grants": 21,
+            "publications": 77
+          },
+          "K23": {
+            "grants": 14,
+            "publications": 24
+          },
+          "T35": {
+            "grants": 16,
+            "publications": 0
+          },
+          "R25": {
+            "grants": 84,
+            "publications": 33
+          },
+          "R03": {
+            "grants": 4,
+            "publications": 0
+          },
+          "R01": {
+            "grants": 38,
+            "publications": 13
+          },
+          "U24": {
+            "grants": 2,
+            "publications": 0
+          },
+          "UM1": {
+            "grants": 4,
+            "publications": 0
+          },
+          "DP3": {
+            "grants": 1,
+            "publications": 0
+          },
+          "P30": {
+            "grants": 18,
+            "publications": 469
+          },
+          "R13": {
+            "grants": 13,
+            "publications": 0
+          },
+          "UL1": {
+            "grants": 12,
+            "publications": 108
+          },
+          "KL2": {
+            "grants": 5,
+            "publications": 91
+          },
+          "R21": {
+            "grants": 9,
+            "publications": 4
+          },
+          "TL1": {
+            "grants": 4,
+            "publications": 18
+          },
+          "RM1": {
+            "grants": 5,
+            "publications": 13
+          },
+          "U01": {
+            "grants": 3,
+            "publications": 2
+          },
+          "K08": {
+            "grants": 11,
+            "publications": 4
+          },
+          "U54": {
+            "grants": 5,
+            "publications": 24
+          },
+          "K01": {
+            "grants": 2,
+            "publications": 0
+          },
+          "F30": {
+            "grants": 5,
+            "publications": 0
+          },
+          "F31": {
+            "grants": 2,
+            "publications": 0
+          },
+          "K12": {
+            "grants": 10,
+            "publications": 18
+          },
+          "UG1": {
+            "grants": 12,
+            "publications": 0
+          },
+          "G13": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R61": {
+            "grants": 3,
+            "publications": 0
+          },
+          "U19": {
+            "grants": 2,
+            "publications": 1
+          },
+          "D43": {
+            "grants": 1,
+            "publications": 0
+          },
+          "U2C": {
+            "grants": 1,
+            "publications": 0
+          },
+          "K07": {
+            "grants": 1,
+            "publications": 0
+          },
+          "R33": {
+            "grants": 3,
+            "publications": 0
+          },
+          "R56": {
+            "grants": 1,
+            "publications": 0
+          }
+        }
+      },
+      "stats": {
+        "total_grants": 2320,
+        "total_publications": 13843,
+        "unique_mechanisms": 63,
+        "unique_specialties": 6
+      }
+    }
+  },
+  "data_by_terms": {
+    "medical_education": {
+      "term": "medical education",
+      "total_grants": 143,
+      "total_publications": 512
+    },
+    "educational_research": {
+      "term": "educational research",
+      "total_grants": 0,
+      "total_publications": 0
+    },
+    "education_research": {
+      "term": "education research",
+      "total_grants": 459,
+      "total_publications": 3062
+    },
+    "curriculum_development": {
+      "term": "curriculum development",
+      "total_grants": 79,
+      "total_publications": 102
+    },
+    "competency_assessment": {
+      "term": "competency assessment",
+      "total_grants": 0,
+      "total_publications": 0
+    }
+  }
+}

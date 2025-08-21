@@ -1,0 +1,7155 @@
+{
+  "STANFORD UNIVERSITY": [
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 23.088142,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 5,
+      "funding_millions": 8.913416,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 38.770833,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 14.248074,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 18,
+      "funding_millions": 5.234033,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 20,
+      "funding_millions": 104.794461,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 25.359262,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 7,
+      "funding_millions": 17.735229,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 33.973771,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 17,
+      "funding_millions": 2.312404,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 22,
+      "funding_millions": 99.51465,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 23,
+      "funding_millions": 4.725394,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 172.598538,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 35.448734,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 11,
+      "funding_millions": 2.25183,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 12.408668,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 7.245873,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 30,
+      "funding_millions": 2.601083,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 33.652793,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 12.831923,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 6.735412,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 15,
+      "funding_millions": 1.926434,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 18,
+      "funding_millions": 104.181467,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 25,
+      "funding_millions": 2.687704,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 14.624733,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 8,
+      "funding_millions": 14.392052,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 27.980119,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 19,
+      "funding_millions": 102.288631,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 25,
+      "funding_millions": 0.766303,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 40,
+      "funding_millions": 1.157607,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 14.83234,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 23.620901,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 12,
+      "funding_millions": 9.996583,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 108.806954,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 52,
+      "funding_millions": 0.516363,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 9.653044,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 11.488617,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 99.729738,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 20.821751,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 54,
+      "funding_millions": 0.376061,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 8.453246,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 23.320541,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 93.183231,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 7.146121,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 52,
+      "funding_millions": 0.410601,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 7.09928,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 24.978558,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 97.113919,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 6.523729,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 27,
+      "funding_millions": 0.299859,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 53,
+      "funding_millions": 0.424954,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 8.002077,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 24.194279,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 90.382359,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 19,
+      "funding_millions": 5.757217,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 47,
+      "funding_millions": 0.510011,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 6.098218,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 6,
+      "funding_millions": 27.113168,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 8.28531,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 16,
+      "funding_millions": 79.751158,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 46,
+      "funding_millions": 0.484278,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 7.887305,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 23.010756,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 8.384812,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 15,
+      "funding_millions": 70.526623,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 51,
+      "funding_millions": 0.484545,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 6.42735,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 24.042671,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 7.809268,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 19,
+      "funding_millions": 55.382287,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 43,
+      "funding_millions": 0.750888,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 6.484188,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 24.032296,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 15,
+      "funding_millions": 5.734162,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 18,
+      "funding_millions": 59.936492,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 53,
+      "funding_millions": 0.556514,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 19.914964,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 7.774739,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 3.280391,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 18,
+      "funding_millions": 65.648188,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 37,
+      "funding_millions": 1.094321,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 17.093977,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 7.721709,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 16,
+      "funding_millions": 2.452074,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 18,
+      "funding_millions": 58.323113,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 37,
+      "funding_millions": 1.0616,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 17.793471,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 3.229656,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 12,
+      "funding_millions": 7.479412,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 19,
+      "funding_millions": 55.556732,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 33,
+      "funding_millions": 1.550181,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 6,
+      "funding_millions": 18.988441,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 6,
+      "funding_millions": 10.980553,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 13,
+      "funding_millions": 2.454333,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 21,
+      "funding_millions": 57.815195,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 24,
+      "funding_millions": 2.299306,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 3,
+      "funding_millions": 18.366124,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 6,
+      "funding_millions": 10.92577,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 4.184674,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 17,
+      "funding_millions": 62.914018,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 22,
+      "funding_millions": 1.848209,
+      "total_schools": 50
+    }
+  ],
+  "HARVARD": [
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 58,
+      "funding_millions": 0.746817,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 60,
+      "funding_millions": 18.194432,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 80,
+      "funding_millions": 0.579747,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 55,
+      "funding_millions": 19.017949,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 64,
+      "funding_millions": 0.55595,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 77,
+      "funding_millions": 0.803413,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 52,
+      "funding_millions": 1.608166,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 73,
+      "funding_millions": 10.249137,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 73,
+      "funding_millions": 0.83296,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 51,
+      "funding_millions": 2.058926,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 72,
+      "funding_millions": 0.830949,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 84,
+      "funding_millions": 4.38145,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 44,
+      "funding_millions": 2.325284,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 73,
+      "funding_millions": 0.743529,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 82,
+      "funding_millions": 5.346826,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 61,
+      "funding_millions": 0.845525,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 72,
+      "funding_millions": 0.740988,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 80,
+      "funding_millions": 4.196005,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 60,
+      "funding_millions": 11.455064,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 60,
+      "funding_millions": 0.859654,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 73,
+      "funding_millions": 0.695243,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 42,
+      "funding_millions": 30.886896,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 60,
+      "funding_millions": 0.538325,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 74,
+      "funding_millions": 0.663145,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 33,
+      "funding_millions": 34.04626,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 64,
+      "funding_millions": 0.584858,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 78,
+      "funding_millions": 0.687106,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 34,
+      "funding_millions": 29.471834,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 78,
+      "funding_millions": 0.29805,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 31,
+      "funding_millions": 34.729711,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 87,
+      "funding_millions": 1e-06,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 45,
+      "funding_millions": 19.166505,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 71,
+      "funding_millions": 0.635748,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 49,
+      "funding_millions": 0.029486,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 78,
+      "funding_millions": 5.600971,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 49,
+      "funding_millions": 0.028998,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 81,
+      "funding_millions": 4.529187,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 84,
+      "funding_millions": 0.265969,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 85,
+      "funding_millions": 0.159266,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 50,
+      "funding_millions": 0.032462,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 65,
+      "funding_millions": 8.566959,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 70,
+      "funding_millions": 0.512328,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 82,
+      "funding_millions": 0.336909,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 79,
+      "funding_millions": 4.497408,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 82,
+      "funding_millions": 0.45931,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 67,
+      "funding_millions": 9.121217,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 83,
+      "funding_millions": 0.398,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 67,
+      "funding_millions": 9.718453,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 82,
+      "funding_millions": 0.338716,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 56,
+      "funding_millions": 2.056316,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 62,
+      "funding_millions": 10.680861,
+      "total_schools": 110
+    }
+  ],
+  "JOHNS HOPKINS": [
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 190.880351,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 39.450304,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 13,
+      "funding_millions": 6.886109,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 21,
+      "funding_millions": 8.873393,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 29,
+      "funding_millions": 4.075098,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 30,
+      "funding_millions": 1.000939,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 182.570506,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 42.730659,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 7.786247,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 13,
+      "funding_millions": 6.71708,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 17,
+      "funding_millions": 10.778923,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 35,
+      "funding_millions": 0.460337,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 13.034628,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 184.40114,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 37.704345,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 10,
+      "funding_millions": 6.388895,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 14,
+      "funding_millions": 11.667474,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 37,
+      "funding_millions": 0.325816,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 13.83117,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 184.561979,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 35.164538,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 13,
+      "funding_millions": 5.524923,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 14,
+      "funding_millions": 10.974171,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 10.828478,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 180.386675,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 5.635634,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 25.99169,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 15,
+      "funding_millions": 11.466497,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 10.376535,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 159.177819,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 25.956592,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 14,
+      "funding_millions": 9.815724,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 16,
+      "funding_millions": 4.101143,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 33,
+      "funding_millions": 0.145418,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 9.05235,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 140.923559,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 5,
+      "funding_millions": 29.559821,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 15,
+      "funding_millions": 7.011546,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 17,
+      "funding_millions": 3.381123,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 32,
+      "funding_millions": 0.151796,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 157.632736,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 6,
+      "funding_millions": 7.238661,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 26.036571,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 8.672337,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 24,
+      "funding_millions": 0.396584,
+      "total_schools": 37
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 24,
+      "funding_millions": 2.317074,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 164.331712,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 7.459211,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 21.28839,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 12,
+      "funding_millions": 6.737979,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 24,
+      "funding_millions": 1.88341,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 25,
+      "funding_millions": 0.393484,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 144.855507,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 7.14618,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 18.987364,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 17,
+      "funding_millions": 6.606014,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 25,
+      "funding_millions": 0.512472,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 27,
+      "funding_millions": 1.733402,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 7.835076,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 149.4511,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 22.210831,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 7.200611,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 23,
+      "funding_millions": 0.519466,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 33,
+      "funding_millions": 0.805082,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 1,
+      "funding_millions": 53.865712,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 135.926427,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 5.98922,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 16,
+      "funding_millions": 6.076032,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 30,
+      "funding_millions": 1.219234,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 33,
+      "funding_millions": 0.134016,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 143.202754,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 6.665755,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 18.221521,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 15,
+      "funding_millions": 5.830451,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 30,
+      "funding_millions": 0.136304,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 31,
+      "funding_millions": 1.129714,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 152.26807,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 6.115553,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 7,
+      "funding_millions": 0.8118,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 21.734169,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 6.91693,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 28,
+      "funding_millions": 1.235809,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 149.031696,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 4.710914,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 9,
+      "funding_millions": 0.82,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 19.565957,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 14,
+      "funding_millions": 6.048168,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 43,
+      "funding_millions": 0.840786,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 147.445568,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 4.53753,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 4,
+      "funding_millions": 23.42521,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 21,
+      "funding_millions": 4.729484,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 39,
+      "funding_millions": 1.046973,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 147.587583,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 4.85776,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 4,
+      "funding_millions": 24.00314,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 35,
+      "funding_millions": 2.533458,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 36,
+      "funding_millions": 1.285036,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 158.863006,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 4.619794,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 5,
+      "funding_millions": 20.282913,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 19,
+      "funding_millions": 0.285765,
+      "total_schools": 24
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 36,
+      "funding_millions": 2.391511,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 49,
+      "funding_millions": 0.543064,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 158.708913,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 4.494237,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 7,
+      "funding_millions": 0.613391,
+      "total_schools": 14
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 15.482923,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 29,
+      "funding_millions": 3.196229,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 42,
+      "funding_millions": 0.738111,
+      "total_schools": 74
+    }
+  ],
+  "WASHINGTON UNIVERSITY": [
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 31.628629,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 33.804442,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 186.121085,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 8.86792,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 35.178683,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 29,
+      "funding_millions": 1.202651,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 34,
+      "funding_millions": 2.555013,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 39,
+      "funding_millions": 1.58473,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 88,
+      "funding_millions": 2.971354,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 23.775845,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 34.198285,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 10.824879,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 32.75353,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 132.907419,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 28,
+      "funding_millions": 0.759673,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 35,
+      "funding_millions": 1.570212,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 53,
+      "funding_millions": 0.581255,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 86,
+      "funding_millions": 3.787009,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 17.383973,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 28.448607,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 9,
+      "funding_millions": 6.436161,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 140.490402,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 28.405744,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 61,
+      "funding_millions": 0.752803,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 66,
+      "funding_millions": 0.155174,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 77,
+      "funding_millions": 0.485681,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 88,
+      "funding_millions": 3.993918,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 21.004831,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 25.592903,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 7.270557,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 6.498746,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 31.037713,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 121.384528,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 63,
+      "funding_millions": 0.155174,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 63,
+      "funding_millions": 0.801834,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 77,
+      "funding_millions": 0.485681,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 89,
+      "funding_millions": 2.537689,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 16.192892,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 24.824383,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 27.999836,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 11,
+      "funding_millions": 6.3491,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 110.475254,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 31,
+      "funding_millions": 0.180727,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 53,
+      "funding_millions": 1.537124,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 66,
+      "funding_millions": 0.155174,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 77,
+      "funding_millions": 0.516359,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 79,
+      "funding_millions": 6.594864,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 13.265531,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 8.317651,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 19.057632,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 119.094428,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 21.064484,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 28,
+      "funding_millions": 0.180727,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 52,
+      "funding_millions": 1.510145,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 63,
+      "funding_millions": 0.155174,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 72,
+      "funding_millions": 7.560665,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 80,
+      "funding_millions": 0.200479,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 12.587512,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 2,
+      "funding_millions": 9.302177,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 16.30107,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 108.152902,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 16,
+      "funding_millions": 18.974685,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 29,
+      "funding_millions": 0.180727,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 46,
+      "funding_millions": 1.583657,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 79,
+      "funding_millions": 5.343502,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 83,
+      "funding_millions": 0.234084,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 12.709795,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 18.020515,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 3,
+      "funding_millions": 8.580638,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 96.8478,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 20.062834,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 33,
+      "funding_millions": 0.180727,
+      "total_schools": 37
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 70,
+      "funding_millions": 8.09459,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 70,
+      "funding_millions": 0.2853,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 11.841716,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 19.28084,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 5.039802,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 12,
+      "funding_millions": 1.0588,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 89.729609,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 15.82963,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 70,
+      "funding_millions": 8.374818,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 72,
+      "funding_millions": 0.2853,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 20.345127,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 10.199548,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 5.395456,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 84.018246,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 19,
+      "funding_millions": 12.970185,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 90,
+      "funding_millions": 2.732423,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 8.143169,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 18.292762,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 5.740928,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 11,
+      "funding_millions": 1.269156,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 83.733824,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 18,
+      "funding_millions": 12.711063,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 77,
+      "funding_millions": 5.555847,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 6.318863,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 15.272413,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 4.524855,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 87.399377,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 12,
+      "funding_millions": 1.03083,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 19,
+      "funding_millions": 12.020743,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 78,
+      "funding_millions": 5.592038,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 6.672299,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 17.948751,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 10,
+      "funding_millions": 97.383741,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 10,
+      "funding_millions": 1.07166,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 20,
+      "funding_millions": 2.23479,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 20,
+      "funding_millions": 13.187258,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 68,
+      "funding_millions": 7.739129,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 7.607346,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 15.825986,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 98.74523,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 15,
+      "funding_millions": 16.136899,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 17,
+      "funding_millions": 2.88743,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 57,
+      "funding_millions": 11.165647,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 7.631977,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 15.374653,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 5,
+      "funding_millions": 22.816787,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 90.37078,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 12,
+      "funding_millions": 0.382224,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 17,
+      "funding_millions": 2.577361,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 77,
+      "funding_millions": 5.251991,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 6.282649,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 17.865528,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 101.84982,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 16.978878,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 32,
+      "funding_millions": 1.281786,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 72,
+      "funding_millions": 6.161372,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 7.032993,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 15.580593,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 6,
+      "funding_millions": 19.033868,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 99.29122,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 15,
+      "funding_millions": 0.268029,
+      "total_schools": 25
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 41,
+      "funding_millions": 1.136095,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 64,
+      "funding_millions": 0.657815,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 69,
+      "funding_millions": 8.057974,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 6.056046,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 14.952475,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 93.00311,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 18.630114,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 21,
+      "funding_millions": 0.273051,
+      "total_schools": 24
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 22,
+      "funding_millions": 2.528398,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 68,
+      "funding_millions": 0.670624,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 71,
+      "funding_millions": 0.861758,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 80,
+      "funding_millions": 4.963261,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 6.236293,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 15.066747,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 4,
+      "funding_millions": 18.111556,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 99.215288,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 12,
+      "funding_millions": 0.281772,
+      "total_schools": 14
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 21,
+      "funding_millions": 2.579132,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 66,
+      "funding_millions": 0.692036,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 73,
+      "funding_millions": 0.76263,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 93,
+      "funding_millions": 2.408347,
+      "total_schools": 110
+    }
+  ],
+  "UNIVERSITY OF CALIFORNIA SAN FRANCISCO": [
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 23.206613,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 239.75963,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 6,
+      "funding_millions": 20.002673,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 9,
+      "funding_millions": 7.811275,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 33.15531,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 26,
+      "funding_millions": 1.52399,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 2,
+      "funding_millions": 21.82978,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 214.616303,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 17.307614,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 7.950276,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 32.283958,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 22,
+      "funding_millions": 1.406993,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 23.937064,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 232.156755,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 7.474038,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 27.88559,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 17,
+      "funding_millions": 10.878001,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 28,
+      "funding_millions": 0.691073,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 21.099231,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 234.518732,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 7,
+      "funding_millions": 8.58069,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 12.785866,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 15,
+      "funding_millions": 23.897617,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 26,
+      "funding_millions": 0.761059,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 20.21442,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 229.311504,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 7,
+      "funding_millions": 8.609916,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 17,
+      "funding_millions": 11.114745,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 19,
+      "funding_millions": 18.173475,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 8.000542,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 151.988386,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 16.118028,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 9.634473,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 20.672314,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 7.475762,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 158.798885,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 13.97816,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 8.358543,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 19.88003,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 7.615325,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 20.666947,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 2,
+      "funding_millions": 142.433837,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 21.333734,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 5.826947,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 8.758172,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 162.045611,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 23.430148,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 6,
+      "funding_millions": 10.926666,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 17.187606,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 8.867349,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 153.98954,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 22.682505,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 8,
+      "funding_millions": 9.535188,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 16.738825,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 162.012781,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 18.452511,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 6.900791,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 6,
+      "funding_millions": 9.493629,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 12,
+      "funding_millions": 14.957836,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 8.869185,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 167.19998,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 17.717692,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 10,
+      "funding_millions": 9.157617,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 15,
+      "funding_millions": 13.453286,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 7.03776,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 1,
+      "funding_millions": 11.748064,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 149.81294,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 9.120374,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 16,
+      "funding_millions": 13.041151,
+      "total_schools": 93
+    }
+  ],
+  "UNIVERSITY OF MICHIGAN": [
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 17.282806,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 27.937553,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 10.898485,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 9.08386,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 124.563879,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 32.217507,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 28.960624,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 10.567563,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 9.381388,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 31.85223,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 17,
+      "funding_millions": 6.012011,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 18,
+      "funding_millions": 114.304634,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 22.365701,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 15.890203,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 28.593123,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 18,
+      "funding_millions": 22.286051,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 20,
+      "funding_millions": 103.458388,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 23,
+      "funding_millions": 3.567038,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 21.882143,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 11.274311,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 25.578813,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 15,
+      "funding_millions": 5.168341,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 19,
+      "funding_millions": 18.857231,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 20,
+      "funding_millions": 96.015372,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 21.454704,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 20.922383,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 25.604626,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 17,
+      "funding_millions": 107.060328,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 18,
+      "funding_millions": 3.818394,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 21,
+      "funding_millions": 17.328995,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 24.988159,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 11.787904,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 26.145958,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 15,
+      "funding_millions": 4.190482,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 18,
+      "funding_millions": 92.002263,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 15.170439,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 17.337004,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 17.69911,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 21.676571,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 16,
+      "funding_millions": 88.606851,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 14.41799,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 25,
+      "funding_millions": 2.180197,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 17.066102,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 9.421204,
+      "total_schools": 37
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 19.526316,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 90.696666,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 20,
+      "funding_millions": 2.665888,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 28,
+      "funding_millions": 10.169228,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 16.651585,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 2.864272,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 16.531254,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 16,
+      "funding_millions": 80.814497,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 25,
+      "funding_millions": 9.074702,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 26,
+      "funding_millions": 1.77583,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 1,
+      "funding_millions": 14.851903,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 3.877767,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 18.313451,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 15,
+      "funding_millions": 77.9064,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 22,
+      "funding_millions": 10.284868,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 29,
+      "funding_millions": 1.647331,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 4.590292,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 15.561885,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 25.718291,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 3.420738,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 85.396525,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 15,
+      "funding_millions": 2.402555,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 3,
+      "funding_millions": 3.12324,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 14.263285,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 98.883871,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 24.563819,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 3.555896,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 17,
+      "funding_millions": 2.177815,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 5.267104,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 15.508864,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 109.402712,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 5,
+      "funding_millions": 28.901697,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 3.784386,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 18,
+      "funding_millions": 2.298924,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 7.369516,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 16.868184,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 4,
+      "funding_millions": 33.286298,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 111.560812,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 3.581097,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 16,
+      "funding_millions": 2.953464,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 6.09051,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 16.621006,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 133.133017,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 7,
+      "funding_millions": 21.233185,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 3.334387,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 4.416377,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 5.412923,
+      "total_schools": 23
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 17.961333,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 123.494405,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 8,
+      "funding_millions": 19.280917,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 11,
+      "funding_millions": 4.703908,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 22,
+      "funding_millions": 1.750494,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 3.344695,
+      "total_schools": 25
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 2,
+      "funding_millions": 16.845773,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 121.504097,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 10,
+      "funding_millions": 5.091469,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 10,
+      "funding_millions": 17.011836,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 20,
+      "funding_millions": 1.706081,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 10.041288,
+      "total_schools": 24
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 14.843538,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 94.592865,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 5.068363,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 11,
+      "funding_millions": 15.92157,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 17,
+      "funding_millions": 2.23114,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 7.046168,
+      "total_schools": 14
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 5.318282,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 5,
+      "funding_millions": 11.588951,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 92.905069,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 13.807488,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 17,
+      "funding_millions": 2.23999,
+      "total_schools": 50
+    }
+  ],
+  "DUKE UNIVERSITY": [
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 48.429438,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 12.905331,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 161.14019,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 11,
+      "funding_millions": 7.880689,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 25.51612,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 25,
+      "funding_millions": 1.57362,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 1,
+      "funding_millions": 100.869457,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 47.357541,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 18.165424,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 176.995253,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 18,
+      "funding_millions": 5.840147,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 23,
+      "funding_millions": 1.401089,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 44.987067,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 2,
+      "funding_millions": 20.666059,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 2,
+      "funding_millions": 67.863592,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 185.675068,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 20,
+      "funding_millions": 1.554852,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 29,
+      "funding_millions": 2.710139,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 1,
+      "funding_millions": 209.692204,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 30.913358,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 174.981194,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 7.975702,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 28,
+      "funding_millions": 2.487366,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 2,
+      "funding_millions": 74.805966,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 23.284818,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 9.226779,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 162.524459,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 23,
+      "funding_millions": 2.980987,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 1,
+      "funding_millions": 55.619016,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 20.474161,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 161.219667,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 7.04493,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 19,
+      "funding_millions": 3.438411,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 30.25745,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 2,
+      "funding_millions": 39.483376,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 133.911943,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 7,
+      "funding_millions": 5.80286,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 28,
+      "funding_millions": 2.076979,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 2,
+      "funding_millions": 44.160504,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 129.321203,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 16.040032,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 16,
+      "funding_millions": 3.500156,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 23,
+      "funding_millions": 2.347738,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 3,
+      "funding_millions": 38.935527,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 3,
+      "funding_millions": 16.546762,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 132.315024,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 9,
+      "funding_millions": 5.008932,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 17,
+      "funding_millions": 2.776957,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 115.762818,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 5,
+      "funding_millions": 14.214824,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 3.291858,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 15,
+      "funding_millions": 15.925516,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 23,
+      "funding_millions": 2.045111,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 21.169882,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 96.7049,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 3.291415,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 9.711772,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 24,
+      "funding_millions": 1.744568,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 17.482744,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 98.981407,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 3.730426,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 24,
+      "funding_millions": 1.473092,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 32,
+      "funding_millions": 6.858545,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 21.798568,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 7,
+      "funding_millions": 4.41868,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 102.023966,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 25,
+      "funding_millions": 10.409755,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 33,
+      "funding_millions": 1.052522,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 19.421117,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 126.601875,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 13,
+      "funding_millions": 2.479452,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 25,
+      "funding_millions": 10.69225,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 47,
+      "funding_millions": 0.777627,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 27.714826,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 139.71872,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 18,
+      "funding_millions": 2.218044,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 25,
+      "funding_millions": 11.369001,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 57,
+      "funding_millions": 0.341768,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 24.799743,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 140.824355,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 21,
+      "funding_millions": 1.791524,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 22,
+      "funding_millions": 10.149739,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 52,
+      "funding_millions": 0.523555,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 27.018918,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 132.75131,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 15,
+      "funding_millions": 13.273446,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 18,
+      "funding_millions": 1.99279,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 54,
+      "funding_millions": 0.536088,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 32.911338,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 155.316313,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 2.479809,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 12.096602,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 48,
+      "funding_millions": 0.545355,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 1,
+      "funding_millions": 167.764139,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 32.185915,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 3.197144,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 19,
+      "funding_millions": 10.20554,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 41,
+      "funding_millions": 0.782198,
+      "total_schools": 74
+    }
+  ],
+  "YALE UNIVERSITY": [
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 21.816781,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 142.345185,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 16,
+      "funding_millions": 5.651003,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 21,
+      "funding_millions": 21.104149,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 23,
+      "funding_millions": 8.367614,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 34,
+      "funding_millions": 1.968848,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 21.377272,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 162.09791,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 16,
+      "funding_millions": 6.048255,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 16,
+      "funding_millions": 11.182082,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 24,
+      "funding_millions": 18.893494,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 41,
+      "funding_millions": 0.887652,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 16.84194,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 138.732275,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 6.127749,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 17.306394,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 26,
+      "funding_millions": 2.483103,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 38,
+      "funding_millions": 3.959242,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 1,
+      "funding_millions": 18.17413,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 10,
+      "funding_millions": 141.038873,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 14,
+      "funding_millions": 5.434052,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 18,
+      "funding_millions": 2.882427,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 26,
+      "funding_millions": 14.705831,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 38,
+      "funding_millions": 3.661242,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 3,
+      "funding_millions": 6.012876,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 7.413369,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 10,
+      "funding_millions": 136.021308,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 21,
+      "funding_millions": 2.740272,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 24,
+      "funding_millions": 14.381071,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 35,
+      "funding_millions": 3.687578,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 5.352652,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 7.262777,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 123.986162,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 25,
+      "funding_millions": 2.865707,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 32,
+      "funding_millions": 8.865052,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 36,
+      "funding_millions": 3.645187,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 3,
+      "funding_millions": 4.512282,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 5.460201,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 10,
+      "funding_millions": 107.160267,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 29,
+      "funding_millions": 1.530387,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 29,
+      "funding_millions": 9.197607,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 42,
+      "funding_millions": 1.771281,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 6,
+      "funding_millions": 1.98223,
+      "total_schools": 37
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 105.227107,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 13,
+      "funding_millions": 3.853568,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 24,
+      "funding_millions": 12.423724,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 26,
+      "funding_millions": 1.709242,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 36,
+      "funding_millions": 2.409434,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 7,
+      "funding_millions": 1.991022,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 99.846257,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 3.639321,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 21,
+      "funding_millions": 2.048916,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 29,
+      "funding_millions": 8.395641,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 53,
+      "funding_millions": 1.098169,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 2.0604,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 3.675313,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 85.962439,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 20,
+      "funding_millions": 1.979213,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 32,
+      "funding_millions": 6.583585,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 55,
+      "funding_millions": 0.766,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 5,
+      "funding_millions": 2.663424,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 84.686827,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 14,
+      "funding_millions": 2.422155,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 15,
+      "funding_millions": 2.2202,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 27,
+      "funding_millions": 7.501682,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 34,
+      "funding_millions": 2.270809,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 10,
+      "funding_millions": 1.275521,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 81.25915,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 3.927957,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 14,
+      "funding_millions": 2.431526,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 8.844026,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 31,
+      "funding_millions": 2.889856,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 5,
+      "funding_millions": 2.064367,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 10,
+      "funding_millions": 4.514434,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 93.193985,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 14,
+      "funding_millions": 2.734232,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 24,
+      "funding_millions": 10.73467,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 30,
+      "funding_millions": 2.554136,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 7.679314,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 92.0774,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 16,
+      "funding_millions": 14.63661,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 18,
+      "funding_millions": 2.021444,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 22,
+      "funding_millions": 4.289559,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 7.005617,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 3.31212,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 91.497503,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 17.281207,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 20,
+      "funding_millions": 4.714711,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 6.23225,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 9,
+      "funding_millions": 17.327311,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 14,
+      "funding_millions": 2.580757,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 83.022055,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 20,
+      "funding_millions": 4.927864,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 6.473861,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 7,
+      "funding_millions": 18.532455,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 91.171495,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 17,
+      "funding_millions": 2.099231,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 22,
+      "funding_millions": 4.503061,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 5.796646,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 7,
+      "funding_millions": 18.900934,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 3.172144,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 81.719986,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 24,
+      "funding_millions": 3.864356,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 4.464193,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 5,
+      "funding_millions": 17.807793,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 77.524383,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 3.149935,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 27,
+      "funding_millions": 3.260992,
+      "total_schools": 87
+    }
+  ],
+  "COLUMBIA UNIVERSITY": [
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 187.344518,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 9.665269,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 8,
+      "funding_millions": 6.245589,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 7.624355,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 12.328656,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 30.917444,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 207.521745,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 6,
+      "funding_millions": 9.757232,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 13.054981,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 10,
+      "funding_millions": 3.998676,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 14,
+      "funding_millions": 12.829669,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 24.245427,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 6.639792,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 4,
+      "funding_millions": 206.00066,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 9.564975,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 16.059288,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 7.886227,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 21,
+      "funding_millions": 20.683729,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 5,
+      "funding_millions": 5.265448,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 9.014413,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 170.729013,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 7,
+      "funding_millions": 14.568462,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 7.266906,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 16,
+      "funding_millions": 22.736237,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 179.953871,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 7.617081,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 7,
+      "funding_millions": 4.249164,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 12.293441,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 14,
+      "funding_millions": 5.30615,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 19.963756,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 166.142759,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 6.540411,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 7,
+      "funding_millions": 13.233433,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 22.894727,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 15,
+      "funding_millions": 5.341756,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 15,
+      "funding_millions": 1.44041,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 145.024469,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 5.763743,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 4.288337,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 13,
+      "funding_millions": 21.224994,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 19,
+      "funding_millions": 5.840631,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 117.789548,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 11,
+      "funding_millions": 4.308507,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 14,
+      "funding_millions": 4.387151,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 14,
+      "funding_millions": 17.775189,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 25,
+      "funding_millions": 4.259168,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 105.301345,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 9,
+      "funding_millions": 4.256176,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 13,
+      "funding_millions": 4.087163,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 21,
+      "funding_millions": 14.006283,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 25,
+      "funding_millions": 3.548664,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 8,
+      "funding_millions": 95.440912,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 3.858876,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 11,
+      "funding_millions": 3.835851,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 20,
+      "funding_millions": 12.461563,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 24,
+      "funding_millions": 4.109089,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 6,
+      "funding_millions": 4.522161,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 10,
+      "funding_millions": 4.062002,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 15,
+      "funding_millions": 83.5981,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 22,
+      "funding_millions": 10.451374,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 26,
+      "funding_millions": 3.606298,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 5,
+      "funding_millions": 4.680795,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 10,
+      "funding_millions": 4.152675,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 75.441535,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 17,
+      "funding_millions": 13.558843,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 20,
+      "funding_millions": 4.228352,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 4.364979,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 5.292448,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 74.725963,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 11.869928,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 42,
+      "funding_millions": 1.384852,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 4.594142,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 72.904354,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 20,
+      "funding_millions": 2.693649,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 23,
+      "funding_millions": 10.997541,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 38,
+      "funding_millions": 1.778752,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 4,
+      "funding_millions": 4.774928,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 15,
+      "funding_millions": 73.877341,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 17,
+      "funding_millions": 5.600302,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 26,
+      "funding_millions": 1.858185,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 29,
+      "funding_millions": 9.458778,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 3.07394,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 12,
+      "funding_millions": 4.665559,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 13,
+      "funding_millions": 83.066484,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 17,
+      "funding_millions": 5.884114,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Pediatrics",
+      "national_rank": 30,
+      "funding_millions": 6.958828,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 6.467059,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 8.084612,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 3.081572,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 15,
+      "funding_millions": 76.741627,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 35,
+      "funding_millions": 5.800538,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 5.504291,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 8.820527,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 14,
+      "funding_millions": 72.757076,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 15,
+      "funding_millions": 2.328232,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 29,
+      "funding_millions": 7.046862,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 9,
+      "funding_millions": 3.950743,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 71.952476,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 12,
+      "funding_millions": 8.318722,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 16,
+      "funding_millions": 2.273575,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 21,
+      "funding_millions": 9.265172,
+      "total_schools": 93
+    }
+  ],
+  "UNIVERSITY OF PENNSYLVANIA": [
+    {
+      "data_year": 2024,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 2,
+      "funding_millions": 20.61506,
+      "total_schools": 62
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Surgery",
+      "national_rank": 5,
+      "funding_millions": 21.744818,
+      "total_schools": 75
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 165.521356,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 7.213456,
+      "total_schools": 51
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 14,
+      "funding_millions": 3.482836,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2024,
+      "specialty": "Pediatrics",
+      "national_rank": 53,
+      "funding_millions": 3.462506,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 14.170479,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Surgery",
+      "national_rank": 6,
+      "funding_millions": 17.861753,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 8,
+      "funding_millions": 5.330889,
+      "total_schools": 45
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Internal_Medicine",
+      "national_rank": 10,
+      "funding_millions": 153.850293,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Anesthesiology",
+      "national_rank": 14,
+      "funding_millions": 7.561869,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2023,
+      "specialty": "Pediatrics",
+      "national_rank": 53,
+      "funding_millions": 3.018535,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Surgery",
+      "national_rank": 5,
+      "funding_millions": 21.002526,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 8,
+      "funding_millions": 2.978738,
+      "total_schools": 41
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 8,
+      "funding_millions": 6.570375,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 164.863182,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Anesthesiology",
+      "national_rank": 19,
+      "funding_millions": 4.645761,
+      "total_schools": 54
+    },
+    {
+      "data_year": 2022,
+      "specialty": "Pediatrics",
+      "national_rank": 86,
+      "funding_millions": 0.117557,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 3,
+      "funding_millions": 8.390779,
+      "total_schools": 39
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 18.325921,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 8.016258,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 137.492998,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Anesthesiology",
+      "national_rank": 13,
+      "funding_millions": 6.726013,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2021,
+      "specialty": "Pediatrics",
+      "national_rank": 31,
+      "funding_millions": 11.714617,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Surgery",
+      "national_rank": 7,
+      "funding_millions": 14.557518,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 123.118466,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 13,
+      "funding_millions": 2.439018,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 13,
+      "funding_millions": 5.171194,
+      "total_schools": 68
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Anesthesiology",
+      "national_rank": 16,
+      "funding_millions": 4.93119,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2020,
+      "specialty": "Pediatrics",
+      "national_rank": 63,
+      "funding_millions": 1.706603,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 7,
+      "funding_millions": 2.352806,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 133.996972,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Surgery",
+      "national_rank": 15,
+      "funding_millions": 9.054183,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Anesthesiology",
+      "national_rank": 24,
+      "funding_millions": 2.96509,
+      "total_schools": 52
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 25,
+      "funding_millions": 2.562951,
+      "total_schools": 66
+    },
+    {
+      "data_year": 2019,
+      "specialty": "Pediatrics",
+      "national_rank": 64,
+      "funding_millions": 1.3923,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Internal_Medicine",
+      "national_rank": 11,
+      "funding_millions": 104.497648,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Anesthesiology",
+      "national_rank": 13,
+      "funding_millions": 3.981431,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 16,
+      "funding_millions": 3.592893,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Surgery",
+      "national_rank": 20,
+      "funding_millions": 5.81788,
+      "total_schools": 77
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 25,
+      "funding_millions": 0.337392,
+      "total_schools": 36
+    },
+    {
+      "data_year": 2018,
+      "specialty": "Pediatrics",
+      "national_rank": 62,
+      "funding_millions": 1.366112,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 9,
+      "funding_millions": 4.497781,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 4.774013,
+      "total_schools": 53
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Internal_Medicine",
+      "national_rank": 12,
+      "funding_millions": 93.280651,
+      "total_schools": 115
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 14,
+      "funding_millions": 0.971918,
+      "total_schools": 37
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Surgery",
+      "national_rank": 14,
+      "funding_millions": 7.01064,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2017,
+      "specialty": "Pediatrics",
+      "national_rank": 63,
+      "funding_millions": 1.439731,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Surgery",
+      "national_rank": 1,
+      "funding_millions": 19.621244,
+      "total_schools": 76
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 4.85088,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 5.277973,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Internal_Medicine",
+      "national_rank": 9,
+      "funding_millions": 98.343621,
+      "total_schools": 114
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 11,
+      "funding_millions": 1.13562,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2016,
+      "specialty": "Pediatrics",
+      "national_rank": 75,
+      "funding_millions": 0.973484,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 8.579013,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 100.218704,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 7,
+      "funding_millions": 1.902656,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Anesthesiology",
+      "national_rank": 8,
+      "funding_millions": 4.978438,
+      "total_schools": 46
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Surgery",
+      "national_rank": 18,
+      "funding_millions": 6.024845,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2015,
+      "specialty": "Pediatrics",
+      "national_rank": 65,
+      "funding_millions": 0.914569,
+      "total_schools": 84
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 3,
+      "funding_millions": 3.103641,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 113.451077,
+      "total_schools": 112
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 5.527065,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Anesthesiology",
+      "national_rank": 10,
+      "funding_millions": 4.226966,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Surgery",
+      "national_rank": 22,
+      "funding_millions": 4.216288,
+      "total_schools": 73
+    },
+    {
+      "data_year": 2014,
+      "specialty": "Pediatrics",
+      "national_rank": 43,
+      "funding_millions": 3.455789,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 3.153624,
+      "total_schools": 35
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 110.414117,
+      "total_schools": 116
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 4.746512,
+      "total_schools": 65
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Anesthesiology",
+      "national_rank": 12,
+      "funding_millions": 3.402241,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Surgery",
+      "national_rank": 15,
+      "funding_millions": 6.291912,
+      "total_schools": 80
+    },
+    {
+      "data_year": 2013,
+      "specialty": "Pediatrics",
+      "national_rank": 45,
+      "funding_millions": 3.365296,
+      "total_schools": 89
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Internal_Medicine",
+      "national_rank": 3,
+      "funding_millions": 129.682183,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 3.155835,
+      "total_schools": 34
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 6.545535,
+      "total_schools": 69
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Surgery",
+      "national_rank": 13,
+      "funding_millions": 6.498471,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Anesthesiology",
+      "national_rank": 24,
+      "funding_millions": 1.453897,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2012,
+      "specialty": "Pediatrics",
+      "national_rank": 48,
+      "funding_millions": 3.366599,
+      "total_schools": 85
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 2.89456,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Internal_Medicine",
+      "national_rank": 6,
+      "funding_millions": 110.638906,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 7,
+      "funding_millions": 6.488863,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 6.99908,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Anesthesiology",
+      "national_rank": 11,
+      "funding_millions": 2.756055,
+      "total_schools": 49
+    },
+    {
+      "data_year": 2011,
+      "specialty": "Pediatrics",
+      "national_rank": 45,
+      "funding_millions": 3.653799,
+      "total_schools": 90
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 5.71763,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 2.365491,
+      "total_schools": 33
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 118.56028,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 6,
+      "funding_millions": 7.016071,
+      "total_schools": 64
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Surgery",
+      "national_rank": 11,
+      "funding_millions": 7.077953,
+      "total_schools": 86
+    },
+    {
+      "data_year": 2010,
+      "specialty": "Pediatrics",
+      "national_rank": 64,
+      "funding_millions": 1.249192,
+      "total_schools": 91
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 5.33915,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 1.081374,
+      "total_schools": 23
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 117.241545,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 5,
+      "funding_millions": 6.445266,
+      "total_schools": 67
+    },
+    {
+      "data_year": 2009,
+      "specialty": "Surgery",
+      "national_rank": 9,
+      "funding_millions": 8.874137,
+      "total_schools": 83
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 1.208376,
+      "total_schools": 25
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Anesthesiology",
+      "national_rank": 3,
+      "funding_millions": 5.116622,
+      "total_schools": 47
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Internal_Medicine",
+      "national_rank": 7,
+      "funding_millions": 104.628128,
+      "total_schools": 111
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Surgery",
+      "national_rank": 7,
+      "funding_millions": 9.262672,
+      "total_schools": 88
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 11,
+      "funding_millions": 4.888863,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2008,
+      "specialty": "Pediatrics",
+      "national_rank": 87,
+      "funding_millions": 0.291616,
+      "total_schools": 92
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 4,
+      "funding_millions": 1.270789,
+      "total_schools": 24
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 4,
+      "funding_millions": 6.234155,
+      "total_schools": 72
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 113.865631,
+      "total_schools": 113
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Anesthesiology",
+      "national_rank": 6,
+      "funding_millions": 4.435225,
+      "total_schools": 48
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Surgery",
+      "national_rank": 8,
+      "funding_millions": 10.761341,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2007,
+      "specialty": "Pediatrics",
+      "national_rank": 83,
+      "funding_millions": 0.32772,
+      "total_schools": 93
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Emergency_Medicine",
+      "national_rank": 2,
+      "funding_millions": 1.854915,
+      "total_schools": 14
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Obstetrics_and_Gynecology",
+      "national_rank": 2,
+      "funding_millions": 7.626683,
+      "total_schools": 74
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Surgery",
+      "national_rank": 4,
+      "funding_millions": 12.254503,
+      "total_schools": 87
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Internal_Medicine",
+      "national_rank": 5,
+      "funding_millions": 114.055599,
+      "total_schools": 110
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Anesthesiology",
+      "national_rank": 6,
+      "funding_millions": 4.386717,
+      "total_schools": 50
+    },
+    {
+      "data_year": 2006,
+      "specialty": "Pediatrics",
+      "national_rank": 83,
+      "funding_millions": 0.349475,
+      "total_schools": 93
+    }
+  ]
+}

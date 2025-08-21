@@ -1,0 +1,65 @@
+{
+  "generated": "2025-08-09T07:44:50.640534",
+  "top10_links": [
+    {
+      "uid": "smackey",
+      "name": "Sean Mackey",
+      "filename": "sean_mackey.html",
+      "rank": 1
+    },
+    {
+      "uid": "emariano",
+      "name": "Edward Mariano",
+      "filename": "edward_mariano.html",
+      "rank": 2
+    },
+    {
+      "uid": "brockutn",
+      "name": "John G Brock-Utne",
+      "filename": "john_g_brock-utne.html",
+      "rank": 3
+    },
+    {
+      "uid": "amaca",
+      "name": "Alex Macario",
+      "filename": "alex_macario.html",
+      "rank": 4
+    },
+    {
+      "uid": "sshafer",
+      "name": "Steven L Shafer",
+      "filename": "steven_l_shafer.html",
+      "rank": 5
+    },
+    {
+      "uid": "bdarnall",
+      "name": "Beth Darnall",
+      "filename": "beth_darnall.html",
+      "rank": 6
+    },
+    {
+      "uid": "lesimons",
+      "name": "Laura Simons",
+      "filename": "laura_simons.html",
+      "rank": 7
+    },
+    {
+      "uid": "ang",
+      "name": "Martin Angst",
+      "filename": "martin_angst.html",
+      "rank": 8
+    },
+    {
+      "uid": "rgiffard",
+      "name": "Rona G Giffard",
+      "filename": "rona_g_giffard.html",
+      "rank": 9
+    },
+    {
+      "uid": "gaba",
+      "name": "David M Gaba",
+      "filename": "david_m_gaba.html",
+      "rank": 10
+    }
+  ]
+}

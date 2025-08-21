@@ -1,0 +1,9923 @@
+{
+  "department": "Anesthesiology, Perioperative and Pain Medicine",
+  "nodes": [
+    {
+      "id": "aadriano",
+      "name": "Aileen Adriano",
+      "value": 2,
+      "degree": 3
+    },
+    {
+      "id": "abcasey",
+      "name": "Austen Brooks Casey",
+      "value": 15,
+      "degree": 2
+    },
+    {
+      "id": "abomba",
+      "name": "Anna Maria Bombardieri, MD, PhD, MSc",
+      "value": 20,
+      "degree": 34
+    },
+    {
+      "id": "aborucki",
+      "name": "Amber Noelle Borucki",
+      "value": 6,
+      "degree": 1
+    },
+    {
+      "id": "aburgart",
+      "name": "Alyssa Burgart (she/her)",
+      "value": 27,
+      "degree": 5
+    },
+    {
+      "id": "aclu",
+      "name": "Amy Lu",
+      "value": 23,
+      "degree": 13
+    },
+    {
+      "id": "ad66",
+      "name": "Alimorad G. Djalali",
+      "value": 2,
+      "degree": 0
+    },
+    {
+      "id": "af3585",
+      "name": "Andrea Traynor",
+      "value": 7,
+      "degree": 5
+    },
+    {
+      "id": "agarwalr",
+      "name": "Rita Agarwal",
+      "value": 32,
+      "degree": 28
+    },
+    {
+      "id": "agdoufas",
+      "name": "Anthony G. Doufas, M.D., Ph.D.",
+      "value": 75,
+      "degree": 5
+    },
+    {
+      "id": "agoodell",
+      "name": "Alex J Goodell",
+      "value": 12,
+      "degree": 3
+    },
+    {
+      "id": "agoyaarc",
+      "name": "Ana Goya Arce",
+      "value": 7,
+      "degree": 3
+    },
+    {
+      "id": "ahtsai",
+      "name": "Albert H. Tsai",
+      "value": 11,
+      "degree": 9
+    },
+    {
+      "id": "ajrod",
+      "name": "Alexander Rodriguez",
+      "value": 4,
+      "degree": 2
+    },
+    {
+      "id": "akaggarw",
+      "name": "Anuj Aggarwal",
+      "value": 21,
+      "degree": 15
+    },
+    {
+      "id": "alanleec",
+      "name": "Alan Chang",
+      "value": 28,
+      "degree": 16
+    },
+    {
+      "id": "alicehli",
+      "name": "Alice Huai-Yu Li, MD",
+      "value": 8,
+      "degree": 5
+    },
+    {
+      "id": "alkwon",
+      "name": "Albert Hyukjae Kwon, M.D.",
+      "value": 23,
+      "degree": 7
+    },
+    {
+      "id": "alsawyer",
+      "name": "Anthony Sawyer",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "amaca",
+      "name": "Alex Macario MD MBA",
+      "value": 298,
+      "degree": 56
+    },
+    {
+      "id": "amachi",
+      "name": "Anthony Thomas Machi",
+      "value": 10,
+      "degree": 3
+    },
+    {
+      "id": "ameliec",
+      "name": "Amelie Cambriel",
+      "value": 9,
+      "degree": 5
+    },
+    {
+      "id": "amqatu",
+      "name": "Abdullah Qatu, MD",
+      "value": 5,
+      "degree": 0
+    },
+    {
+      "id": "amurray3",
+      "name": "Andrea Murray",
+      "value": 3,
+      "degree": 4
+    },
+    {
+      "id": "ana9120",
+      "name": "Ana  Maria Crawford",
+      "value": 23,
+      "degree": 0
+    },
+    {
+      "id": "ang",
+      "name": "Martin S. Angst",
+      "value": 183,
+      "degree": 64
+    },
+    {
+      "id": "anilpani",
+      "name": "Anil K. Panigrahi, MD, PhD, FASA",
+      "value": 31,
+      "degree": 7
+    },
+    {
+      "id": "aninh",
+      "name": "Allen Ninh",
+      "value": 6,
+      "degree": 0
+    },
+    {
+      "id": "anjalid",
+      "name": "Anjali Dixit, MD, MPH",
+      "value": 23,
+      "degree": 6
+    },
+    {
+      "id": "arsaxena",
+      "name": "Amit Saxena",
+      "value": 11,
+      "degree": 9
+    },
+    {
+      "id": "aruan",
+      "name": "Alexandra Ruan",
+      "value": 6,
+      "degree": 4
+    },
+    {
+      "id": "arudin",
+      "name": "Aaron Samuel Rudin",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "ashafer",
+      "name": "Audrey Shafer",
+      "value": 79,
+      "degree": 5
+    },
+    {
+      "id": "asheen21",
+      "name": "Asheen Rama",
+      "value": 12,
+      "degree": 7
+    },
+    {
+      "id": "ashley04",
+      "name": "Ashley Peterson",
+      "value": 2,
+      "degree": 2
+    },
+    {
+      "id": "atcheung",
+      "name": "Albert Cheung",
+      "value": 93,
+      "degree": 2
+    },
+    {
+      "id": "aterkawi",
+      "name": "Abdullah Sulieman Terkawi, MD, MS",
+      "value": 99,
+      "degree": 6
+    },
+    {
+      "id": "barrj",
+      "name": "Juliana Barr",
+      "value": 61,
+      "degree": 28
+    },
+    {
+      "id": "baruni",
+      "name": "Jalal Kenji Baruni",
+      "value": 7,
+      "degree": 0
+    },
+    {
+      "id": "bdarnall",
+      "name": "Beth Darnall",
+      "value": 216,
+      "degree": 55
+    },
+    {
+      "id": "bfairley",
+      "name": "H Fairley",
+      "value": 3,
+      "degree": 0
+    },
+    {
+      "id": "bgolianu",
+      "name": "Brenda Golianu",
+      "value": 7,
+      "degree": 5
+    },
+    {
+      "id": "bheifets",
+      "name": "Boris Heifets",
+      "value": 108,
+      "degree": 24
+    },
+    {
+      "id": "bjwbjw",
+      "name": "Becky Wong",
+      "value": 14,
+      "degree": 11
+    },
+    {
+      "id": "bkadry",
+      "name": "Bassam Kadry",
+      "value": 12,
+      "degree": 7
+    },
+    {
+      "id": "bmittal",
+      "name": "Dr. Brita M Mittal, MD, FASA",
+      "value": 10,
+      "degree": 4
+    },
+    {
+      "id": "brockutn",
+      "name": "John Brock-Utne",
+      "value": 355,
+      "degree": 48
+    },
+    {
+      "id": "bromo",
+      "name": "Bernadett Mahanay",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "btb",
+      "name": "Brian T. Bateman",
+      "value": 523,
+      "degree": 27
+    },
+    {
+      "id": "calypso1",
+      "name": "JT Kong",
+      "value": 30,
+      "degree": 11
+    },
+    {
+      "id": "carvalb",
+      "name": "Brendan Carvalho",
+      "value": 400,
+      "degree": 73
+    },
+    {
+      "id": "cchiu105",
+      "name": "Cornel Chiu",
+      "value": 2,
+      "degree": 1
+    },
+    {
+      "id": "cchoi13",
+      "name": "Christine Heejae Choi",
+      "value": 2,
+      "degree": 2
+    },
+    {
+      "id": "cdnguyen",
+      "name": "Clarice Nguyen",
+      "value": 6,
+      "degree": 1
+    },
+    {
+      "id": "cedar",
+      "name": "Cedar Fowler",
+      "value": 35,
+      "degree": 12
+    },
+    {
+      "id": "cgroen",
+      "name": "Cornelius Botha Groenewald",
+      "value": 66,
+      "degree": 2
+    },
+    {
+      "id": "chandrar",
+      "name": "Chandra Ramamoorthy",
+      "value": 104,
+      "degree": 18
+    },
+    {
+      "id": "chbrown",
+      "name": "Charles Hugh Brown IV",
+      "value": 4,
+      "degree": 1
+    },
+    {
+      "id": "chenqi",
+      "name": "QiLiang \u201cQ\u201d Chen",
+      "value": 37,
+      "degree": 32
+    },
+    {
+      "id": "chhh",
+      "name": "H. Christy Hong, MD, MBA",
+      "value": 4,
+      "degree": 13
+    },
+    {
+      "id": "chshu",
+      "name": "Chi-Hung Shu",
+      "value": 5,
+      "degree": 6
+    },
+    {
+      "id": "chungp",
+      "name": "Philip Chung",
+      "value": 25,
+      "degree": 10
+    },
+    {
+      "id": "ckuan",
+      "name": "Calvin Kuan, MD, FAAP",
+      "value": 11,
+      "degree": 11
+    },
+    {
+      "id": "clin999",
+      "name": "Carole Lin",
+      "value": 10,
+      "degree": 6
+    },
+    {
+      "id": "cortner",
+      "name": "Clemens Ortner",
+      "value": 25,
+      "degree": 1
+    },
+    {
+      "id": "cschmies",
+      "name": "Cliff Schmiesing, MD",
+      "value": 25,
+      "degree": 30
+    },
+    {
+      "id": "cstary",
+      "name": "Creed Stary",
+      "value": 95,
+      "degree": 15
+    },
+    {
+      "id": "cwhess",
+      "name": "Courtney W. Hess",
+      "value": 21,
+      "degree": 5
+    },
+    {
+      "id": "dabelson",
+      "name": "Daniel Abelson",
+      "value": 2,
+      "degree": 0
+    },
+    {
+      "id": "darce",
+      "name": "Dominique Arce",
+      "value": 2,
+      "degree": 0
+    },
+    {
+      "id": "dchar",
+      "name": "Danton Char",
+      "value": 78,
+      "degree": 23
+    },
+    {
+      "id": "ddrover",
+      "name": "David Drover",
+      "value": 115,
+      "degree": 49
+    },
+    {
+      "id": "dfeyaer",
+      "name": "Dorien Feyaerts",
+      "value": 36,
+      "degree": 13
+    },
+    {
+      "id": "dgessner",
+      "name": "Daniel Gessner",
+      "value": 14,
+      "degree": 7
+    },
+    {
+      "id": "didigood",
+      "name": "Candida Goodnough",
+      "value": 6,
+      "degree": 2
+    },
+    {
+      "id": "djclark",
+      "name": "David Clark",
+      "value": 40,
+      "degree": 8
+    },
+    {
+      "id": "doakes",
+      "name": "Daryl Oakes",
+      "value": 26,
+      "degree": 10
+    },
+    {
+      "id": "dpfyffer",
+      "name": "Dario Pfyffer",
+      "value": 18,
+      "degree": 4
+    },
+    {
+      "id": "dstahl",
+      "name": "David Stahl",
+      "value": 21,
+      "degree": 0
+    },
+    {
+      "id": "dstanski",
+      "name": "Donald Stanski",
+      "value": 4,
+      "degree": 4
+    },
+    {
+      "id": "echorowe",
+      "name": "Echo Rowe",
+      "value": 3,
+      "degree": 3
+    },
+    {
+      "id": "edwardb",
+      "name": "Edward Bertaccini",
+      "value": 88,
+      "degree": 15
+    },
+    {
+      "id": "ejkrane",
+      "name": "Elliot J. Krane",
+      "value": 119,
+      "degree": 16
+    },
+    {
+      "id": "elannon",
+      "name": "Edward Lannon",
+      "value": 10,
+      "degree": 7
+    },
+    {
+      "id": "eloiseb",
+      "name": "Eloise Berson",
+      "value": 25,
+      "degree": 12
+    },
+    {
+      "id": "emariano",
+      "name": "Edward R. Mariano, MD, MAS, FASA, FASRA",
+      "value": 358,
+      "degree": 64
+    },
+    {
+      "id": "emmoore",
+      "name": "Emily Moore",
+      "value": 11,
+      "degree": 0
+    },
+    {
+      "id": "epush09",
+      "name": "Ellile Sultan",
+      "value": 5,
+      "degree": 7
+    },
+    {
+      "id": "ergross",
+      "name": "Eric R. Gross",
+      "value": 88,
+      "degree": 20
+    },
+    {
+      "id": "erin4",
+      "name": "Erin Stewart",
+      "value": 14,
+      "degree": 0
+    },
+    {
+      "id": "erondu",
+      "name": "Mgbechi Ugonna Erondu",
+      "value": 3,
+      "degree": 0
+    },
+    {
+      "id": "esfahanm",
+      "name": "Mo Esfahanian, MD, D. ABA, FAAP",
+      "value": 5,
+      "degree": 4
+    },
+    {
+      "id": "esun1",
+      "name": "Eric Sun",
+      "value": 91,
+      "degree": 40
+    },
+    {
+      "id": "fle8cou",
+      "name": "Ethan Jackson, M.D.",
+      "value": 34,
+      "degree": 12
+    },
+    {
+      "id": "fmihm",
+      "name": "Frederick Mihm, M.D.",
+      "value": 81,
+      "degree": 14
+    },
+    {
+      "id": "foko",
+      "name": "Fernando Fabian Okonski",
+      "value": 2,
+      "degree": 2
+    },
+    {
+      "id": "foppiano",
+      "name": "Linda Foppiano",
+      "value": 16,
+      "degree": 2
+    },
+    {
+      "id": "fperez",
+      "name": "Felipe De Jesus Perez",
+      "value": 14,
+      "degree": 9
+    },
+    {
+      "id": "frwere",
+      "name": "Freeborn Rwere",
+      "value": 23,
+      "degree": 3
+    },
+    {
+      "id": "gaba",
+      "name": "David M. Gaba, M.D.",
+      "value": 172,
+      "degree": 31
+    },
+    {
+      "id": "gbalanza",
+      "name": "Gustavo Balanza Villegas",
+      "value": 10,
+      "degree": 0
+    },
+    {
+      "id": "gdsouza",
+      "name": "Genevieve D'Souza",
+      "value": 17,
+      "degree": 13
+    },
+    {
+      "id": "geoffl",
+      "name": "Geoffrey Lighthall",
+      "value": 57,
+      "degree": 41
+    },
+    {
+      "id": "ghilton",
+      "name": "Gillian Abir",
+      "value": 42,
+      "degree": 9
+    },
+    {
+      "id": "gmp2197",
+      "name": "Giovanni Michele Perottino, MD",
+      "value": 9,
+      "degree": 0
+    },
+    {
+      "id": "gpeltz",
+      "name": "Gary Peltz",
+      "value": 171,
+      "degree": 33
+    },
+    {
+      "id": "grantmcf",
+      "name": "J. Grant McFadyen",
+      "value": 4,
+      "degree": 3
+    },
+    {
+      "id": "hchow",
+      "name": "Dr Harrison Shong-Wen Chow",
+      "value": 2,
+      "degree": 1
+    },
+    {
+      "id": "hking",
+      "name": "Heather Poupore-King",
+      "value": 9,
+      "degree": 39
+    },
+    {
+      "id": "hlemmens",
+      "name": "Hendrikus Lemmens",
+      "value": 91,
+      "degree": 14
+    },
+    {
+      "id": "honkanen",
+      "name": "Anita Honkanen",
+      "value": 23,
+      "degree": 27
+    },
+    {
+      "id": "hornj",
+      "name": "Jean-Louis Horn",
+      "value": 33,
+      "degree": 9
+    },
+    {
+      "id": "ic38",
+      "name": "Ian Carroll, MD, MS",
+      "value": 86,
+      "degree": 47
+    },
+    {
+      "id": "ifeinste",
+      "name": "Igor Feinstein",
+      "value": 11,
+      "degree": 10
+    },
+    {
+      "id": "janiceym",
+      "name": "Janice Man",
+      "value": 6,
+      "degree": 6
+    },
+    {
+      "id": "jansari",
+      "name": "Jessica Rose Ansari",
+      "value": 33,
+      "degree": 16
+    },
+    {
+      "id": "javierl",
+      "name": "Javier Lorenzo",
+      "value": 17,
+      "degree": 5
+    },
+    {
+      "id": "jbaden",
+      "name": "Jeffrey Baden",
+      "value": 64,
+      "degree": 1
+    },
+    {
+      "id": "jboublik",
+      "name": "Jan Boublik",
+      "value": 25,
+      "degree": 9
+    },
+    {
+      "id": "jbrodsky",
+      "name": "Jay B. Brodsky",
+      "value": 124,
+      "degree": 32
+    },
+    {
+      "id": "jbrodt",
+      "name": "Jessica Brodt",
+      "value": 28,
+      "degree": 19
+    },
+    {
+      "id": "jcmcavoy",
+      "name": "James McAvoy",
+      "value": 8,
+      "degree": 7
+    },
+    {
+      "id": "jfbarnet",
+      "name": "Jonathan F. Barnett",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "jfundaun",
+      "name": "Joel Fundaun",
+      "value": 12,
+      "degree": 1
+    },
+    {
+      "id": "jhah",
+      "name": "Jennifer Hah",
+      "value": 72,
+      "degree": 22
+    },
+    {
+      "id": "jjfehr",
+      "name": "James J. Fehr",
+      "value": 38,
+      "degree": 14
+    },
+    {
+      "id": "jliaomd",
+      "name": "Joseph Liao, MD",
+      "value": 6,
+      "degree": 1
+    },
+    {
+      "id": "jmadhok1",
+      "name": "Jai Madhok",
+      "value": 37,
+      "degree": 11
+    },
+    {
+      "id": "jnewmark",
+      "name": "Jordan L. Newmark, MD, QME",
+      "value": 9,
+      "degree": 30
+    },
+    {
+      "id": "jonblee",
+      "name": "Jon B. Lee, MD",
+      "value": 13,
+      "degree": 0
+    },
+    {
+      "id": "juli",
+      "name": "Julianne Mendoza",
+      "value": 17,
+      "degree": 10
+    },
+    {
+      "id": "julieg",
+      "name": "Julie Good, MD",
+      "value": 13,
+      "degree": 3
+    },
+    {
+      "id": "juliewil",
+      "name": "Julie\u00a0Williamson, DO, FAAP",
+      "value": 5,
+      "degree": 1
+    },
+    {
+      "id": "jumbo",
+      "name": "Glyn Williams",
+      "value": 37,
+      "degree": 16
+    },
+    {
+      "id": "jwlee2",
+      "name": "Jennifer Lee",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "jxie",
+      "name": "James Xie",
+      "value": 37,
+      "degree": 28
+    },
+    {
+      "id": "kaitlinf",
+      "name": "Kaitlin Flannery",
+      "value": 6,
+      "degree": 4
+    },
+    {
+      "id": "kazando",
+      "name": "Kazuo Ando",
+      "value": 41,
+      "degree": 12
+    },
+    {
+      "id": "kendig",
+      "name": "Joan Kendig",
+      "value": 43,
+      "degree": 32
+    },
+    {
+      "id": "kenweber",
+      "name": "Kenneth Weber, DC, PhD",
+      "value": 97,
+      "degree": 9
+    },
+    {
+      "id": "kfedoruk",
+      "name": "Kelly Fedoruk",
+      "value": 4,
+      "degree": 6
+    },
+    {
+      "id": "kfish",
+      "name": "Kevin Fish",
+      "value": 7,
+      "degree": 2
+    },
+    {
+      "id": "kkamra",
+      "name": "Komal Kamra",
+      "value": 21,
+      "degree": 9
+    },
+    {
+      "id": "kleina",
+      "name": "Alexandra Bor, MD",
+      "value": 15,
+      "degree": 7
+    },
+    {
+      "id": "kllarkin",
+      "name": "Kathleen Larkin",
+      "value": 6,
+      "degree": 0
+    },
+    {
+      "id": "kmackenz",
+      "name": "Kristen Klepac MacKenzie, MD",
+      "value": 5,
+      "degree": 0
+    },
+    {
+      "id": "kmulumba",
+      "name": "Mr. Kabungo Mulumba",
+      "value": 1,
+      "degree": 2
+    },
+    {
+      "id": "knaftchi",
+      "name": "Kasra Naftchi-Ardebili",
+      "value": 3,
+      "degree": 0
+    },
+    {
+      "id": "krhee",
+      "name": "Kirsten Rhee Steffner",
+      "value": 6,
+      "degree": 12
+    },
+    {
+      "id": "kristen3",
+      "name": "Kristen M. Slater, PsyD",
+      "value": 2,
+      "degree": 7
+    },
+    {
+      "id": "ksalamon",
+      "name": "Katherine Salamon",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "kspeirs",
+      "name": "Katie Speirs M.D.",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "lchu",
+      "name": "Lawrence Chu, MD, MS",
+      "value": 132,
+      "degree": 46
+    },
+    {
+      "id": "leharr",
+      "name": "Lauren Harrison",
+      "value": 36,
+      "degree": 8
+    },
+    {
+      "id": "leixu",
+      "name": "Lei Xu",
+      "value": 2,
+      "degree": 0
+    },
+    {
+      "id": "lesimons",
+      "name": "Laura Simons",
+      "value": 212,
+      "degree": 49
+    },
+    {
+      "id": "lhan2",
+      "name": "Lichy Han",
+      "value": 27,
+      "degree": 17
+    },
+    {
+      "id": "lindsey",
+      "name": "Lindsey Ralls",
+      "value": 4,
+      "degree": 2
+    },
+    {
+      "id": "lipman1",
+      "name": "Steven Seth Lipman",
+      "value": 22,
+      "degree": 9
+    },
+    {
+      "id": "ljd14",
+      "name": "Lauren Janine Donovan",
+      "value": 8,
+      "degree": 1
+    },
+    {
+      "id": "lmiyachi",
+      "name": "Larissa Kiwakyou",
+      "value": 7,
+      "degree": 7
+    },
+    {
+      "id": "lnywang",
+      "name": "Ellen Wang",
+      "value": 76,
+      "degree": 36
+    },
+    {
+      "id": "lrf",
+      "name": "Lorry Frankel",
+      "value": 26,
+      "degree": 12
+    },
+    {
+      "id": "lsaidman",
+      "name": "Lawrence Saidman",
+      "value": 21,
+      "degree": 11
+    },
+    {
+      "id": "lwd97",
+      "name": "Weida Liu",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "maciver",
+      "name": "M Bruce MacIver",
+      "value": 73,
+      "degree": 31
+    },
+    {
+      "id": "manchuln",
+      "name": "Manchula Navaratnam",
+      "value": 39,
+      "degree": 12
+    },
+    {
+      "id": "marcgh",
+      "name": "Marc Ghanem",
+      "value": 23,
+      "degree": 45
+    },
+    {
+      "id": "markburb",
+      "name": "Mark Burbridge",
+      "value": 51,
+      "degree": 18
+    },
+    {
+      "id": "marks9",
+      "name": "Mark Singleton",
+      "value": 11,
+      "degree": 7
+    },
+    {
+      "id": "marly",
+      "name": "Samuel\u00a0Mireles",
+      "value": 4,
+      "degree": 8
+    },
+    {
+      "id": "mazze",
+      "name": "Richard I. Mazze",
+      "value": 81,
+      "degree": 2
+    },
+    {
+      "id": "mbarad",
+      "name": "Meredith\u00a0Barad, MD",
+      "value": 30,
+      "degree": 11
+    },
+    {
+      "id": "mberger1",
+      "name": "Miles Berger",
+      "value": 130,
+      "degree": 4
+    },
+    {
+      "id": "mcchen8",
+      "name": "Marianne Chen",
+      "value": 7,
+      "degree": 6
+    },
+    {
+      "id": "mckao",
+      "name": "Ming Jeffrey Kao, PhD, MD",
+      "value": 66,
+      "degree": 9
+    },
+    {
+      "id": "mcobbina",
+      "name": "Bernard Mawuli Cobbinah",
+      "value": 6,
+      "degree": 0
+    },
+    {
+      "id": "meihsi",
+      "name": "Meihsi Chen",
+      "value": 5,
+      "degree": 0
+    },
+    {
+      "id": "mfvidal",
+      "name": "Monica F Vidal",
+      "value": 8,
+      "degree": 0
+    },
+    {
+      "id": "mgboltz",
+      "name": "M. Gail Boltz",
+      "value": 13,
+      "degree": 8
+    },
+    {
+      "id": "mh1",
+      "name": "Mingjian He",
+      "value": 11,
+      "degree": 1
+    },
+    {
+      "id": "mhr",
+      "name": "Myer \"Mike\" Rosenthal",
+      "value": 14,
+      "degree": 2
+    },
+    {
+      "id": "michael1",
+      "name": "Michael Chen",
+      "value": 13,
+      "degree": 11
+    },
+    {
+      "id": "mkaptan",
+      "name": "Merve Kaptan",
+      "value": 11,
+      "degree": 3
+    },
+    {
+      "id": "mkcahill",
+      "name": "Michelle Cahill",
+      "value": 4,
+      "degree": 0
+    },
+    {
+      "id": "mlennig",
+      "name": "Michael Andrew Lennig",
+      "value": 7,
+      "degree": 6
+    },
+    {
+      "id": "mmuffly",
+      "name": "Matthew Muffly",
+      "value": 17,
+      "degree": 13
+    },
+    {
+      "id": "mnemenov",
+      "name": "Mikhail I. Nemenov",
+      "value": 23,
+      "degree": 3
+    },
+    {
+      "id": "mrebecca",
+      "name": "Rebecca Sara Morris",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "msleong",
+      "name": "Michael Leong",
+      "value": 30,
+      "degree": 10
+    },
+    {
+      "id": "mudumbai",
+      "name": "Sesh Mudumbai",
+      "value": 77,
+      "degree": 48
+    },
+    {
+      "id": "mvoge",
+      "name": "Melissa Ann Vogelsong",
+      "value": 16,
+      "degree": 4
+    },
+    {
+      "id": "mwvannem",
+      "name": "Matthew William Vanneman",
+      "value": 53,
+      "degree": 22
+    },
+    {
+      "id": "mziadni",
+      "name": "Maisa Ziadni, PhD",
+      "value": 75,
+      "degree": 15
+    },
+    {
+      "id": "naola",
+      "name": "Naola Austin",
+      "value": 12,
+      "degree": 6
+    },
+    {
+      "id": "narkin",
+      "name": "Nicole E Arkin",
+      "value": 9,
+      "degree": 2
+    },
+    {
+      "id": "nazi1",
+      "name": "Nazanin Mahinparvar",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "nbodmer2",
+      "name": "Natalie Bodmer",
+      "value": 16,
+      "degree": 10
+    },
+    {
+      "id": "nek",
+      "name": "Vladimir Nekhendzy",
+      "value": 17,
+      "degree": 8
+    },
+    {
+      "id": "nevillea",
+      "name": "Alexandra Neville",
+      "value": 27,
+      "degree": 7
+    },
+    {
+      "id": "ngregory",
+      "name": "Nicholas Gregory",
+      "value": 13,
+      "degree": 5
+    },
+    {
+      "id": "nhasan",
+      "name": "Natalya Hasan-Hill",
+      "value": 4,
+      "degree": 6
+    },
+    {
+      "id": "nkevin14",
+      "name": "Kevin Huan Nguyen",
+      "value": 13,
+      "degree": 0
+    },
+    {
+      "id": "nkoons",
+      "name": "Natalie Jane Koons",
+      "value": 17,
+      "degree": 4
+    },
+    {
+      "id": "oalbert",
+      "name": "Olga Wolke",
+      "value": 9,
+      "degree": 2
+    },
+    {
+      "id": "oeminaga",
+      "name": "Okyaz Eminaga",
+      "value": 40,
+      "degree": 1
+    },
+    {
+      "id": "otm1",
+      "name": "Louise Furukawa",
+      "value": 5,
+      "degree": 2
+    },
+    {
+      "id": "ottestad",
+      "name": "Einar Ottestad",
+      "value": 34,
+      "degree": 22
+    },
+    {
+      "id": "panousis",
+      "name": "Periklis Panousis",
+      "value": 4,
+      "degree": 1
+    },
+    {
+      "id": "perin",
+      "name": "Perin A. Kothari",
+      "value": 19,
+      "degree": 6
+    },
+    {
+      "id": "petercs",
+      "name": "Peter Schmidt",
+      "value": 22,
+      "degree": 5
+    },
+    {
+      "id": "pflood",
+      "name": "Pamela Flood",
+      "value": 149,
+      "degree": 29
+    },
+    {
+      "id": "pieterva",
+      "name": "Pieter van der Starre",
+      "value": 33,
+      "degree": 5
+    },
+    {
+      "id": "pkalra",
+      "name": "Praveen Kalra",
+      "value": 2,
+      "degree": 3
+    },
+    {
+      "id": "pminot2",
+      "name": "Patrick Minot",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "pochebm",
+      "name": "Maxim Pochebyt",
+      "value": 1,
+      "degree": 3
+    },
+    {
+      "id": "ppurdon",
+      "name": "Patrick Lee Purdon",
+      "value": 2,
+      "degree": 1
+    },
+    {
+      "id": "pritam",
+      "name": "Pritam Kumar Panda",
+      "value": 31,
+      "degree": 31
+    },
+    {
+      "id": "psulliv",
+      "name": "Patrick Sullivan",
+      "value": 6,
+      "degree": 0
+    },
+    {
+      "id": "psultan",
+      "name": "Pervez Sultan",
+      "value": 228,
+      "degree": 23
+    },
+    {
+      "id": "ptanaka",
+      "name": "Pedro Tanaka",
+      "value": 52,
+      "degree": 15
+    },
+    {
+      "id": "qbaca",
+      "name": "Quentin Joseph Baca",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "rabbitts",
+      "name": "Jennifer Anne Rabbitts",
+      "value": 68,
+      "degree": 1
+    },
+    {
+      "id": "rasouli1",
+      "name": "Mohammad Reza Rasouli, MD",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "rbhandar",
+      "name": "Rashmi Parekh Bhandari",
+      "value": 36,
+      "degree": 10
+    },
+    {
+      "id": "rclaure",
+      "name": "Rebecca Claure",
+      "value": 7,
+      "degree": 12
+    },
+    {
+      "id": "rfanning",
+      "name": "Ruth Fanning",
+      "value": 9,
+      "degree": 7
+    },
+    {
+      "id": "rgiffard",
+      "name": "Rona Giffard",
+      "value": 180,
+      "degree": 31
+    },
+    {
+      "id": "rgp",
+      "name": "Ronald Pearl",
+      "value": 146,
+      "degree": 17
+    },
+    {
+      "id": "rictreml",
+      "name": "Ricardo Esper Treml,MD,DESAIC",
+      "value": 19,
+      "degree": 1
+    },
+    {
+      "id": "rishel",
+      "name": "Chris Rishel",
+      "value": 10,
+      "degree": 2
+    },
+    {
+      "id": "rjnov",
+      "name": "Richard J. Novak",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "rjram",
+      "name": "R J Ramamurthi",
+      "value": 31,
+      "degree": 6
+    },
+    {
+      "id": "rkania",
+      "name": "Raymond Michael Kania",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "rkwkim",
+      "name": "Richard K. Kim",
+      "value": 16,
+      "degree": 8
+    },
+    {
+      "id": "routters",
+      "name": "Rachel Outterson",
+      "value": 4,
+      "degree": 0
+    },
+    {
+      "id": "rupas",
+      "name": "Rupa Naynesh Kumar Patel",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "saffary",
+      "name": "Roya Saffary, MD",
+      "value": 14,
+      "degree": 16
+    },
+    {
+      "id": "samsukk",
+      "name": "Samsuk Kim, PhD.",
+      "value": 7,
+      "degree": 5
+    },
+    {
+      "id": "saragf",
+      "name": "Sara Goldhaber-Fiebert",
+      "value": 27,
+      "degree": 43
+    },
+    {
+      "id": "sastone",
+      "name": "Sarah Stone",
+      "value": 8,
+      "degree": 5
+    },
+    {
+      "id": "secohen",
+      "name": "Sheila E. Cohen",
+      "value": 82,
+      "degree": 36
+    },
+    {
+      "id": "sewillia",
+      "name": "Sara Elizabeth Williams",
+      "value": 11,
+      "degree": 8
+    },
+    {
+      "id": "sgsastry",
+      "name": "Sunita Sastry",
+      "value": 3,
+      "degree": 5
+    },
+    {
+      "id": "showard",
+      "name": "Steven K. Howard",
+      "value": 119,
+      "degree": 43
+    },
+    {
+      "id": "shuestis",
+      "name": "Samantha Huestis",
+      "value": 7,
+      "degree": 6
+    },
+    {
+      "id": "shwald",
+      "name": "Samuel Wald",
+      "value": 21,
+      "degree": 9
+    },
+    {
+      "id": "sikka",
+      "name": "Pilleriin Sikka",
+      "value": 36,
+      "degree": 36
+    },
+    {
+      "id": "sjpan",
+      "name": "Stephanie Jiaying Pan",
+      "value": 19,
+      "degree": 11
+    },
+    {
+      "id": "smackey",
+      "name": "Sean Mackey, M.D., Ph.D.",
+      "value": 388,
+      "degree": 73
+    },
+    {
+      "id": "smithdw",
+      "name": "Derek Whitney Smith",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "snamrata",
+      "name": "Namrata Sangwan",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "sr1",
+      "name": "Samuel\u00a0Rodriguez, MD",
+      "value": 65,
+      "degree": 8
+    },
+    {
+      "id": "srmiller",
+      "name": "Sara Miller Strowd",
+      "value": 6,
+      "degree": 0
+    },
+    {
+      "id": "sshafer",
+      "name": "Steven L. Shafer, MD",
+      "value": 282,
+      "degree": 26
+    },
+    {
+      "id": "st31589d",
+      "name": "Troy Christopher Dildine",
+      "value": 7,
+      "degree": 6
+    },
+    {
+      "id": "stevenf",
+      "name": "Steven D. Feinberg",
+      "value": 3,
+      "degree": 1
+    },
+    {
+      "id": "stockert",
+      "name": "Emily Stockert, MD/MBA",
+      "value": 5,
+      "degree": 7
+    },
+    {
+      "id": "sunl",
+      "name": "Louise Y Sun",
+      "value": 119,
+      "degree": 17
+    },
+    {
+      "id": "tanders0",
+      "name": "Thomas Anthony (\"Tony\") Anderson",
+      "value": 54,
+      "degree": 47
+    },
+    {
+      "id": "tchakoma",
+      "name": "Tatenda Lawrence Chakoma",
+      "value": 2,
+      "degree": 0
+    },
+    {
+      "id": "teresan1",
+      "name": "Teresa Phuongtram Nguyen",
+      "value": 12,
+      "degree": 5
+    },
+    {
+      "id": "timangel",
+      "name": "Timothy Angelotti MD, PhD",
+      "value": 63,
+      "degree": 40
+    },
+    {
+      "id": "tjcaruso",
+      "name": "Thomas Caruso",
+      "value": 120,
+      "degree": 30
+    },
+    {
+      "id": "tkung",
+      "name": "Tiffany Kung",
+      "value": 10,
+      "degree": 4
+    },
+    {
+      "id": "tlii",
+      "name": "Theresa Lii, M.D., M.S.",
+      "value": 16,
+      "degree": 7
+    },
+    {
+      "id": "tlrn",
+      "name": "Travis Reece-Nguyen, MD, MPH, FAAP  (he/him/his)",
+      "value": 17,
+      "degree": 5
+    },
+    {
+      "id": "tomin",
+      "name": "Tomin James",
+      "value": 4,
+      "degree": 9
+    },
+    {
+      "id": "tqn",
+      "name": "Quynh Dierickx",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "trama34",
+      "name": "Tara Shree Ramaswamy",
+      "value": 7,
+      "degree": 2
+    },
+    {
+      "id": "trfeng",
+      "name": "T. Robert Feng",
+      "value": 2,
+      "degree": 2
+    },
+    {
+      "id": "usmanm",
+      "name": "M. Usman",
+      "value": 18,
+      "degree": 0
+    },
+    {
+      "id": "vanila",
+      "name": "Vanila M. Singh, MD MACM",
+      "value": 5,
+      "degree": 0
+    },
+    {
+      "id": "vikramfs",
+      "name": "Vikram Fielding-Singh, MD, JD, MS",
+      "value": 30,
+      "degree": 32
+    },
+    {
+      "id": "viveknk",
+      "name": "Vivek Kulkarni",
+      "value": 9,
+      "degree": 5
+    },
+    {
+      "id": "vivianne",
+      "name": "Vivianne Tawfik",
+      "value": 77,
+      "degree": 48
+    },
+    {
+      "id": "vknayak",
+      "name": "Vidya Rao",
+      "value": 24,
+      "degree": 7
+    },
+    {
+      "id": "vristovi",
+      "name": "Vanja Ristovic",
+      "value": 2,
+      "degree": 1
+    },
+    {
+      "id": "vsalmasi",
+      "name": "Vafi Salmasi",
+      "value": 46,
+      "degree": 17
+    },
+    {
+      "id": "vyin",
+      "name": "Victoria Yin",
+      "value": 1,
+      "degree": 1
+    },
+    {
+      "id": "xiruo",
+      "name": "Xiruo Ding",
+      "value": 1,
+      "degree": 0
+    },
+    {
+      "id": "xqian",
+      "name": "Xiang Qian",
+      "value": 40,
+      "degree": 38
+    },
+    {
+      "id": "yeomans",
+      "name": "David C. Yeomans",
+      "value": 148,
+      "degree": 45
+    },
+    {
+      "id": "yiyuw",
+      "name": "Yiyu Wang",
+      "value": 4,
+      "degree": 0
+    },
+    {
+      "id": "zhoug",
+      "name": "George Paul Zhou",
+      "value": 8,
+      "degree": 0
+    },
+    {
+      "id": "zoelq",
+      "name": "Zoel A. Qui\u00f1\u00f3nez",
+      "value": 28,
+      "degree": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "aadriano",
+      "target": "mcchen8",
+      "value": 6.0
+    },
+    {
+      "source": "aadriano",
+      "target": "amaca",
+      "value": 3.0
+    },
+    {
+      "source": "aadriano",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "abcasey",
+      "target": "bheifets",
+      "value": 39.0
+    },
+    {
+      "source": "abcasey",
+      "target": "ngregory",
+      "value": 6.0
+    },
+    {
+      "source": "abomba",
+      "target": "markburb",
+      "value": 3.0
+    },
+    {
+      "source": "abomba",
+      "target": "pochebm",
+      "value": 3.0
+    },
+    {
+      "source": "abomba",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "abomba",
+      "target": "sr1",
+      "value": 3.0
+    },
+    {
+      "source": "abomba",
+      "target": "bheifets",
+      "value": 3.0
+    },
+    {
+      "source": "abomba",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "yeomans",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "showard",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "barrj",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "brockutn",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "kendig",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "ang",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "amaca",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "geoffl",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "carvalb",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "honkanen",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "ic38",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "emariano",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "bdarnall",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "esun1",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "lesimons",
+      "value": 1.0
+    },
+    {
+      "source": "abomba",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "chenqi",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "abomba",
+      "target": "pritam",
+      "value": 1.0
+    },
+    {
+      "source": "aborucki",
+      "target": "agarwalr",
+      "value": 3.0
+    },
+    {
+      "source": "aburgart",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "aburgart",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "aburgart",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "aburgart",
+      "target": "aclu",
+      "value": 3.0
+    },
+    {
+      "source": "aburgart",
+      "target": "dchar",
+      "value": 12.0
+    },
+    {
+      "source": "aclu",
+      "target": "bheifets",
+      "value": 3.0
+    },
+    {
+      "source": "aclu",
+      "target": "amaca",
+      "value": 3.0
+    },
+    {
+      "source": "aclu",
+      "target": "pkalra",
+      "value": 3.0
+    },
+    {
+      "source": "aclu",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "aclu",
+      "target": "chenqi",
+      "value": 6.0
+    },
+    {
+      "source": "aclu",
+      "target": "javierl",
+      "value": 12.0
+    },
+    {
+      "source": "aclu",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "aclu",
+      "target": "shwald",
+      "value": 18.0
+    },
+    {
+      "source": "aclu",
+      "target": "bjwbjw",
+      "value": 9.0
+    },
+    {
+      "source": "aclu",
+      "target": "rgp",
+      "value": 9.0
+    },
+    {
+      "source": "aclu",
+      "target": "sgsastry",
+      "value": 3.0
+    },
+    {
+      "source": "aclu",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "af3585",
+      "target": "jansari",
+      "value": 3.0
+    },
+    {
+      "source": "af3585",
+      "target": "carvalb",
+      "value": 15.0
+    },
+    {
+      "source": "af3585",
+      "target": "ang",
+      "value": 3.0
+    },
+    {
+      "source": "af3585",
+      "target": "lchu",
+      "value": 3.0
+    },
+    {
+      "source": "af3585",
+      "target": "secohen",
+      "value": 3.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "gdsouza",
+      "value": 18.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "bjwbjw",
+      "value": 3.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "michael1",
+      "value": 3.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "honkanen",
+      "value": 16.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "marks9",
+      "value": 15.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "mmuffly",
+      "value": 9.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "kaitlinf",
+      "value": 3.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "maciver",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "timangel",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "jbrodsky",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "gaba",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "ang",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "geoffl",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "carvalb",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "lchu",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "mudumbai",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "emariano",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "bdarnall",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "agarwalr",
+      "target": "sikka",
+      "value": 1.0
+    },
+    {
+      "source": "agarwalr",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "agdoufas",
+      "target": "panousis",
+      "value": 6.0
+    },
+    {
+      "source": "agdoufas",
+      "target": "sshafer",
+      "value": 18.0
+    },
+    {
+      "source": "agdoufas",
+      "target": "alanleec",
+      "value": 3.0
+    },
+    {
+      "source": "agdoufas",
+      "target": "markburb",
+      "value": 6.0
+    },
+    {
+      "source": "agdoufas",
+      "target": "lsaidman",
+      "value": 3.0
+    },
+    {
+      "source": "agoodell",
+      "target": "lchu",
+      "value": 3.0
+    },
+    {
+      "source": "agoodell",
+      "target": "chhh",
+      "value": 3.0
+    },
+    {
+      "source": "agoodell",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "agoyaarc",
+      "target": "lesimons",
+      "value": 3.0
+    },
+    {
+      "source": "agoyaarc",
+      "target": "rbhandar",
+      "value": 15.0
+    },
+    {
+      "source": "agoyaarc",
+      "target": "leharr",
+      "value": 3.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "lmiyachi",
+      "value": 3.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "perin",
+      "value": 9.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "jmadhok1",
+      "value": 6.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "nbodmer2",
+      "value": 15.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "asheen21",
+      "value": 3.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "tjcaruso",
+      "value": 9.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "fle8cou",
+      "value": 3.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "ifeinste",
+      "value": 3.0
+    },
+    {
+      "source": "ahtsai",
+      "target": "vknayak",
+      "value": 6.0
+    },
+    {
+      "source": "ajrod",
+      "target": "markburb",
+      "value": 15.0
+    },
+    {
+      "source": "ajrod",
+      "target": "jmadhok1",
+      "value": 6.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "mbarad",
+      "value": 12.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "ejkrane",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "gdsouza",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "jhah",
+      "value": 6.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "ottestad",
+      "value": 9.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "alicehli",
+      "value": 6.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "msleong",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "vsalmasi",
+      "value": 6.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "tlii",
+      "value": 6.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "jnewmark",
+      "value": 6.0
+    },
+    {
+      "source": "akaggarw",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "ang",
+      "value": 57.0
+    },
+    {
+      "source": "alanleec",
+      "target": "anilpani",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "fle8cou",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "chungp",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "eloiseb",
+      "value": 42.0
+    },
+    {
+      "source": "alanleec",
+      "target": "marcgh",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "tomin",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "markburb",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "dfeyaer",
+      "value": 21.0
+    },
+    {
+      "source": "alanleec",
+      "target": "btb",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "carvalb",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "alanleec",
+      "target": "kazando",
+      "value": 18.0
+    },
+    {
+      "source": "alicehli",
+      "target": "ottestad",
+      "value": 9.0
+    },
+    {
+      "source": "alicehli",
+      "target": "msleong",
+      "value": 3.0
+    },
+    {
+      "source": "alicehli",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "alicehli",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "alkwon",
+      "target": "bdarnall",
+      "value": 3.0
+    },
+    {
+      "source": "alkwon",
+      "target": "nevillea",
+      "value": 6.0
+    },
+    {
+      "source": "alkwon",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "alkwon",
+      "target": "hking",
+      "value": 6.0
+    },
+    {
+      "source": "alkwon",
+      "target": "chenqi",
+      "value": 3.0
+    },
+    {
+      "source": "alkwon",
+      "target": "xqian",
+      "value": 3.0
+    },
+    {
+      "source": "alkwon",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "alsawyer",
+      "target": "bromo",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "ptanaka",
+      "value": 105.0
+    },
+    {
+      "source": "amaca",
+      "target": "mcchen8",
+      "value": 6.0
+    },
+    {
+      "source": "amaca",
+      "target": "fperez",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "pkalra",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "brockutn",
+      "value": 39.0
+    },
+    {
+      "source": "amaca",
+      "target": "esun1",
+      "value": 10
+    },
+    {
+      "source": "amaca",
+      "target": "vivianne",
+      "value": 4.0
+    },
+    {
+      "source": "amaca",
+      "target": "nhasan",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "shwald",
+      "value": 9.0
+    },
+    {
+      "source": "amaca",
+      "target": "carvalb",
+      "value": 37
+    },
+    {
+      "source": "amaca",
+      "target": "jcmcavoy",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "bkadry",
+      "value": 33.0
+    },
+    {
+      "source": "amaca",
+      "target": "cschmies",
+      "value": 9.0
+    },
+    {
+      "source": "amaca",
+      "target": "doakes",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "javierl",
+      "value": 6.0
+    },
+    {
+      "source": "amaca",
+      "target": "btb",
+      "value": 6.0
+    },
+    {
+      "source": "amaca",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "jbrodsky",
+      "value": 31
+    },
+    {
+      "source": "amaca",
+      "target": "lsaidman",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "psultan",
+      "value": 15.0
+    },
+    {
+      "source": "amaca",
+      "target": "saragf",
+      "value": 4
+    },
+    {
+      "source": "amaca",
+      "target": "showard",
+      "value": 4
+    },
+    {
+      "source": "amaca",
+      "target": "lchu",
+      "value": 22
+    },
+    {
+      "source": "amaca",
+      "target": "ddrover",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "rgp",
+      "value": 15.0
+    },
+    {
+      "source": "amaca",
+      "target": "arsaxena",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "emariano",
+      "value": 7
+    },
+    {
+      "source": "amaca",
+      "target": "chandrar",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "lipman1",
+      "value": 3.0
+    },
+    {
+      "source": "amaca",
+      "target": "secohen",
+      "value": 12.0
+    },
+    {
+      "source": "amaca",
+      "target": "smackey",
+      "value": 4
+    },
+    {
+      "source": "amaca",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "maciver",
+      "value": 1.0
+    },
+    {
+      "source": "amaca",
+      "target": "barrj",
+      "value": 1.0
+    },
+    {
+      "source": "amaca",
+      "target": "kendig",
+      "value": 1.0
+    },
+    {
+      "source": "amaca",
+      "target": "timangel",
+      "value": 1.0
+    },
+    {
+      "source": "amaca",
+      "target": "gaba",
+      "value": 1.0
+    },
+    {
+      "source": "amaca",
+      "target": "ang",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "geoffl",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "gpeltz",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "bdarnall",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "amaca",
+      "target": "pritam",
+      "value": 1.0
+    },
+    {
+      "source": "amachi",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "amachi",
+      "target": "jboublik",
+      "value": 6.0
+    },
+    {
+      "source": "amachi",
+      "target": "hornj",
+      "value": 3.0
+    },
+    {
+      "source": "ameliec",
+      "target": "ang",
+      "value": 6.0
+    },
+    {
+      "source": "ameliec",
+      "target": "bheifets",
+      "value": 3.0
+    },
+    {
+      "source": "ameliec",
+      "target": "ddrover",
+      "value": 3.0
+    },
+    {
+      "source": "ameliec",
+      "target": "dfeyaer",
+      "value": 9.0
+    },
+    {
+      "source": "ameliec",
+      "target": "kazando",
+      "value": 3.0
+    },
+    {
+      "source": "amurray3",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "amurray3",
+      "target": "tlrn",
+      "value": 3.0
+    },
+    {
+      "source": "amurray3",
+      "target": "asheen21",
+      "value": 3.0
+    },
+    {
+      "source": "amurray3",
+      "target": "jjfehr",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "chshu",
+      "value": 9.0
+    },
+    {
+      "source": "ang",
+      "target": "chungp",
+      "value": 12.0
+    },
+    {
+      "source": "ang",
+      "target": "eloiseb",
+      "value": 39.0
+    },
+    {
+      "source": "ang",
+      "target": "ifeinste",
+      "value": 12.0
+    },
+    {
+      "source": "ang",
+      "target": "dfeyaer",
+      "value": 45.0
+    },
+    {
+      "source": "ang",
+      "target": "btb",
+      "value": 9.0
+    },
+    {
+      "source": "ang",
+      "target": "marcgh",
+      "value": 13
+    },
+    {
+      "source": "ang",
+      "target": "tomin",
+      "value": 6.0
+    },
+    {
+      "source": "ang",
+      "target": "bheifets",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "ddrover",
+      "value": 27.0
+    },
+    {
+      "source": "ang",
+      "target": "kazando",
+      "value": 51.0
+    },
+    {
+      "source": "ang",
+      "target": "ergross",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "frwere",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "vikramfs",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "carvalb",
+      "value": 73
+    },
+    {
+      "source": "ang",
+      "target": "ejkrane",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "lesimons",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "sewillia",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "rishel",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "psultan",
+      "value": 9.0
+    },
+    {
+      "source": "ang",
+      "target": "vivianne",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "calypso1",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "smackey",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "jjfehr",
+      "value": 6.0
+    },
+    {
+      "source": "ang",
+      "target": "mberger1",
+      "value": 9.0
+    },
+    {
+      "source": "ang",
+      "target": "yeomans",
+      "value": 55
+    },
+    {
+      "source": "ang",
+      "target": "hlemmens",
+      "value": 9.0
+    },
+    {
+      "source": "ang",
+      "target": "djclark",
+      "value": 21.0
+    },
+    {
+      "source": "ang",
+      "target": "lchu",
+      "value": 19
+    },
+    {
+      "source": "ang",
+      "target": "mnemenov",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "gpeltz",
+      "value": 7
+    },
+    {
+      "source": "ang",
+      "target": "nek",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "sshafer",
+      "value": 6.0
+    },
+    {
+      "source": "ang",
+      "target": "rgiffard",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "ic38",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "secohen",
+      "value": 4.0
+    },
+    {
+      "source": "ang",
+      "target": "brockutn",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "dstanski",
+      "value": 9.0
+    },
+    {
+      "source": "ang",
+      "target": "jbrodsky",
+      "value": 4
+    },
+    {
+      "source": "ang",
+      "target": "rclaure",
+      "value": 3.0
+    },
+    {
+      "source": "ang",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "barrj",
+      "value": 1.0
+    },
+    {
+      "source": "ang",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "geoffl",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "honkanen",
+      "value": 1.0
+    },
+    {
+      "source": "ang",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "emariano",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "bdarnall",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "chenqi",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "ang",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "anilpani",
+      "target": "rgp",
+      "value": 3.0
+    },
+    {
+      "source": "anilpani",
+      "target": "fle8cou",
+      "value": 3.0
+    },
+    {
+      "source": "anilpani",
+      "target": "brockutn",
+      "value": 6.0
+    },
+    {
+      "source": "anilpani",
+      "target": "markburb",
+      "value": 3.0
+    },
+    {
+      "source": "anilpani",
+      "target": "sastone",
+      "value": 6.0
+    },
+    {
+      "source": "anilpani",
+      "target": "ckuan",
+      "value": 3.0
+    },
+    {
+      "source": "anjalid",
+      "target": "emariano",
+      "value": 21.0
+    },
+    {
+      "source": "anjalid",
+      "target": "esun1",
+      "value": 39.0
+    },
+    {
+      "source": "anjalid",
+      "target": "smackey",
+      "value": 6.0
+    },
+    {
+      "source": "anjalid",
+      "target": "btb",
+      "value": 9.0
+    },
+    {
+      "source": "anjalid",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "anjalid",
+      "target": "bdarnall",
+      "value": 3.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "ddrover",
+      "value": 6.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "lhan2",
+      "value": 6.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "mcchen8",
+      "value": 6.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "rjram",
+      "value": 3.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "bmittal",
+      "value": 3.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "nek",
+      "value": 3.0
+    },
+    {
+      "source": "arsaxena",
+      "target": "carvalb",
+      "value": 6.0
+    },
+    {
+      "source": "aruan",
+      "target": "kleina",
+      "value": 3.0
+    },
+    {
+      "source": "aruan",
+      "target": "nhasan",
+      "value": 3.0
+    },
+    {
+      "source": "aruan",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "aruan",
+      "target": "viveknk",
+      "value": 3.0
+    },
+    {
+      "source": "arudin",
+      "target": "tanders0",
+      "value": 3.0
+    },
+    {
+      "source": "ashafer",
+      "target": "edwardb",
+      "value": 3.0
+    },
+    {
+      "source": "ashafer",
+      "target": "emariano",
+      "value": 3.0
+    },
+    {
+      "source": "ashafer",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "ashafer",
+      "target": "barrj",
+      "value": 3.0
+    },
+    {
+      "source": "ashafer",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "asheen21",
+      "target": "lnywang",
+      "value": 12.0
+    },
+    {
+      "source": "asheen21",
+      "target": "tjcaruso",
+      "value": 30.0
+    },
+    {
+      "source": "asheen21",
+      "target": "bjwbjw",
+      "value": 3.0
+    },
+    {
+      "source": "asheen21",
+      "target": "michael1",
+      "value": 9.0
+    },
+    {
+      "source": "asheen21",
+      "target": "jjfehr",
+      "value": 3.0
+    },
+    {
+      "source": "ashley04",
+      "target": "viveknk",
+      "value": 3.0
+    },
+    {
+      "source": "ashley04",
+      "target": "markburb",
+      "value": 3.0
+    },
+    {
+      "source": "atcheung",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "atcheung",
+      "target": "vknayak",
+      "value": 3.0
+    },
+    {
+      "source": "aterkawi",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "aterkawi",
+      "target": "vsalmasi",
+      "value": 15.0
+    },
+    {
+      "source": "aterkawi",
+      "target": "ottestad",
+      "value": 9.0
+    },
+    {
+      "source": "aterkawi",
+      "target": "jhah",
+      "value": 6.0
+    },
+    {
+      "source": "aterkawi",
+      "target": "ngregory",
+      "value": 3.0
+    },
+    {
+      "source": "aterkawi",
+      "target": "pflood",
+      "value": 15.0
+    },
+    {
+      "source": "barrj",
+      "target": "edwardb",
+      "value": 12.0
+    },
+    {
+      "source": "barrj",
+      "target": "emariano",
+      "value": 4
+    },
+    {
+      "source": "barrj",
+      "target": "mudumbai",
+      "value": 4.0
+    },
+    {
+      "source": "barrj",
+      "target": "geoffl",
+      "value": 7.0
+    },
+    {
+      "source": "barrj",
+      "target": "gaba",
+      "value": 6.0
+    },
+    {
+      "source": "barrj",
+      "target": "showard",
+      "value": 4.0
+    },
+    {
+      "source": "barrj",
+      "target": "sshafer",
+      "value": 9.0
+    },
+    {
+      "source": "barrj",
+      "target": "rgp",
+      "value": 6.0
+    },
+    {
+      "source": "barrj",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "ddrover",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "carvalb",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "lchu",
+      "value": 1.0
+    },
+    {
+      "source": "barrj",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "barrj",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "barrj",
+      "target": "hking",
+      "value": 1.0
+    },
+    {
+      "source": "barrj",
+      "target": "bdarnall",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "esun1",
+      "value": 1.0
+    },
+    {
+      "source": "barrj",
+      "target": "lesimons",
+      "value": 1.0
+    },
+    {
+      "source": "barrj",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "barrj",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "hking",
+      "value": 10
+    },
+    {
+      "source": "bdarnall",
+      "target": "mziadni",
+      "value": 147.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "smackey",
+      "value": 271
+    },
+    {
+      "source": "bdarnall",
+      "target": "vsalmasi",
+      "value": 27.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "kristen3",
+      "value": 3.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "pflood",
+      "value": 27.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "mckao",
+      "value": 75.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "samsukk",
+      "value": 9.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "elannon",
+      "value": 9.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "st31589d",
+      "value": 15.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "leharr",
+      "value": 9.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "nevillea",
+      "value": 3.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "rbhandar",
+      "value": 18.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "tlii",
+      "value": 6.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "mbarad",
+      "value": 3.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "lesimons",
+      "value": 7
+    },
+    {
+      "source": "bdarnall",
+      "target": "calypso1",
+      "value": 18.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "jhah",
+      "value": 12.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "msleong",
+      "value": 3.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "esun1",
+      "value": 7
+    },
+    {
+      "source": "bdarnall",
+      "target": "ejkrane",
+      "value": 3.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "shuestis",
+      "value": 3.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "jbrodsky",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "gaba",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "geoffl",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "carvalb",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "honkanen",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "lchu",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "gpeltz",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "bdarnall",
+      "target": "emariano",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "chenqi",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "bdarnall",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "bgolianu",
+      "target": "rbhandar",
+      "value": 3.0
+    },
+    {
+      "source": "bgolianu",
+      "target": "shuestis",
+      "value": 3.0
+    },
+    {
+      "source": "bgolianu",
+      "target": "ejkrane",
+      "value": 6.0
+    },
+    {
+      "source": "bgolianu",
+      "target": "ckuan",
+      "value": 3.0
+    },
+    {
+      "source": "bgolianu",
+      "target": "emariano",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "ngregory",
+      "value": 9.0
+    },
+    {
+      "source": "bheifets",
+      "target": "tlii",
+      "value": 21.0
+    },
+    {
+      "source": "bheifets",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "sikka",
+      "value": 6.0
+    },
+    {
+      "source": "bheifets",
+      "target": "ddrover",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "dfeyaer",
+      "value": 6.0
+    },
+    {
+      "source": "bheifets",
+      "target": "kazando",
+      "value": 6.0
+    },
+    {
+      "source": "bheifets",
+      "target": "mberger1",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "hchow",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "edwardb",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "ergross",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "maciver",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "fle8cou",
+      "value": 12.0
+    },
+    {
+      "source": "bheifets",
+      "target": "jbrodt",
+      "value": 6.0
+    },
+    {
+      "source": "bheifets",
+      "target": "markburb",
+      "value": 9.0
+    },
+    {
+      "source": "bheifets",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "bheifets",
+      "target": "msleong",
+      "value": 3.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "saragf",
+      "value": 6.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "shwald",
+      "value": 12.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "michael1",
+      "value": 6.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "ejkrane",
+      "value": 6.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "rgp",
+      "value": 9.0
+    },
+    {
+      "source": "bjwbjw",
+      "target": "sgsastry",
+      "value": 3.0
+    },
+    {
+      "source": "bkadry",
+      "target": "btb",
+      "value": 3.0
+    },
+    {
+      "source": "bkadry",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "bkadry",
+      "target": "doakes",
+      "value": 3.0
+    },
+    {
+      "source": "bkadry",
+      "target": "lchu",
+      "value": 6.0
+    },
+    {
+      "source": "bkadry",
+      "target": "brockutn",
+      "value": 3.0
+    },
+    {
+      "source": "bkadry",
+      "target": "jbrodsky",
+      "value": 15.0
+    },
+    {
+      "source": "bmittal",
+      "target": "didigood",
+      "value": 6.0
+    },
+    {
+      "source": "bmittal",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "bmittal",
+      "target": "nek",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "markburb",
+      "value": 18.0
+    },
+    {
+      "source": "brockutn",
+      "target": "sastone",
+      "value": 12.0
+    },
+    {
+      "source": "brockutn",
+      "target": "cedar",
+      "value": 9.0
+    },
+    {
+      "source": "brockutn",
+      "target": "jbrodsky",
+      "value": 69.0
+    },
+    {
+      "source": "brockutn",
+      "target": "jcmcavoy",
+      "value": 12.0
+    },
+    {
+      "source": "brockutn",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "jbrodt",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "rgp",
+      "value": 6.0
+    },
+    {
+      "source": "brockutn",
+      "target": "cschmies",
+      "value": 12.0
+    },
+    {
+      "source": "brockutn",
+      "target": "btb",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "ddrover",
+      "value": 15.0
+    },
+    {
+      "source": "brockutn",
+      "target": "emariano",
+      "value": 7.0
+    },
+    {
+      "source": "brockutn",
+      "target": "gaba",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "maciver",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "ghilton",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "viveknk",
+      "value": 6.0
+    },
+    {
+      "source": "brockutn",
+      "target": "marly",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "hlemmens",
+      "value": 45.0
+    },
+    {
+      "source": "brockutn",
+      "target": "jhah",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "nek",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "timangel",
+      "value": 6.0
+    },
+    {
+      "source": "brockutn",
+      "target": "ottestad",
+      "value": 6.0
+    },
+    {
+      "source": "brockutn",
+      "target": "chandrar",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "kkamra",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "carvalb",
+      "value": 4
+    },
+    {
+      "source": "brockutn",
+      "target": "lipman1",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "otm1",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "pieterva",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "lsaidman",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "rgiffard",
+      "value": 6.0
+    },
+    {
+      "source": "brockutn",
+      "target": "geoffl",
+      "value": 4.0
+    },
+    {
+      "source": "brockutn",
+      "target": "smackey",
+      "value": 4.0
+    },
+    {
+      "source": "brockutn",
+      "target": "fmihm",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "foppiano",
+      "value": 3.0
+    },
+    {
+      "source": "brockutn",
+      "target": "secohen",
+      "value": 1.0
+    },
+    {
+      "source": "brockutn",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "brockutn",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "brockutn",
+      "target": "ic38",
+      "value": 1.0
+    },
+    {
+      "source": "brockutn",
+      "target": "sikka",
+      "value": 1.0
+    },
+    {
+      "source": "btb",
+      "target": "esun1",
+      "value": 18.0
+    },
+    {
+      "source": "btb",
+      "target": "carvalb",
+      "value": 60.0
+    },
+    {
+      "source": "btb",
+      "target": "jansari",
+      "value": 9.0
+    },
+    {
+      "source": "btb",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "nkoons",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "chungp",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "eloiseb",
+      "value": 6.0
+    },
+    {
+      "source": "btb",
+      "target": "marcgh",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "stockert",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "pflood",
+      "value": 12.0
+    },
+    {
+      "source": "btb",
+      "target": "emariano",
+      "value": 6.0
+    },
+    {
+      "source": "btb",
+      "target": "jhah",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "honkanen",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "marks9",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "mmuffly",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "lsaidman",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "saragf",
+      "value": 3.0
+    },
+    {
+      "source": "btb",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "calypso1",
+      "target": "mziadni",
+      "value": 9.0
+    },
+    {
+      "source": "calypso1",
+      "target": "smackey",
+      "value": 48.0
+    },
+    {
+      "source": "calypso1",
+      "target": "mckao",
+      "value": 6.0
+    },
+    {
+      "source": "calypso1",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "calypso1",
+      "target": "ic38",
+      "value": 6.0
+    },
+    {
+      "source": "calypso1",
+      "target": "jhah",
+      "value": 6.0
+    },
+    {
+      "source": "calypso1",
+      "target": "ottestad",
+      "value": 12.0
+    },
+    {
+      "source": "calypso1",
+      "target": "vivianne",
+      "value": 12.0
+    },
+    {
+      "source": "calypso1",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "psultan",
+      "value": 315.0
+    },
+    {
+      "source": "carvalb",
+      "target": "ghilton",
+      "value": 57.0
+    },
+    {
+      "source": "carvalb",
+      "target": "jansari",
+      "value": 27.0
+    },
+    {
+      "source": "carvalb",
+      "target": "jxie",
+      "value": 6.0
+    },
+    {
+      "source": "carvalb",
+      "target": "nkoons",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "cedar",
+      "value": 9.0
+    },
+    {
+      "source": "carvalb",
+      "target": "lesimons",
+      "value": 4
+    },
+    {
+      "source": "carvalb",
+      "target": "teresan1",
+      "value": 12.0
+    },
+    {
+      "source": "carvalb",
+      "target": "vivianne",
+      "value": 4.0
+    },
+    {
+      "source": "carvalb",
+      "target": "stockert",
+      "value": 9.0
+    },
+    {
+      "source": "carvalb",
+      "target": "esun1",
+      "value": 7.0
+    },
+    {
+      "source": "carvalb",
+      "target": "cortner",
+      "value": 9.0
+    },
+    {
+      "source": "carvalb",
+      "target": "smackey",
+      "value": 7
+    },
+    {
+      "source": "carvalb",
+      "target": "emariano",
+      "value": 22
+    },
+    {
+      "source": "carvalb",
+      "target": "kfedoruk",
+      "value": 9.0
+    },
+    {
+      "source": "carvalb",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "carvalb",
+      "target": "kazando",
+      "value": 42.0
+    },
+    {
+      "source": "carvalb",
+      "target": "eloiseb",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "epush09",
+      "value": 9.0
+    },
+    {
+      "source": "carvalb",
+      "target": "pflood",
+      "value": 33.0
+    },
+    {
+      "source": "carvalb",
+      "target": "dfeyaer",
+      "value": 6.0
+    },
+    {
+      "source": "carvalb",
+      "target": "jboublik",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "ddrover",
+      "value": 46
+    },
+    {
+      "source": "carvalb",
+      "target": "hornj",
+      "value": 6.0
+    },
+    {
+      "source": "carvalb",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "naola",
+      "value": 12.0
+    },
+    {
+      "source": "carvalb",
+      "target": "yeomans",
+      "value": 43
+    },
+    {
+      "source": "carvalb",
+      "target": "honkanen",
+      "value": 4.0
+    },
+    {
+      "source": "carvalb",
+      "target": "marks9",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "mmuffly",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "vyin",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "showard",
+      "value": 7
+    },
+    {
+      "source": "carvalb",
+      "target": "secohen",
+      "value": 76
+    },
+    {
+      "source": "carvalb",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "lipman1",
+      "value": 39.0
+    },
+    {
+      "source": "carvalb",
+      "target": "saragf",
+      "value": 7
+    },
+    {
+      "source": "carvalb",
+      "target": "gpeltz",
+      "value": 10
+    },
+    {
+      "source": "carvalb",
+      "target": "ic38",
+      "value": 4
+    },
+    {
+      "source": "carvalb",
+      "target": "petercs",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "lsaidman",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "hlemmens",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "djclark",
+      "value": 15.0
+    },
+    {
+      "source": "carvalb",
+      "target": "lindsey",
+      "value": 15.0
+    },
+    {
+      "source": "carvalb",
+      "target": "lchu",
+      "value": 13
+    },
+    {
+      "source": "carvalb",
+      "target": "cschmies",
+      "value": 3.0
+    },
+    {
+      "source": "carvalb",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "dstanski",
+      "value": 1.0
+    },
+    {
+      "source": "carvalb",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "jbrodsky",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "gaba",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "geoffl",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "carvalb",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "chenqi",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "carvalb",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "cchiu105",
+      "target": "fmihm",
+      "value": 3.0
+    },
+    {
+      "source": "cchoi13",
+      "target": "jmadhok1",
+      "value": 3.0
+    },
+    {
+      "source": "cchoi13",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "cdnguyen",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "lesimons",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "psultan",
+      "value": 6.0
+    },
+    {
+      "source": "cedar",
+      "target": "stockert",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "kfedoruk",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "jansari",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "cedar",
+      "target": "markburb",
+      "value": 3.0
+    },
+    {
+      "source": "cgroen",
+      "target": "rbhandar",
+      "value": 3.0
+    },
+    {
+      "source": "cgroen",
+      "target": "rabbitts",
+      "value": 75.0
+    },
+    {
+      "source": "chandrar",
+      "target": "manchuln",
+      "value": 24.0
+    },
+    {
+      "source": "chandrar",
+      "target": "mlennig",
+      "value": 3.0
+    },
+    {
+      "source": "chandrar",
+      "target": "honkanen",
+      "value": 3.0
+    },
+    {
+      "source": "chandrar",
+      "target": "sastone",
+      "value": 12.0
+    },
+    {
+      "source": "chandrar",
+      "target": "ddrover",
+      "value": 24.0
+    },
+    {
+      "source": "chandrar",
+      "target": "kkamra",
+      "value": 21.0
+    },
+    {
+      "source": "chandrar",
+      "target": "juli",
+      "value": 3.0
+    },
+    {
+      "source": "chandrar",
+      "target": "jumbo",
+      "value": 54.0
+    },
+    {
+      "source": "chandrar",
+      "target": "dchar",
+      "value": 18.0
+    },
+    {
+      "source": "chandrar",
+      "target": "doakes",
+      "value": 3.0
+    },
+    {
+      "source": "chandrar",
+      "target": "ckuan",
+      "value": 3.0
+    },
+    {
+      "source": "chandrar",
+      "target": "emariano",
+      "value": 15.0
+    },
+    {
+      "source": "chandrar",
+      "target": "mgboltz",
+      "value": 15.0
+    },
+    {
+      "source": "chandrar",
+      "target": "fle8cou",
+      "value": 3.0
+    },
+    {
+      "source": "chandrar",
+      "target": "lchu",
+      "value": 15.0
+    },
+    {
+      "source": "chandrar",
+      "target": "rgiffard",
+      "value": 3.0
+    },
+    {
+      "source": "chbrown",
+      "target": "mberger1",
+      "value": 3.0
+    },
+    {
+      "source": "chenqi",
+      "target": "xqian",
+      "value": 34.0
+    },
+    {
+      "source": "chenqi",
+      "target": "mbarad",
+      "value": 3.0
+    },
+    {
+      "source": "chenqi",
+      "target": "emariano",
+      "value": 4
+    },
+    {
+      "source": "chenqi",
+      "target": "javierl",
+      "value": 6.0
+    },
+    {
+      "source": "chenqi",
+      "target": "secohen",
+      "value": 1.0
+    },
+    {
+      "source": "chenqi",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "gaba",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "lchu",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "mudumbai",
+      "value": 1.0
+    },
+    {
+      "source": "chenqi",
+      "target": "gpeltz",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "cstary",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "hking",
+      "value": 1.0
+    },
+    {
+      "source": "chenqi",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "chenqi",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "chhh",
+      "target": "cschmies",
+      "value": 6.0
+    },
+    {
+      "source": "chhh",
+      "target": "dchar",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "ergross",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "krhee",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "chhh",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "chshu",
+      "target": "chungp",
+      "value": 6.0
+    },
+    {
+      "source": "chshu",
+      "target": "eloiseb",
+      "value": 9.0
+    },
+    {
+      "source": "chshu",
+      "target": "dfeyaer",
+      "value": 3.0
+    },
+    {
+      "source": "chshu",
+      "target": "marcgh",
+      "value": 6.0
+    },
+    {
+      "source": "chshu",
+      "target": "tomin",
+      "value": 6.0
+    },
+    {
+      "source": "chungp",
+      "target": "eloiseb",
+      "value": 21.0
+    },
+    {
+      "source": "chungp",
+      "target": "marcgh",
+      "value": 9.0
+    },
+    {
+      "source": "chungp",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "chungp",
+      "target": "tomin",
+      "value": 3.0
+    },
+    {
+      "source": "chungp",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "chungp",
+      "target": "lchu",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "clin999",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "esfahanm",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "jjfehr",
+      "value": 6.0
+    },
+    {
+      "source": "ckuan",
+      "target": "jumbo",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "kkamra",
+      "value": 3.0
+    },
+    {
+      "source": "ckuan",
+      "target": "emariano",
+      "value": 3.0
+    },
+    {
+      "source": "clin999",
+      "target": "sjpan",
+      "value": 6.0
+    },
+    {
+      "source": "clin999",
+      "target": "foko",
+      "value": 3.0
+    },
+    {
+      "source": "clin999",
+      "target": "tjcaruso",
+      "value": 6.0
+    },
+    {
+      "source": "clin999",
+      "target": "tlrn",
+      "value": 6.0
+    },
+    {
+      "source": "clin999",
+      "target": "esfahanm",
+      "value": 6.0
+    },
+    {
+      "source": "cschmies",
+      "target": "dchar",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "ergross",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "jxie",
+      "value": 6.0
+    },
+    {
+      "source": "cschmies",
+      "target": "krhee",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "cschmies",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "saffary",
+      "value": 6.0
+    },
+    {
+      "source": "cschmies",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "shwald",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "rkwkim",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "ottestad",
+      "value": 6.0
+    },
+    {
+      "source": "cschmies",
+      "target": "doakes",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "ddrover",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "lipman1",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "timangel",
+      "value": 3.0
+    },
+    {
+      "source": "cschmies",
+      "target": "jbrodsky",
+      "value": 3.0
+    },
+    {
+      "source": "cstary",
+      "target": "rgiffard",
+      "value": 40
+    },
+    {
+      "source": "cstary",
+      "target": "ergross",
+      "value": 9.0
+    },
+    {
+      "source": "cstary",
+      "target": "frwere",
+      "value": 3.0
+    },
+    {
+      "source": "cstary",
+      "target": "edwardb",
+      "value": 3.0
+    },
+    {
+      "source": "cstary",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "cstary",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "cstary",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "cstary",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "cstary",
+      "target": "lchu",
+      "value": 1.0
+    },
+    {
+      "source": "cstary",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "cstary",
+      "target": "gpeltz",
+      "value": 1
+    },
+    {
+      "source": "cstary",
+      "target": "emariano",
+      "value": 1.0
+    },
+    {
+      "source": "cstary",
+      "target": "vivianne",
+      "value": 1.0
+    },
+    {
+      "source": "cstary",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "cwhess",
+      "target": "lesimons",
+      "value": 33.0
+    },
+    {
+      "source": "cwhess",
+      "target": "leharr",
+      "value": 12.0
+    },
+    {
+      "source": "cwhess",
+      "target": "nevillea",
+      "value": 3.0
+    },
+    {
+      "source": "cwhess",
+      "target": "sewillia",
+      "value": 3.0
+    },
+    {
+      "source": "cwhess",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "zoelq",
+      "value": 27.0
+    },
+    {
+      "source": "dchar",
+      "target": "kleina",
+      "value": 6.0
+    },
+    {
+      "source": "dchar",
+      "target": "mlennig",
+      "value": 9.0
+    },
+    {
+      "source": "dchar",
+      "target": "ergross",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "krhee",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "jbrodt",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "jumbo",
+      "value": 9.0
+    },
+    {
+      "source": "dchar",
+      "target": "manchuln",
+      "value": 6.0
+    },
+    {
+      "source": "dchar",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "grantmcf",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "ddrover",
+      "value": 3.0
+    },
+    {
+      "source": "dchar",
+      "target": "mgboltz",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "dfeyaer",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "kazando",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "lhan2",
+      "value": 6.0
+    },
+    {
+      "source": "ddrover",
+      "target": "mcchen8",
+      "value": 6.0
+    },
+    {
+      "source": "ddrover",
+      "target": "gpeltz",
+      "value": 7
+    },
+    {
+      "source": "ddrover",
+      "target": "sshafer",
+      "value": 9.0
+    },
+    {
+      "source": "ddrover",
+      "target": "maciver",
+      "value": 18.0
+    },
+    {
+      "source": "ddrover",
+      "target": "jansari",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "mmuffly",
+      "value": 9.0
+    },
+    {
+      "source": "ddrover",
+      "target": "sr1",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "michael1",
+      "value": 15.0
+    },
+    {
+      "source": "ddrover",
+      "target": "rclaure",
+      "value": 9.0
+    },
+    {
+      "source": "ddrover",
+      "target": "nek",
+      "value": 6.0
+    },
+    {
+      "source": "ddrover",
+      "target": "psultan",
+      "value": 12.0
+    },
+    {
+      "source": "ddrover",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "secohen",
+      "value": 9.0
+    },
+    {
+      "source": "ddrover",
+      "target": "lindsey",
+      "value": 15.0
+    },
+    {
+      "source": "ddrover",
+      "target": "lchu",
+      "value": 6.0
+    },
+    {
+      "source": "ddrover",
+      "target": "smackey",
+      "value": 4
+    },
+    {
+      "source": "ddrover",
+      "target": "marly",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "fle8cou",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "jumbo",
+      "value": 6.0
+    },
+    {
+      "source": "ddrover",
+      "target": "kkamra",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "mgboltz",
+      "value": 3.0
+    },
+    {
+      "source": "ddrover",
+      "target": "dstanski",
+      "value": 6.0
+    },
+    {
+      "source": "ddrover",
+      "target": "hlemmens",
+      "value": 21.0
+    },
+    {
+      "source": "ddrover",
+      "target": "yeomans",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "kendig",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "ddrover",
+      "target": "geoffl",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "ic38",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "emariano",
+      "value": 1
+    },
+    {
+      "source": "ddrover",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "vivianne",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "sikka",
+      "value": 1.0
+    },
+    {
+      "source": "ddrover",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "ddrover",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "dfeyaer",
+      "target": "eloiseb",
+      "value": 24.0
+    },
+    {
+      "source": "dfeyaer",
+      "target": "ifeinste",
+      "value": 3.0
+    },
+    {
+      "source": "dfeyaer",
+      "target": "marcgh",
+      "value": 6.0
+    },
+    {
+      "source": "dfeyaer",
+      "target": "tomin",
+      "value": 6.0
+    },
+    {
+      "source": "dfeyaer",
+      "target": "kazando",
+      "value": 27.0
+    },
+    {
+      "source": "dfeyaer",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "dgessner",
+      "target": "jxie",
+      "value": 6.0
+    },
+    {
+      "source": "dgessner",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "dgessner",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "dgessner",
+      "target": "emariano",
+      "value": 15.0
+    },
+    {
+      "source": "dgessner",
+      "target": "esun1",
+      "value": 3.0
+    },
+    {
+      "source": "dgessner",
+      "target": "vikramfs",
+      "value": 3.0
+    },
+    {
+      "source": "dgessner",
+      "target": "hornj",
+      "value": 6.0
+    },
+    {
+      "source": "didigood",
+      "target": "ergross",
+      "value": 6.0
+    },
+    {
+      "source": "djclark",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "djclark",
+      "target": "lchu",
+      "value": 18.0
+    },
+    {
+      "source": "djclark",
+      "target": "ic38",
+      "value": 3.0
+    },
+    {
+      "source": "djclark",
+      "target": "yeomans",
+      "value": 15.0
+    },
+    {
+      "source": "djclark",
+      "target": "gpeltz",
+      "value": 6.0
+    },
+    {
+      "source": "djclark",
+      "target": "geoffl",
+      "value": 3.0
+    },
+    {
+      "source": "doakes",
+      "target": "nbodmer2",
+      "value": 3.0
+    },
+    {
+      "source": "doakes",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "doakes",
+      "target": "jbrodt",
+      "value": 3.0
+    },
+    {
+      "source": "doakes",
+      "target": "emariano",
+      "value": 3.0
+    },
+    {
+      "source": "doakes",
+      "target": "pieterva",
+      "value": 9.0
+    },
+    {
+      "source": "doakes",
+      "target": "vknayak",
+      "value": 3.0
+    },
+    {
+      "source": "dpfyffer",
+      "target": "elannon",
+      "value": 3.0
+    },
+    {
+      "source": "dpfyffer",
+      "target": "kenweber",
+      "value": 15.0
+    },
+    {
+      "source": "dpfyffer",
+      "target": "smackey",
+      "value": 21.0
+    },
+    {
+      "source": "dpfyffer",
+      "target": "mkaptan",
+      "value": 18.0
+    },
+    {
+      "source": "dstanski",
+      "target": "hlemmens",
+      "value": 3.0
+    },
+    {
+      "source": "echorowe",
+      "target": "fmihm",
+      "value": 3.0
+    },
+    {
+      "source": "echorowe",
+      "target": "fperez",
+      "value": 3.0
+    },
+    {
+      "source": "echorowe",
+      "target": "jjfehr",
+      "value": 6.0
+    },
+    {
+      "source": "edwardb",
+      "target": "ergross",
+      "value": 3.0
+    },
+    {
+      "source": "edwardb",
+      "target": "maciver",
+      "value": 7.0
+    },
+    {
+      "source": "edwardb",
+      "target": "emariano",
+      "value": 12.0
+    },
+    {
+      "source": "edwardb",
+      "target": "showard",
+      "value": 6.0
+    },
+    {
+      "source": "edwardb",
+      "target": "mudumbai",
+      "value": 10.0
+    },
+    {
+      "source": "edwardb",
+      "target": "gaba",
+      "value": 3.0
+    },
+    {
+      "source": "edwardb",
+      "target": "geoffl",
+      "value": 3.0
+    },
+    {
+      "source": "edwardb",
+      "target": "sshafer",
+      "value": 9.0
+    },
+    {
+      "source": "edwardb",
+      "target": "ic38",
+      "value": 1.0
+    },
+    {
+      "source": "edwardb",
+      "target": "marcgh",
+      "value": 1.0
+    },
+    {
+      "source": "edwardb",
+      "target": "pritam",
+      "value": 1.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "gdsouza",
+      "value": 6.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "jhah",
+      "value": 3.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "ottestad",
+      "value": 15.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "lesimons",
+      "value": 6.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "sewillia",
+      "value": 3.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "rjram",
+      "value": 6.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "tanders0",
+      "value": 3.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "rbhandar",
+      "value": 6.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "shuestis",
+      "value": 3.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "smackey",
+      "value": 6.0
+    },
+    {
+      "source": "ejkrane",
+      "target": "mgboltz",
+      "value": 6.0
+    },
+    {
+      "source": "elannon",
+      "target": "kenweber",
+      "value": 6.0
+    },
+    {
+      "source": "elannon",
+      "target": "samsukk",
+      "value": 3.0
+    },
+    {
+      "source": "elannon",
+      "target": "smackey",
+      "value": 21.0
+    },
+    {
+      "source": "elannon",
+      "target": "st31589d",
+      "value": 6.0
+    },
+    {
+      "source": "elannon",
+      "target": "mziadni",
+      "value": 3.0
+    },
+    {
+      "source": "eloiseb",
+      "target": "ifeinste",
+      "value": 3.0
+    },
+    {
+      "source": "eloiseb",
+      "target": "marcgh",
+      "value": 21.0
+    },
+    {
+      "source": "eloiseb",
+      "target": "tomin",
+      "value": 15.0
+    },
+    {
+      "source": "eloiseb",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "eloiseb",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "esun1",
+      "value": 58
+    },
+    {
+      "source": "emariano",
+      "target": "mudumbai",
+      "value": 139
+    },
+    {
+      "source": "emariano",
+      "target": "tlrn",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "lmiyachi",
+      "value": 9.0
+    },
+    {
+      "source": "emariano",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "kmulumba",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "epush09",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "showard",
+      "value": 160
+    },
+    {
+      "source": "emariano",
+      "target": "narkin",
+      "value": 6.0
+    },
+    {
+      "source": "emariano",
+      "target": "lchu",
+      "value": 28
+    },
+    {
+      "source": "emariano",
+      "target": "geoffl",
+      "value": 4
+    },
+    {
+      "source": "emariano",
+      "target": "juliewil",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "hornj",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "smackey",
+      "value": 10
+    },
+    {
+      "source": "emariano",
+      "target": "honkanen",
+      "value": 4
+    },
+    {
+      "source": "emariano",
+      "target": "marks9",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "mmuffly",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "gaba",
+      "value": 10
+    },
+    {
+      "source": "emariano",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "ic38",
+      "value": 4
+    },
+    {
+      "source": "emariano",
+      "target": "petercs",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "jbrodsky",
+      "value": 7
+    },
+    {
+      "source": "emariano",
+      "target": "mgboltz",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "otm1",
+      "value": 3.0
+    },
+    {
+      "source": "emariano",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "lrf",
+      "value": 1.0
+    },
+    {
+      "source": "emariano",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "gpeltz",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "emariano",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "epush09",
+      "target": "jansari",
+      "value": 3.0
+    },
+    {
+      "source": "epush09",
+      "target": "psultan",
+      "value": 9.0
+    },
+    {
+      "source": "epush09",
+      "target": "stockert",
+      "value": 3.0
+    },
+    {
+      "source": "epush09",
+      "target": "kazando",
+      "value": 6.0
+    },
+    {
+      "source": "epush09",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "krhee",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "frwere",
+      "value": 18.0
+    },
+    {
+      "source": "ergross",
+      "target": "maciver",
+      "value": 3.0
+    },
+    {
+      "source": "ergross",
+      "target": "hlemmens",
+      "value": 3.0
+    },
+    {
+      "source": "esfahanm",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "esfahanm",
+      "target": "tjcaruso",
+      "value": 6.0
+    },
+    {
+      "source": "esun1",
+      "target": "smackey",
+      "value": 19
+    },
+    {
+      "source": "esun1",
+      "target": "stockert",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "rishel",
+      "value": 18.0
+    },
+    {
+      "source": "esun1",
+      "target": "vikramfs",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "nek",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "vivianne",
+      "value": 4.0
+    },
+    {
+      "source": "esun1",
+      "target": "jhah",
+      "value": 6.0
+    },
+    {
+      "source": "esun1",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "shwald",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "honkanen",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "marks9",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "mmuffly",
+      "value": 3.0
+    },
+    {
+      "source": "esun1",
+      "target": "yeomans",
+      "value": 1.0
+    },
+    {
+      "source": "esun1",
+      "target": "kendig",
+      "value": 1.0
+    },
+    {
+      "source": "esun1",
+      "target": "lchu",
+      "value": 1.0
+    },
+    {
+      "source": "esun1",
+      "target": "ic38",
+      "value": 1.0
+    },
+    {
+      "source": "esun1",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "esun1",
+      "target": "saragf",
+      "value": 1.0
+    },
+    {
+      "source": "esun1",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "esun1",
+      "target": "jnewmark",
+      "value": 1.0
+    },
+    {
+      "source": "esun1",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "esun1",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "esun1",
+      "target": "sikka",
+      "value": 1.0
+    },
+    {
+      "source": "fle8cou",
+      "target": "ifeinste",
+      "value": 3.0
+    },
+    {
+      "source": "fle8cou",
+      "target": "jmadhok1",
+      "value": 3.0
+    },
+    {
+      "source": "fle8cou",
+      "target": "vknayak",
+      "value": 3.0
+    },
+    {
+      "source": "fle8cou",
+      "target": "jbrodt",
+      "value": 6.0
+    },
+    {
+      "source": "fle8cou",
+      "target": "markburb",
+      "value": 6.0
+    },
+    {
+      "source": "fle8cou",
+      "target": "jumbo",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "trama34",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "rkwkim",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "jmadhok1",
+      "value": 15.0
+    },
+    {
+      "source": "fmihm",
+      "target": "fperez",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "ifeinste",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "mvoge",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "pieterva",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "mhr",
+      "value": 6.0
+    },
+    {
+      "source": "fmihm",
+      "target": "ghilton",
+      "value": 3.0
+    },
+    {
+      "source": "fmihm",
+      "target": "rgp",
+      "value": 15.0
+    },
+    {
+      "source": "fmihm",
+      "target": "lrf",
+      "value": 3.0
+    },
+    {
+      "source": "foko",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "foppiano",
+      "target": "jbrodsky",
+      "value": 3.0
+    },
+    {
+      "source": "fperez",
+      "target": "tlrn",
+      "value": 6.0
+    },
+    {
+      "source": "fperez",
+      "target": "jfbarnet",
+      "value": 3.0
+    },
+    {
+      "source": "fperez",
+      "target": "jxie",
+      "value": 15.0
+    },
+    {
+      "source": "fperez",
+      "target": "lnywang",
+      "value": 12.0
+    },
+    {
+      "source": "fperez",
+      "target": "tanders0",
+      "value": 6.0
+    },
+    {
+      "source": "fperez",
+      "target": "honkanen",
+      "value": 3.0
+    },
+    {
+      "source": "gaba",
+      "target": "saragf",
+      "value": 10
+    },
+    {
+      "source": "gaba",
+      "target": "showard",
+      "value": 103
+    },
+    {
+      "source": "gaba",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "gaba",
+      "target": "geoffl",
+      "value": 7
+    },
+    {
+      "source": "gaba",
+      "target": "mudumbai",
+      "value": 9.0
+    },
+    {
+      "source": "gaba",
+      "target": "rfanning",
+      "value": 9.0
+    },
+    {
+      "source": "gaba",
+      "target": "kfish",
+      "value": 9.0
+    },
+    {
+      "source": "gaba",
+      "target": "jbrodsky",
+      "value": 6.0
+    },
+    {
+      "source": "gaba",
+      "target": "secohen",
+      "value": 1.0
+    },
+    {
+      "source": "gaba",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "timangel",
+      "value": 1.0
+    },
+    {
+      "source": "gaba",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "honkanen",
+      "value": 1.0
+    },
+    {
+      "source": "gaba",
+      "target": "lchu",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "gaba",
+      "target": "marcgh",
+      "value": 1.0
+    },
+    {
+      "source": "gaba",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "gdsouza",
+      "target": "jhah",
+      "value": 3.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "janiceym",
+      "value": 6.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "marly",
+      "value": 3.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "rclaure",
+      "value": 6.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "jjfehr",
+      "value": 3.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "juli",
+      "value": 3.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "kaitlinf",
+      "value": 3.0
+    },
+    {
+      "source": "gdsouza",
+      "target": "rjram",
+      "value": 6.0
+    },
+    {
+      "source": "geoffl",
+      "target": "lchu",
+      "value": 13
+    },
+    {
+      "source": "geoffl",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "geoffl",
+      "target": "showard",
+      "value": 7
+    },
+    {
+      "source": "geoffl",
+      "target": "jmadhok1",
+      "value": 3.0
+    },
+    {
+      "source": "geoffl",
+      "target": "gpeltz",
+      "value": 4
+    },
+    {
+      "source": "geoffl",
+      "target": "secohen",
+      "value": 4
+    },
+    {
+      "source": "geoffl",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "jbrodsky",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "rgp",
+      "value": 1.0
+    },
+    {
+      "source": "geoffl",
+      "target": "honkanen",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "geoffl",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "ghilton",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "ghilton",
+      "target": "kfedoruk",
+      "value": 3.0
+    },
+    {
+      "source": "ghilton",
+      "target": "naola",
+      "value": 3.0
+    },
+    {
+      "source": "ghilton",
+      "target": "saragf",
+      "value": 6.0
+    },
+    {
+      "source": "ghilton",
+      "target": "lipman1",
+      "value": 3.0
+    },
+    {
+      "source": "ghilton",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "gpeltz",
+      "target": "lwd97",
+      "value": 3.0
+    },
+    {
+      "source": "gpeltz",
+      "target": "sshafer",
+      "value": 21.0
+    },
+    {
+      "source": "gpeltz",
+      "target": "lchu",
+      "value": 10
+    },
+    {
+      "source": "gpeltz",
+      "target": "rgiffard",
+      "value": 4
+    },
+    {
+      "source": "gpeltz",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "gpeltz",
+      "target": "yeomans",
+      "value": 7
+    },
+    {
+      "source": "gpeltz",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "hking",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "jnewmark",
+      "value": 1.0
+    },
+    {
+      "source": "gpeltz",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "gpeltz",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "grantmcf",
+      "target": "manchuln",
+      "value": 3.0
+    },
+    {
+      "source": "grantmcf",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "hking",
+      "target": "smackey",
+      "value": 16
+    },
+    {
+      "source": "hking",
+      "target": "mziadni",
+      "value": 9.0
+    },
+    {
+      "source": "hking",
+      "target": "nevillea",
+      "value": 3.0
+    },
+    {
+      "source": "hking",
+      "target": "kristen3",
+      "value": 6.0
+    },
+    {
+      "source": "hking",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "hking",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "hking",
+      "target": "xqian",
+      "value": 4
+    },
+    {
+      "source": "hking",
+      "target": "mckao",
+      "value": 3.0
+    },
+    {
+      "source": "hking",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "hking",
+      "target": "secohen",
+      "value": 1.0
+    },
+    {
+      "source": "hking",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "kendig",
+      "value": 1.0
+    },
+    {
+      "source": "hking",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "rgiffard",
+      "value": 1.0
+    },
+    {
+      "source": "hking",
+      "target": "lchu",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "ic38",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "hking",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "hking",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "hlemmens",
+      "target": "nek",
+      "value": 15.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "jbrodsky",
+      "value": 66.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "pieterva",
+      "value": 9.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "lsaidman",
+      "value": 12.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "timangel",
+      "value": 3.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "sshafer",
+      "value": 27.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "sgsastry",
+      "value": 3.0
+    },
+    {
+      "source": "hlemmens",
+      "target": "rgiffard",
+      "value": 3.0
+    },
+    {
+      "source": "honkanen",
+      "target": "jjfehr",
+      "value": 6.0
+    },
+    {
+      "source": "honkanen",
+      "target": "oalbert",
+      "value": 3.0
+    },
+    {
+      "source": "honkanen",
+      "target": "marks9",
+      "value": 27.0
+    },
+    {
+      "source": "honkanen",
+      "target": "mmuffly",
+      "value": 21.0
+    },
+    {
+      "source": "honkanen",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "honkanen",
+      "target": "mudumbai",
+      "value": 7.0
+    },
+    {
+      "source": "honkanen",
+      "target": "michael1",
+      "value": 3.0
+    },
+    {
+      "source": "honkanen",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "honkanen",
+      "target": "maciver",
+      "value": 1.0
+    },
+    {
+      "source": "honkanen",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "honkanen",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "honkanen",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "honkanen",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "honkanen",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "honkanen",
+      "target": "pritam",
+      "value": 1.0
+    },
+    {
+      "source": "hornj",
+      "target": "jboublik",
+      "value": 12.0
+    },
+    {
+      "source": "hornj",
+      "target": "jbrodt",
+      "value": 9.0
+    },
+    {
+      "source": "hornj",
+      "target": "rkwkim",
+      "value": 3.0
+    },
+    {
+      "source": "hornj",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "hornj",
+      "target": "tjcaruso",
+      "value": 6.0
+    },
+    {
+      "source": "ic38",
+      "target": "smackey",
+      "value": 94
+    },
+    {
+      "source": "ic38",
+      "target": "jhah",
+      "value": 72.0
+    },
+    {
+      "source": "ic38",
+      "target": "petercs",
+      "value": 33.0
+    },
+    {
+      "source": "ic38",
+      "target": "vivianne",
+      "value": 25
+    },
+    {
+      "source": "ic38",
+      "target": "jansari",
+      "value": 3.0
+    },
+    {
+      "source": "ic38",
+      "target": "mbarad",
+      "value": 9.0
+    },
+    {
+      "source": "ic38",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "ic38",
+      "target": "lchu",
+      "value": 22
+    },
+    {
+      "source": "ic38",
+      "target": "ottestad",
+      "value": 6.0
+    },
+    {
+      "source": "ic38",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "kendig",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "lrf",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "jbrodsky",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "mudumbai",
+      "value": 1.0
+    },
+    {
+      "source": "ic38",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "ic38",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "ifeinste",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "ifeinste",
+      "target": "vikramfs",
+      "value": 3.0
+    },
+    {
+      "source": "ifeinste",
+      "target": "jmadhok1",
+      "value": 3.0
+    },
+    {
+      "source": "ifeinste",
+      "target": "vknayak",
+      "value": 3.0
+    },
+    {
+      "source": "janiceym",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "janiceym",
+      "target": "marly",
+      "value": 3.0
+    },
+    {
+      "source": "janiceym",
+      "target": "rclaure",
+      "value": 6.0
+    },
+    {
+      "source": "janiceym",
+      "target": "jjfehr",
+      "value": 3.0
+    },
+    {
+      "source": "janiceym",
+      "target": "juli",
+      "value": 3.0
+    },
+    {
+      "source": "jansari",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "jansari",
+      "target": "nkoons",
+      "value": 3.0
+    },
+    {
+      "source": "jansari",
+      "target": "psultan",
+      "value": 6.0
+    },
+    {
+      "source": "jansari",
+      "target": "sshafer",
+      "value": 12.0
+    },
+    {
+      "source": "jansari",
+      "target": "pflood",
+      "value": 18.0
+    },
+    {
+      "source": "jansari",
+      "target": "stockert",
+      "value": 3.0
+    },
+    {
+      "source": "jansari",
+      "target": "mbarad",
+      "value": 6.0
+    },
+    {
+      "source": "jansari",
+      "target": "jboublik",
+      "value": 3.0
+    },
+    {
+      "source": "jansari",
+      "target": "sastone",
+      "value": 6.0
+    },
+    {
+      "source": "javierl",
+      "target": "pminot2",
+      "value": 6.0
+    },
+    {
+      "source": "javierl",
+      "target": "jcmcavoy",
+      "value": 3.0
+    },
+    {
+      "source": "jbaden",
+      "target": "mazze",
+      "value": 45.0
+    },
+    {
+      "source": "jboublik",
+      "target": "rkwkim",
+      "value": 6.0
+    },
+    {
+      "source": "jboublik",
+      "target": "tanders0",
+      "value": 3.0
+    },
+    {
+      "source": "jboublik",
+      "target": "jbrodt",
+      "value": 6.0
+    },
+    {
+      "source": "jboublik",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "jboublik",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "lsaidman",
+      "value": 9.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "jcmcavoy",
+      "value": 6.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "ptanaka",
+      "value": 6.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "viveknk",
+      "value": 12.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "showard",
+      "value": 1.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "maciver",
+      "value": 1.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "lrf",
+      "value": 1.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "jnewmark",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "vivianne",
+      "value": 1.0
+    },
+    {
+      "source": "jbrodsky",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "jbrodsky",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "jbrodt",
+      "target": "jumbo",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "manchuln",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "nbodmer2",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "lmiyachi",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "rkwkim",
+      "value": 6.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "mvoge",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "jcmcavoy",
+      "value": 3.0
+    },
+    {
+      "source": "jbrodt",
+      "target": "markburb",
+      "value": 6.0
+    },
+    {
+      "source": "jcmcavoy",
+      "target": "trama34",
+      "value": 3.0
+    },
+    {
+      "source": "jcmcavoy",
+      "target": "markburb",
+      "value": 3.0
+    },
+    {
+      "source": "jfundaun",
+      "target": "kenweber",
+      "value": 3.0
+    },
+    {
+      "source": "jhah",
+      "target": "vsalmasi",
+      "value": 12.0
+    },
+    {
+      "source": "jhah",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "jhah",
+      "target": "mbarad",
+      "value": 18.0
+    },
+    {
+      "source": "jhah",
+      "target": "smackey",
+      "value": 81.0
+    },
+    {
+      "source": "jhah",
+      "target": "ottestad",
+      "value": 12.0
+    },
+    {
+      "source": "jhah",
+      "target": "petercs",
+      "value": 27.0
+    },
+    {
+      "source": "jhah",
+      "target": "tlii",
+      "value": 3.0
+    },
+    {
+      "source": "jhah",
+      "target": "mziadni",
+      "value": 15.0
+    },
+    {
+      "source": "jhah",
+      "target": "ngregory",
+      "value": 3.0
+    },
+    {
+      "source": "jhah",
+      "target": "kenweber",
+      "value": 3.0
+    },
+    {
+      "source": "jhah",
+      "target": "mckao",
+      "value": 3.0
+    },
+    {
+      "source": "jhah",
+      "target": "vivianne",
+      "value": 6.0
+    },
+    {
+      "source": "jjfehr",
+      "target": "jxie",
+      "value": 3.0
+    },
+    {
+      "source": "jjfehr",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "jjfehr",
+      "target": "tanders0",
+      "value": 3.0
+    },
+    {
+      "source": "jjfehr",
+      "target": "juli",
+      "value": 3.0
+    },
+    {
+      "source": "jjfehr",
+      "target": "rclaure",
+      "value": 3.0
+    },
+    {
+      "source": "jjfehr",
+      "target": "mberger1",
+      "value": 12.0
+    },
+    {
+      "source": "jliaomd",
+      "target": "oeminaga",
+      "value": 15.0
+    },
+    {
+      "source": "jmadhok1",
+      "target": "mwvannem",
+      "value": 9.0
+    },
+    {
+      "source": "jmadhok1",
+      "target": "nbodmer2",
+      "value": 3.0
+    },
+    {
+      "source": "jmadhok1",
+      "target": "vknayak",
+      "value": 6.0
+    },
+    {
+      "source": "jmadhok1",
+      "target": "mvoge",
+      "value": 6.0
+    },
+    {
+      "source": "jnewmark",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "kendig",
+      "value": 1.0
+    },
+    {
+      "source": "jnewmark",
+      "target": "lrf",
+      "value": 1.0
+    },
+    {
+      "source": "jnewmark",
+      "target": "timangel",
+      "value": 1.0
+    },
+    {
+      "source": "jnewmark",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "rgiffard",
+      "value": 1.0
+    },
+    {
+      "source": "jnewmark",
+      "target": "lchu",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "mudumbai",
+      "value": 1.0
+    },
+    {
+      "source": "jnewmark",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "jnewmark",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "juli",
+      "target": "jumbo",
+      "value": 9.0
+    },
+    {
+      "source": "juli",
+      "target": "manchuln",
+      "value": 6.0
+    },
+    {
+      "source": "juli",
+      "target": "oalbert",
+      "value": 3.0
+    },
+    {
+      "source": "juli",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "juli",
+      "target": "rclaure",
+      "value": 6.0
+    },
+    {
+      "source": "juli",
+      "target": "mmuffly",
+      "value": 3.0
+    },
+    {
+      "source": "julieg",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "julieg",
+      "target": "tkung",
+      "value": 3.0
+    },
+    {
+      "source": "julieg",
+      "target": "lrf",
+      "value": 3.0
+    },
+    {
+      "source": "jumbo",
+      "target": "manchuln",
+      "value": 15.0
+    },
+    {
+      "source": "jumbo",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "jumbo",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "jumbo",
+      "target": "kkamra",
+      "value": 18.0
+    },
+    {
+      "source": "jumbo",
+      "target": "mmuffly",
+      "value": 3.0
+    },
+    {
+      "source": "jumbo",
+      "target": "rclaure",
+      "value": 3.0
+    },
+    {
+      "source": "jumbo",
+      "target": "mgboltz",
+      "value": 15.0
+    },
+    {
+      "source": "jumbo",
+      "target": "marly",
+      "value": 3.0
+    },
+    {
+      "source": "jumbo",
+      "target": "lchu",
+      "value": 6.0
+    },
+    {
+      "source": "jxie",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "lnywang",
+      "value": 30.0
+    },
+    {
+      "source": "jxie",
+      "target": "mudumbai",
+      "value": 6.0
+    },
+    {
+      "source": "jxie",
+      "target": "nkoons",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "krhee",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "kfedoruk",
+      "value": 3.0
+    },
+    {
+      "source": "jxie",
+      "target": "rjram",
+      "value": 6.0
+    },
+    {
+      "source": "jxie",
+      "target": "tanders0",
+      "value": 9.0
+    },
+    {
+      "source": "jxie",
+      "target": "yeomans",
+      "value": 3.0
+    },
+    {
+      "source": "kaitlinf",
+      "target": "kkamra",
+      "value": 3.0
+    },
+    {
+      "source": "kaitlinf",
+      "target": "manchuln",
+      "value": 3.0
+    },
+    {
+      "source": "kazando",
+      "target": "timangel",
+      "value": 3.0
+    },
+    {
+      "source": "kazando",
+      "target": "psultan",
+      "value": 27.0
+    },
+    {
+      "source": "kazando",
+      "target": "teresan1",
+      "value": 3.0
+    },
+    {
+      "source": "kazando",
+      "target": "pflood",
+      "value": 12.0
+    },
+    {
+      "source": "kendig",
+      "target": "yeomans",
+      "value": 4
+    },
+    {
+      "source": "kendig",
+      "target": "maciver",
+      "value": 4
+    },
+    {
+      "source": "kendig",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "lchu",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "mudumbai",
+      "value": 1.0
+    },
+    {
+      "source": "kendig",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "kendig",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "kenweber",
+      "target": "smackey",
+      "value": 72.0
+    },
+    {
+      "source": "kenweber",
+      "target": "samsukk",
+      "value": 3.0
+    },
+    {
+      "source": "kenweber",
+      "target": "st31589d",
+      "value": 3.0
+    },
+    {
+      "source": "kenweber",
+      "target": "mkaptan",
+      "value": 3.0
+    },
+    {
+      "source": "kenweber",
+      "target": "mziadni",
+      "value": 6.0
+    },
+    {
+      "source": "kfedoruk",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "kfedoruk",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "kfish",
+      "target": "showard",
+      "value": 9.0
+    },
+    {
+      "source": "kkamra",
+      "target": "manchuln",
+      "value": 3.0
+    },
+    {
+      "source": "kkamra",
+      "target": "mgboltz",
+      "value": 12.0
+    },
+    {
+      "source": "kkamra",
+      "target": "lchu",
+      "value": 6.0
+    },
+    {
+      "source": "kleina",
+      "target": "mlennig",
+      "value": 6.0
+    },
+    {
+      "source": "kleina",
+      "target": "zoelq",
+      "value": 6.0
+    },
+    {
+      "source": "kleina",
+      "target": "nhasan",
+      "value": 6.0
+    },
+    {
+      "source": "kleina",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "kleina",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "kmulumba",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "krhee",
+      "target": "sunl",
+      "value": 6.0
+    },
+    {
+      "source": "krhee",
+      "target": "lhan2",
+      "value": 3.0
+    },
+    {
+      "source": "krhee",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "krhee",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "krhee",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "krhee",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "krhee",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "kristen3",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "kristen3",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "kristen3",
+      "target": "xqian",
+      "value": 3.0
+    },
+    {
+      "source": "kristen3",
+      "target": "mziadni",
+      "value": 3.0
+    },
+    {
+      "source": "kristen3",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "kspeirs",
+      "target": "saragf",
+      "value": 3.0
+    },
+    {
+      "source": "lchu",
+      "target": "rgp",
+      "value": 18.0
+    },
+    {
+      "source": "lchu",
+      "target": "smackey",
+      "value": 7
+    },
+    {
+      "source": "lchu",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "lchu",
+      "target": "mgboltz",
+      "value": 6.0
+    },
+    {
+      "source": "lchu",
+      "target": "secohen",
+      "value": 7
+    },
+    {
+      "source": "lchu",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "lchu",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "lesimons",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "lchu",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "leharr",
+      "target": "nevillea",
+      "value": 6.0
+    },
+    {
+      "source": "leharr",
+      "target": "rbhandar",
+      "value": 15.0
+    },
+    {
+      "source": "leharr",
+      "target": "lesimons",
+      "value": 54.0
+    },
+    {
+      "source": "leharr",
+      "target": "sewillia",
+      "value": 3.0
+    },
+    {
+      "source": "leharr",
+      "target": "mziadni",
+      "value": 3.0
+    },
+    {
+      "source": "lesimons",
+      "target": "sewillia",
+      "value": 9.0
+    },
+    {
+      "source": "lesimons",
+      "target": "sr1",
+      "value": 12.0
+    },
+    {
+      "source": "lesimons",
+      "target": "tjcaruso",
+      "value": 15.0
+    },
+    {
+      "source": "lesimons",
+      "target": "rbhandar",
+      "value": 21.0
+    },
+    {
+      "source": "lesimons",
+      "target": "nevillea",
+      "value": 9.0
+    },
+    {
+      "source": "lesimons",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "lesimons",
+      "target": "mziadni",
+      "value": 3.0
+    },
+    {
+      "source": "lesimons",
+      "target": "lnywang",
+      "value": 6.0
+    },
+    {
+      "source": "lesimons",
+      "target": "shuestis",
+      "value": 3.0
+    },
+    {
+      "source": "lesimons",
+      "target": "secohen",
+      "value": 1.0
+    },
+    {
+      "source": "lesimons",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "maciver",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "lrf",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "lesimons",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "lhan2",
+      "target": "lnywang",
+      "value": 3.0
+    },
+    {
+      "source": "lhan2",
+      "target": "mudumbai",
+      "value": 3.0
+    },
+    {
+      "source": "lhan2",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "lhan2",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "lhan2",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "lhan2",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "lhan2",
+      "target": "mcchen8",
+      "value": 6.0
+    },
+    {
+      "source": "lhan2",
+      "target": "mbarad",
+      "value": 3.0
+    },
+    {
+      "source": "lipman1",
+      "target": "naola",
+      "value": 3.0
+    },
+    {
+      "source": "lipman1",
+      "target": "saragf",
+      "value": 6.0
+    },
+    {
+      "source": "lipman1",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "lipman1",
+      "target": "secohen",
+      "value": 21.0
+    },
+    {
+      "source": "ljd14",
+      "target": "vivianne",
+      "value": 15.0
+    },
+    {
+      "source": "lmiyachi",
+      "target": "mwvannem",
+      "value": 6.0
+    },
+    {
+      "source": "lmiyachi",
+      "target": "perin",
+      "value": 9.0
+    },
+    {
+      "source": "lmiyachi",
+      "target": "nbodmer2",
+      "value": 3.0
+    },
+    {
+      "source": "lmiyachi",
+      "target": "narkin",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "mudumbai",
+      "value": 6.0
+    },
+    {
+      "source": "lnywang",
+      "target": "tjcaruso",
+      "value": 117.0
+    },
+    {
+      "source": "lnywang",
+      "target": "sr1",
+      "value": 72.0
+    },
+    {
+      "source": "lnywang",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "marly",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "rclaure",
+      "value": 6.0
+    },
+    {
+      "source": "lnywang",
+      "target": "michael1",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "tanders0",
+      "value": 18.0
+    },
+    {
+      "source": "lnywang",
+      "target": "sewillia",
+      "value": 3.0
+    },
+    {
+      "source": "lnywang",
+      "target": "tkung",
+      "value": 3.0
+    },
+    {
+      "source": "lrf",
+      "target": "secohen",
+      "value": 1.0
+    },
+    {
+      "source": "lrf",
+      "target": "showard",
+      "value": 1.0
+    },
+    {
+      "source": "lrf",
+      "target": "smackey",
+      "value": 1.0
+    },
+    {
+      "source": "lrf",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "lrf",
+      "target": "marcgh",
+      "value": 1.0
+    },
+    {
+      "source": "lsaidman",
+      "target": "sshafer",
+      "value": 6.0
+    },
+    {
+      "source": "lsaidman",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "lsaidman",
+      "target": "saragf",
+      "value": 3.0
+    },
+    {
+      "source": "lsaidman",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "maciver",
+      "target": "rgiffard",
+      "value": 13
+    },
+    {
+      "source": "maciver",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "maciver",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "marcgh",
+      "value": 1
+    },
+    {
+      "source": "maciver",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "manchuln",
+      "target": "mlennig",
+      "value": 3.0
+    },
+    {
+      "source": "manchuln",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "manchuln",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "manchuln",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "marcgh",
+      "target": "tomin",
+      "value": 15.0
+    },
+    {
+      "source": "marcgh",
+      "target": "smackey",
+      "value": 4
+    },
+    {
+      "source": "marcgh",
+      "target": "vivianne",
+      "value": 4
+    },
+    {
+      "source": "marcgh",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "mudumbai",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "marcgh",
+      "target": "pritam",
+      "value": 1
+    },
+    {
+      "source": "markburb",
+      "target": "pochebm",
+      "value": 3.0
+    },
+    {
+      "source": "markburb",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "markburb",
+      "target": "mrebecca",
+      "value": 3.0
+    },
+    {
+      "source": "markburb",
+      "target": "sastone",
+      "value": 9.0
+    },
+    {
+      "source": "markburb",
+      "target": "rgp",
+      "value": 3.0
+    },
+    {
+      "source": "markburb",
+      "target": "ptanaka",
+      "value": 3.0
+    },
+    {
+      "source": "marks9",
+      "target": "mmuffly",
+      "value": 21.0
+    },
+    {
+      "source": "marly",
+      "target": "rclaure",
+      "value": 3.0
+    },
+    {
+      "source": "marly",
+      "target": "timangel",
+      "value": 3.0
+    },
+    {
+      "source": "mazze",
+      "target": "secohen",
+      "value": 3.0
+    },
+    {
+      "source": "mbarad",
+      "target": "xqian",
+      "value": 3.0
+    },
+    {
+      "source": "mbarad",
+      "target": "pflood",
+      "value": 9.0
+    },
+    {
+      "source": "mbarad",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "mbarad",
+      "target": "smackey",
+      "value": 15.0
+    },
+    {
+      "source": "mcchen8",
+      "target": "ptanaka",
+      "value": 6.0
+    },
+    {
+      "source": "mckao",
+      "target": "mziadni",
+      "value": 21.0
+    },
+    {
+      "source": "mckao",
+      "target": "smackey",
+      "value": 84.0
+    },
+    {
+      "source": "mckao",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "mckao",
+      "target": "msleong",
+      "value": 18.0
+    },
+    {
+      "source": "mckao",
+      "target": "pflood",
+      "value": 21.0
+    },
+    {
+      "source": "mh1",
+      "target": "ppurdon",
+      "value": 3.0
+    },
+    {
+      "source": "mhr",
+      "target": "rgp",
+      "value": 24.0
+    },
+    {
+      "source": "michael1",
+      "target": "tjcaruso",
+      "value": 9.0
+    },
+    {
+      "source": "michael1",
+      "target": "mmuffly",
+      "value": 6.0
+    },
+    {
+      "source": "michael1",
+      "target": "rclaure",
+      "value": 9.0
+    },
+    {
+      "source": "michael1",
+      "target": "rfanning",
+      "value": 3.0
+    },
+    {
+      "source": "michael1",
+      "target": "shwald",
+      "value": 3.0
+    },
+    {
+      "source": "mkaptan",
+      "target": "smackey",
+      "value": 24.0
+    },
+    {
+      "source": "mlennig",
+      "target": "zoelq",
+      "value": 9.0
+    },
+    {
+      "source": "mlennig",
+      "target": "sr1",
+      "value": 3.0
+    },
+    {
+      "source": "mmuffly",
+      "target": "rjram",
+      "value": 9.0
+    },
+    {
+      "source": "mmuffly",
+      "target": "rclaure",
+      "value": 6.0
+    },
+    {
+      "source": "mnemenov",
+      "target": "yeomans",
+      "value": 9.0
+    },
+    {
+      "source": "mnemenov",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "msleong",
+      "target": "ottestad",
+      "value": 3.0
+    },
+    {
+      "source": "msleong",
+      "target": "vsalmasi",
+      "value": 6.0
+    },
+    {
+      "source": "msleong",
+      "target": "smackey",
+      "value": 24.0
+    },
+    {
+      "source": "msleong",
+      "target": "pflood",
+      "value": 6.0
+    },
+    {
+      "source": "msleong",
+      "target": "xqian",
+      "value": 3.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "mwvannem",
+      "value": 3.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "showard",
+      "value": 46
+    },
+    {
+      "source": "mudumbai",
+      "target": "rfanning",
+      "value": 3.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "mudumbai",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "mudumbai",
+      "target": "rgiffard",
+      "value": 1.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "mudumbai",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "mudumbai",
+      "target": "vivianne",
+      "value": 1.0
+    },
+    {
+      "source": "mudumbai",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "mudumbai",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "mudumbai",
+      "target": "pritam",
+      "value": 1.0
+    },
+    {
+      "source": "mvoge",
+      "target": "vikramfs",
+      "value": 3.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "perin",
+      "value": 21.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "sunl",
+      "value": 9.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "vikramfs",
+      "value": 30.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "nbodmer2",
+      "value": 21.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "mwvannem",
+      "target": "trfeng",
+      "value": 3.0
+    },
+    {
+      "source": "mziadni",
+      "target": "st31589d",
+      "value": 9.0
+    },
+    {
+      "source": "mziadni",
+      "target": "smackey",
+      "value": 105.0
+    },
+    {
+      "source": "mziadni",
+      "target": "tlii",
+      "value": 6.0
+    },
+    {
+      "source": "mziadni",
+      "target": "pflood",
+      "value": 24.0
+    },
+    {
+      "source": "mziadni",
+      "target": "vsalmasi",
+      "value": 6.0
+    },
+    {
+      "source": "naola",
+      "target": "rfanning",
+      "value": 3.0
+    },
+    {
+      "source": "naola",
+      "target": "saragf",
+      "value": 9.0
+    },
+    {
+      "source": "naola",
+      "target": "yeomans",
+      "value": 12.0
+    },
+    {
+      "source": "nazi1",
+      "target": "yeomans",
+      "value": 3.0
+    },
+    {
+      "source": "nbodmer2",
+      "target": "perin",
+      "value": 15.0
+    },
+    {
+      "source": "nbodmer2",
+      "target": "sunl",
+      "value": 6.0
+    },
+    {
+      "source": "nbodmer2",
+      "target": "tjcaruso",
+      "value": 6.0
+    },
+    {
+      "source": "nbodmer2",
+      "target": "vikramfs",
+      "value": 3.0
+    },
+    {
+      "source": "nek",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "nevillea",
+      "target": "rbhandar",
+      "value": 3.0
+    },
+    {
+      "source": "ngregory",
+      "target": "vsalmasi",
+      "value": 3.0
+    },
+    {
+      "source": "nhasan",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "nhasan",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "nhasan",
+      "target": "ptanaka",
+      "value": 6.0
+    },
+    {
+      "source": "ottestad",
+      "target": "vsalmasi",
+      "value": 15.0
+    },
+    {
+      "source": "ottestad",
+      "target": "xqian",
+      "value": 3.0
+    },
+    {
+      "source": "ottestad",
+      "target": "pflood",
+      "value": 3.0
+    },
+    {
+      "source": "ottestad",
+      "target": "smackey",
+      "value": 6.0
+    },
+    {
+      "source": "ottestad",
+      "target": "vivianne",
+      "value": 12.0
+    },
+    {
+      "source": "ottestad",
+      "target": "viveknk",
+      "value": 3.0
+    },
+    {
+      "source": "perin",
+      "target": "vikramfs",
+      "value": 3.0
+    },
+    {
+      "source": "perin",
+      "target": "trfeng",
+      "value": 3.0
+    },
+    {
+      "source": "petercs",
+      "target": "smackey",
+      "value": 36.0
+    },
+    {
+      "source": "pflood",
+      "target": "sshafer",
+      "value": 30.0
+    },
+    {
+      "source": "pflood",
+      "target": "smackey",
+      "value": 18.0
+    },
+    {
+      "source": "pflood",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "pflood",
+      "target": "psultan",
+      "value": 3.0
+    },
+    {
+      "source": "pflood",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "pieterva",
+      "target": "vknayak",
+      "value": 3.0
+    },
+    {
+      "source": "pkalra",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "pochebm",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "pritam",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "rgiffard",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "saragf",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "pritam",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "psultan",
+      "target": "stockert",
+      "value": 6.0
+    },
+    {
+      "source": "psultan",
+      "target": "teresan1",
+      "value": 15.0
+    },
+    {
+      "source": "psultan",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "psultan",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "psultan",
+      "target": "saragf",
+      "value": 3.0
+    },
+    {
+      "source": "psultan",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "ptanaka",
+      "target": "rictreml",
+      "value": 3.0
+    },
+    {
+      "source": "ptanaka",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "ptanaka",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "rbhandar",
+      "target": "shuestis",
+      "value": 15.0
+    },
+    {
+      "source": "rbhandar",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "rclaure",
+      "target": "rfanning",
+      "value": 3.0
+    },
+    {
+      "source": "rfanning",
+      "target": "saragf",
+      "value": 3.0
+    },
+    {
+      "source": "rfanning",
+      "target": "showard",
+      "value": 3.0
+    },
+    {
+      "source": "rgiffard",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "rgiffard",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "rgp",
+      "target": "saffary",
+      "value": 3.0
+    },
+    {
+      "source": "rgp",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "rgp",
+      "target": "sgsastry",
+      "value": 3.0
+    },
+    {
+      "source": "rgp",
+      "target": "shwald",
+      "value": 9.0
+    },
+    {
+      "source": "rgp",
+      "target": "sshafer",
+      "value": 3.0
+    },
+    {
+      "source": "rgp",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "rjram",
+      "target": "tanders0",
+      "value": 3.0
+    },
+    {
+      "source": "rkwkim",
+      "target": "timangel",
+      "value": 3.0
+    },
+    {
+      "source": "rkwkim",
+      "target": "sjpan",
+      "value": 3.0
+    },
+    {
+      "source": "rkwkim",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "saffary",
+      "target": "sunl",
+      "value": 3.0
+    },
+    {
+      "source": "saffary",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "samsukk",
+      "target": "smackey",
+      "value": 9.0
+    },
+    {
+      "source": "samsukk",
+      "target": "st31589d",
+      "value": 3.0
+    },
+    {
+      "source": "saragf",
+      "target": "shwald",
+      "value": 3.0
+    },
+    {
+      "source": "saragf",
+      "target": "showard",
+      "value": 16
+    },
+    {
+      "source": "saragf",
+      "target": "secohen",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "saragf",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "showard",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "timangel",
+      "value": 1.0
+    },
+    {
+      "source": "secohen",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "secohen",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "secohen",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "sewillia",
+      "target": "sr1",
+      "value": 3.0
+    },
+    {
+      "source": "sewillia",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "sgsastry",
+      "target": "shwald",
+      "value": 3.0
+    },
+    {
+      "source": "showard",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "showard",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "showard",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "showard",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "showard",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "showard",
+      "target": "vivianne",
+      "value": 1.0
+    },
+    {
+      "source": "showard",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "showard",
+      "target": "sikka",
+      "value": 1
+    },
+    {
+      "source": "shuestis",
+      "target": "smackey",
+      "value": 3.0
+    },
+    {
+      "source": "sikka",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "sikka",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "sikka",
+      "target": "smackey",
+      "value": 1
+    },
+    {
+      "source": "sikka",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "sikka",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "sikka",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "sikka",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "sjpan",
+      "target": "tjcaruso",
+      "value": 6.0
+    },
+    {
+      "source": "smackey",
+      "target": "st31589d",
+      "value": 9.0
+    },
+    {
+      "source": "smackey",
+      "target": "vsalmasi",
+      "value": 18.0
+    },
+    {
+      "source": "smackey",
+      "target": "tlii",
+      "value": 9.0
+    },
+    {
+      "source": "smackey",
+      "target": "tomin",
+      "value": 3.0
+    },
+    {
+      "source": "smackey",
+      "target": "vivianne",
+      "value": 16
+    },
+    {
+      "source": "smackey",
+      "target": "stevenf",
+      "value": 3.0
+    },
+    {
+      "source": "smackey",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "smackey",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "smackey",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "smackey",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "smackey",
+      "target": "tanders0",
+      "value": 1
+    },
+    {
+      "source": "sr1",
+      "target": "tjcaruso",
+      "value": 114.0
+    },
+    {
+      "source": "sr1",
+      "target": "tkung",
+      "value": 3.0
+    },
+    {
+      "source": "sshafer",
+      "target": "yeomans",
+      "value": 3.0
+    },
+    {
+      "source": "sunl",
+      "target": "vikramfs",
+      "value": 9.0
+    },
+    {
+      "source": "sunl",
+      "target": "vristovi",
+      "value": 3.0
+    },
+    {
+      "source": "sunl",
+      "target": "zoelq",
+      "value": 3.0
+    },
+    {
+      "source": "tanders0",
+      "target": "yeomans",
+      "value": 10
+    },
+    {
+      "source": "tanders0",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "tanders0",
+      "target": "timangel",
+      "value": 1
+    },
+    {
+      "source": "tanders0",
+      "target": "vikramfs",
+      "value": 1
+    },
+    {
+      "source": "tanders0",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "tanders0",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "teresan1",
+      "target": "tjcaruso",
+      "value": 3.0
+    },
+    {
+      "source": "teresan1",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "timangel",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "timangel",
+      "target": "vikramfs",
+      "value": 1.0
+    },
+    {
+      "source": "timangel",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "timangel",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "tjcaruso",
+      "target": "tlrn",
+      "value": 3.0
+    },
+    {
+      "source": "tjcaruso",
+      "target": "tkung",
+      "value": 9.0
+    },
+    {
+      "source": "tlii",
+      "target": "vsalmasi",
+      "value": 6.0
+    },
+    {
+      "source": "tomin",
+      "target": "vivianne",
+      "value": 3.0
+    },
+    {
+      "source": "vikramfs",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "vikramfs",
+      "target": "xqian",
+      "value": 1
+    },
+    {
+      "source": "vikramfs",
+      "target": "vivianne",
+      "value": 1
+    },
+    {
+      "source": "vivianne",
+      "target": "yeomans",
+      "value": 1
+    },
+    {
+      "source": "vivianne",
+      "target": "xqian",
+      "value": 1.0
+    },
+    {
+      "source": "vsalmasi",
+      "target": "xqian",
+      "value": 3.0
+    },
+    {
+      "source": "xqian",
+      "target": "yeomans",
+      "value": 1
+    }
+  ]
+}
